@@ -1,0 +1,478 @@
+<!DOCTYPE html>
+<html lang="ja" class="dark">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JP Stock Themes | 日本株テーマトラッカー</title>
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;700&display=swap"
+        rel="stylesheet">
+
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'Noto Sans JP', 'sans-serif'],
+                    },
+                    colors: {
+                        dark: {
+                            bg: '#0E1117',
+                            card: '#1A1D24',
+                            border: '#2E333D',
+                            text: '#E0E0E0'
+                        },
+                        brand: {
+                            green: '#00CC96',
+                            red: '#EF553B',
+                            accent: '#3B82F6'
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+
+    <!-- React & Libraries (With Crossorigin) -->
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+
+    <!-- Babel (Robust Version) -->
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+    <!-- Plotly -->
+    <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+
+    <!-- Framer Motion (Window Global Version) -->
+    <script src="https://unpkg.com/framer-motion@10.16.4/dist/framer-motion.js"></script>
+
+    <style>
+        body {
+            background-color: #0E1117;
+            color: #E0E0E0;
+            font-family: 'Inter', 'Noto Sans JP', sans-serif;
+        }
+
+        .glass-panel {
+            background: rgba(26, 29, 36, 0.7);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+        }
+
+        .no-scrollbar::-webkit-scrollbar {
+            display: none;
+        }
+
+        .no-scrollbar {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="root" class="flex items-center justify-center min-h-screen text-gray-500">
+        読み込み中...
+    </div>
+
+    <script type="text/babel" data-presets="env,react">
+        // Basic Error Boundary
+        window.onerror = function (msg, url, lineNo, columnNo, error) {
+            const root = document.getElementById('root');
+            root.innerHTML = `<div style="color:red; padding:20px;">
+                <h2>アプリケーションエラー</h2>
+                <p>${msg}</p>
+                <p>行番号: ${lineNo}</p>
+            </div>`;
+            return false;
+        };
+
+        const { useState, useEffect, useRef, useMemo } = React;
+        // Robust Framer Motion Access
+        const MotionLib = window.Motion;
+        const motion = MotionLib ? MotionLib.motion : null;
+        const AnimatePresence = MotionLib ? MotionLib.AnimatePresence : null;
+
+        // --- Icons (Inline SVGs) ---
+        const Icon = ({ path, color = "currentColor", size = 20, className = "" }) => (
+            <svg xmlns="http://www.w3.org/2000/svg" width={size} height={size} viewBox="0 0 24 24" fill="none" stroke={color} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className={className}>
+                {path}
+            </svg>
+        );
+        const TrendingUp = (props) => <Icon {...props} path={<><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"></polyline><polyline points="17 6 23 6 23 12"></polyline></>} />;
+        const TrendingDown = (props) => <Icon {...props} path={<><polyline points="23 18 13.5 8.5 8.5 13.5 1 6"></polyline><polyline points="17 18 23 18 23 12"></polyline></>} />;
+        const ChevronDown = (props) => <Icon {...props} path={<polyline points="6 9 12 15 18 9"></polyline>} />;
+        const ChevronUp = (props) => <Icon {...props} path={<polyline points="18 15 12 9 6 15"></polyline>} />;
+        const ChevronLeft = (props) => <Icon {...props} path={<polyline points="15 18 9 12 15 6"></polyline>} />;
+        const BarChart3 = (props) => <Icon {...props} path={<><path d="M3 3v18h18" /><path d="M18 17V9" /><path d="M13 17V5" /><path d="M8 17v-3" /></>} />;
+
+        // --- Components ---
+
+        const Sparkline = ({ data, color }) => {
+            const min = Math.min(...data);
+            const max = Math.max(...data);
+            const range = max - min || 1;
+            const points = data.map((val, i) => {
+                const x = (i / (data.length - 1)) * 100;
+                const y = 100 - ((val - min) / range) * 100;
+                return `${x},${y}`;
+            }).join(" ");
+
+            return (
+                <div className="h-8 w-16 md:w-24 opacity-80">
+                    <svg viewBox="0 0 100 100" preserveAspectRatio="none" className="h-full w-full overflow-visible">
+                        <polyline fill="none" stroke={color} strokeWidth="3" points={points} strokeLinecap="round" strokeLinejoin="round" />
+                    </svg>
+                </div>
+            );
+        };
+
+        const ThemeRow = ({ item, onClick, isBottom = false }) => {
+            const isPositive = item.change >= 0;
+            const color = isPositive ? "#00CC96" : "#EF553B";
+            const textClass = isPositive ? "text-brand-green" : "text-brand-red";
+            const bgClass = isPositive ? "bg-brand-green/10" : "bg-brand-red/10";
+
+            // Simplified Row - No Accordion
+            return (
+                <div
+                    onClick={onClick}
+                    className={`
+                        mb-2 w-full flex items-center p-3 glass-panel rounded-xl cursor-pointer transition-all duration-200
+                        hover:bg-dark-card hover:border-gray-600
+                        border-l-4 border-l-${isPositive ? 'brand-green' : 'brand-red'} border-dark-border
+                    `}
+                >
+                    <div className="flex items-center space-x-3 w-12 md:w-16 flex-shrink-0">
+                        <span className="font-mono text-sm text-gray-400">#{item.rank}</span>
+                        <div className={`p-1.5 rounded-full ${bgClass}`}>
+                            {isPositive ? <TrendingUp size={16} className={textClass} /> : <TrendingDown size={16} className={textClass} />}
+                        </div>
+                    </div>
+                    <div className="flex-grow min-w-0 pr-4">
+                        <h3 className="text-sm md:text-base font-bold text-white truncate">{item.name}</h3>
+                        <p className="text-xs text-gray-500 truncate hidden md:block">{item.desc}</p>
+                    </div>
+                    <div className="hidden sm:block mr-6">
+                        <Sparkline data={item.history} color={color} />
+                    </div>
+                    <div className={`w-20 text-right font-mono font-bold ${textClass}`}>
+                        {item.change > 0 ? "+" : ""}{item.change.toFixed(2)}%
+                    </div>
+                    <div className="ml-4 text-gray-500">
+                        <ChevronLeft size={18} className="rotate-180" />
+                    </div>
+                </div>
+            )
+        };
+
+        const ThemeDetail = ({ theme: initialTheme, onBack, allThemesRaw }) => {
+            const [detailPeriod, setDetailPeriod] = useState('1D');
+            const [theme, setTheme] = useState(initialTheme);
+
+            // Re-bind to raw data when period changes
+            useEffect(() => {
+                // Find the raw theme object to get data for other periods
+                // In main app we pass flattened object, so we need the raw logic or pass raw data context
+                // Simplest way: Pass the raw theme data into this component or lookup from global/prop
+                if (!allThemesRaw) return;
+
+                const rawTheme = allThemesRaw.find(t => t.id === initialTheme.id);
+                if (rawTheme && rawTheme.data[detailPeriod]) {
+                    const periodData = rawTheme.data[detailPeriod];
+                    setTheme({
+                        ...rawTheme,
+                        ...periodData,
+                        change: periodData.change,
+                        history: periodData.history,
+                        stocks: periodData.stocks
+                    });
+                }
+            }, [detailPeriod, initialTheme, allThemesRaw]);
+
+            const isPositive = theme.change >= 0;
+            const color = isPositive ? "#00CC96" : "#EF553B";
+            const textClass = isPositive ? "text-brand-green" : "text-brand-red";
+
+            const periods = ['1D', '5D', '10D', '1M', '2M', '3M', '6M', '12M'];
+
+            return (
+                <motion.div
+                    initial={{ opacity: 0, x: 20 }}
+                    animate={{ opacity: 1, x: 0 }}
+                    exit={{ opacity: 0, x: -20 }}
+                    className="pb-10"
+                >
+                    <button onClick={onBack} className="flex items-center text-gray-400 hover:text-white mb-4 transition-colors">
+                        <ChevronLeft size={20} className="mr-1" /> 一覧に戻る
+                    </button>
+
+                    <div className="glass-panel p-6 rounded-2xl border border-dark-border mb-6">
+                        <div className="flex justify-between items-start mb-6">
+                            <div>
+                                <h1 className="text-2xl font-bold text-white mb-2">{theme.name}</h1>
+                                <p className="text-gray-400 max-w-lg">{theme.desc}</p>
+                            </div>
+                            <div className={`text-3xl font-mono font-bold ${textClass}`}>
+                                {theme.change > 0 ? "+" : ""}{theme.change.toFixed(2)}%
+                            </div>
+                        </div>
+
+                        {/* Period Selectors */}
+                        <div className="flex flex-wrap gap-1 mb-4">
+                            {periods.map(p => (
+                                <button
+                                    key={p}
+                                    onClick={() => setDetailPeriod(p)}
+                                    className={`px-3 py-1 text-xs font-medium rounded-md transition-all ${detailPeriod === p ? 'bg-gray-700 text-white' : 'text-gray-400 hover:bg-white/5'}`}
+                                >
+                                    {p}
+                                </button>
+                            ))}
+                        </div>
+
+                        {/* Chart removed as requested */}
+
+                        <h3 className="text-lg font-bold text-white mb-4 flex items-center">
+                            <BarChart3 size={20} className="mr-2 text-gray-400" /> 分析・構成銘柄
+                        </h3>
+                        <div className="glass-panel rounded-xl overflow-hidden">
+                            <table className="w-full text-left text-sm text-gray-400">
+                                <thead className="bg-white/5 uppercase font-medium">
+                                    <tr>
+                                        <th className="p-4">銘柄</th>
+                                        <th className="p-4 hidden md:table-cell">要因分析</th>
+                                        <th className="p-4 text-right">騰落率</th>
+                                    </tr>
+                                </thead>
+                                <tbody className="divide-y divide-dark-border">
+                                    {theme.stocks.map((stock, i) => (
+                                        <tr key={i} className="hover:bg-white/5 transition-colors">
+                                            <td className="p-4">
+                                                <div className="text-white font-bold">{stock.name}</div>
+                                                <div className="text-xs text-gray-500">{stock.code}</div>
+                                                <div className="md:hidden mt-2 space-y-1">
+                                                    {/* Mobile Analysis View */}
+                                                    <div className="flex items-center text-xs">
+                                                        <span className="w-10 text-gray-500">テーマ</span>
+                                                        <span className={`${stock.themeFactor >= 0 ? 'text-blue-400' : 'text-blue-600'} font-mono`}>{stock.themeFactor > 0 ? "+" : ""}{stock.themeFactor.toFixed(1)}%</span>
+                                                    </div>
+                                                    <div className="flex items-center text-xs">
+                                                        <span className="w-10 text-gray-500">個別</span>
+                                                        <span className={`${stock.individualFactor >= 0 ? 'text-purple-400' : 'text-purple-600'} font-mono`}>{stock.individualFactor > 0 ? "+" : ""}{stock.individualFactor.toFixed(1)}%</span>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td className="p-4 hidden md:table-cell">
+                                                <div className="flex items-center space-x-2">
+                                                    {/* Theme Factor Badge */}
+                                                    <span className={`inline-flex items-center px-2 py-1 rounded text-xs font-mono border ${stock.themeFactor >= 0 ? 'bg-blue-500/10 border-blue-500/20 text-blue-400' : 'bg-blue-900/10 border-blue-800/20 text-blue-500'}`}>
+                                                        🌊 テーマ {stock.themeFactor > 0 ? "+" : ""}{stock.themeFactor.toFixed(1)}%
+                                                    </span>
+
+                                                    <span className="text-gray-600 text-[10px]">+</span>
+
+                                                    {/* Individual Factor Badge */}
+                                                    <span className={`inline-flex items-center px-2 py-1 rounded text-xs font-mono border ${stock.individualFactor >= 0 ? 'bg-purple-500/10 border-purple-500/20 text-purple-400' : 'bg-purple-900/10 border-purple-800/20 text-purple-500'}`}>
+                                                        💪 個別 {stock.individualFactor > 0 ? "+" : ""}{stock.individualFactor.toFixed(1)}%
+                                                    </span>
+
+                                                    <div className="h-4 w-[1px] bg-gray-700 mx-2"></div>
+
+                                                    {/* Correlation Badge */}
+                                                    <span className="text-xs text-gray-500 flex items-center" title={`Beta: ${stock.beta.toFixed(2)}`}>
+                                                        🎯 連動性 {(stock.r2 * 100).toFixed(0)}%
+                                                    </span>
+                                                </div>
+                                                <div className="text-[10px] text-gray-600 mt-1 pl-1">
+                                                    β{stock.beta.toFixed(2)} × テーマ({theme.change.toFixed(1)}%)
+                                                </div>
+                                            </td>
+                                            <td className="p-4 text-right">
+                                                <div className={`text-base font-mono font-bold ${stock.change >= 0 ? 'text-brand-green' : 'text-brand-red'}`}>
+                                                    {stock.change > 0 ? "+" : ""}{stock.change.toFixed(2)}%
+                                                </div>
+                                                <div className="text-xs text-gray-500">¥{stock.price.toLocaleString()}</div>
+                                            </td>
+                                        </tr>
+                                    ))}
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </motion.div>
+            );
+        };
+
+        const App = () => {
+            const [period, setPeriod] = useState('1D');
+            const [activeTheme, setActiveTheme] = useState(null);
+            const [displayMode, setDisplayMode] = useState('10'); // '10', '20', 'ALL'
+
+            const [rawThemes, setRawThemes] = useState([]);
+            const [isLoading, setIsLoading] = useState(true);
+
+            // Fetch JSON data on mount
+            useEffect(() => {
+                fetch('./themes_jp.json')
+                    .then(res => res.json())
+                    .then(data => {
+                        if (data && data.themes) {
+                            setRawThemes(data.themes);
+                            setIsLoading(false);
+                        }
+                    })
+                    .catch(err => {
+                        console.error("Failed to fetch themes", err);
+                        setIsLoading(false);
+                    });
+            }, []);
+
+            // Flatten Data based on Period
+            const sortedThemes = useMemo(() => {
+                if (!rawThemes.length) return [];
+
+                return rawThemes.map(t => {
+                    // Check if specific period data exists, otherwise fallback or error
+                    const periodData = t.data[period] || t.data['3M']; // fallback
+
+                    return {
+                        ...t, // id, name, desc
+                        change: periodData.change,
+                        history: periodData.history,
+                        stocks: periodData.stocks
+                    };
+                }).sort((a, b) => b.change - a.change); // Sort Descending
+            }, [period, rawThemes]);
+
+            // Filter Logic
+            const { topThemes, bottomThemes, allThemes } = useMemo(() => {
+                const count = parseInt(displayMode);
+                if (displayMode === 'ALL') {
+                    return { topThemes: [], bottomThemes: [], allThemes: sortedThemes };
+                }
+                return {
+                    topThemes: sortedThemes.slice(0, count),
+                    bottomThemes: sortedThemes.slice(-count).sort((a, b) => a.change - b.change),
+                    allThemes: []
+                };
+            }, [sortedThemes, displayMode]);
+
+            // Benchmark mock - simplified for now
+            const benchChange = 0.32 * (period === '12M' || period === '1Y' ? 3 : period === '6M' ? 1.5 : period === '5D' ? 0.1 : 1);
+
+            if (isLoading) {
+                return (
+                    <div className="min-h-screen flex items-center justify-center bg-[#0E1117] text-white">
+                        <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-brand-green"></div>
+                    </div>
+                );
+            }
+
+            return (
+                <div className="min-h-screen pb-10 bg-[#0E1117]">
+                    <header className="sticky top-0 z-50 glass-panel border-b border-white/10 mb-6">
+                        <div className="max-w-3xl mx-auto px-4 h-14 flex items-center justify-between">
+                            <div className="flex items-center space-x-2 cursor-pointer" onClick={() => setActiveTheme(null)}>
+                                <div className="w-7 h-7 bg-brand-green rounded-lg flex items-center justify-center">
+                                    <span className="text-white font-bold text-base">🇯🇵</span>
+                                </div>
+                                <h1 className="text-base font-bold tracking-tight text-gray-200">日本株テーマトラッカー</h1>
+                            </div>
+                        </div>
+                    </header>
+                    <main className="max-w-3xl mx-auto px-3">
+                        <AnimatePresence mode="wait">
+                            {activeTheme ? (
+                                <ThemeDetail key="detail" theme={activeTheme} onBack={() => setActiveTheme(null)} allThemesRaw={rawThemes} />
+                            ) : (
+                                <motion.div
+                                    key="list"
+                                    initial={{ opacity: 0, x: -20 }}
+                                    animate={{ opacity: 1, x: 0 }}
+                                    exit={{ opacity: 0, x: -20 }}
+                                >
+                                    {/* Period Tabs */}
+                                    <div className="flex space-x-1 bg-dark-card p-0.5 rounded-lg mb-4 border border-dark-border overflow-x-auto no-scrollbar">
+                                        {['1D', '5D', '10D', '1M', '2M', '3M', '6M', '12M'].map((p) => (
+                                            <button
+                                                key={p}
+                                                onClick={() => setPeriod(p)}
+                                                className={`flex-1 py-1 px-2 text-xs font-medium rounded-md transition-all whitespace-nowrap ${period === p ? 'bg-gray-700 text-white shadow-sm' : 'text-gray-400 hover:text-white hover:bg-white/5'}`}
+                                            >
+                                                {p}
+                                            </button>
+                                        ))}
+                                    </div>
+
+                                    {/* Display Mode Toggle */}
+                                    <div className="flex justify-end mb-4 animate-fadeIn">
+                                        <div className="inline-flex bg-dark-card p-0.5 rounded-lg border border-dark-border">
+                                            {['10', '20', 'ALL'].map((mode) => (
+                                                <button
+                                                    key={mode}
+                                                    onClick={() => setDisplayMode(mode)}
+                                                    className={`px-3 py-1 text-xs font-medium rounded-md transition-all ${displayMode === mode ? 'bg-gray-700 text-white shadow-sm' : 'text-gray-400 hover:text-white hover:bg-white/5'}`}
+                                                >
+                                                    {mode === 'ALL' ? '全て' : `上位/下位 ${mode}`}
+                                                </button>
+                                            ))}
+                                        </div>
+                                    </div>
+
+                                    {displayMode === 'ALL' ? (
+                                        <div className="mb-6">
+                                            <h2 className="text-xs font-bold text-gray-500 uppercase tracking-wider mb-2 px-2">全テーマ ({sortedThemes.length})</h2>
+                                            {allThemes.map((item, i) => (
+                                                <ThemeRow key={item.id} item={{ ...item, rank: i + 1 }} onClick={() => setActiveTheme(item)} />
+                                            ))}
+                                        </div>
+                                    ) : (
+                                        <>
+                                            <div className="mb-4">
+                                                <h2 className="text-xs font-bold text-gray-500 uppercase tracking-wider mb-2 px-2">上位 {displayMode} テーマ</h2>
+                                                {topThemes.map((item, i) => (
+                                                    <ThemeRow key={item.id} item={{ ...item, rank: i + 1 }} onClick={() => setActiveTheme(item)} />
+                                                ))}
+                                            </div>
+
+                                            <div className="my-4 text-center bg-dark-card py-2 px-4 rounded border border-dark-border mx-2">
+                                                <span className="text-xs text-gray-400 mr-2">ベンチマーク</span>
+                                                <span className="font-bold text-white text-sm">日経平均株価</span>
+                                                <span className={`font-mono font-bold ml-2 ${benchChange >= 0 ? 'text-brand-green' : 'text-brand-red'}`}>
+                                                    {benchChange > 0 ? "+" : ""}{benchChange.toFixed(2)}%
+                                                </span>
+                                            </div>
+
+                                            <div className="mb-6">
+                                                <h2 className="text-xs font-bold text-gray-500 uppercase tracking-wider mb-2 px-2">下位 {displayMode} テーマ</h2>
+                                                {bottomThemes.map((item, i) => (
+                                                    <ThemeRow key={item.id} item={{ ...item, rank: i + 1 }} isBottom={true} onClick={() => setActiveTheme(item)} />
+                                                ))}
+                                            </div>
+                                        </>
+                                    )}
+                                </motion.div>
+                            )}
+                        </AnimatePresence>
+                    </main>
+                </div>
+            );
+        };
+
+        const root = ReactDOM.createRoot(document.getElementById('root'));
+        root.render(<App />);
+
+    </script>
+</body>
+
+</html>
