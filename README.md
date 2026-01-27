@@ -37,6 +37,13 @@ git commit -m "Update market data"
 git push
 ```
 
+## 自動更新について
+
+GitHub Actionsにより、**毎日 16:30 JST (日本市場クローズ後)** に自動でデータ更新が行われる設定になっています。
+設定ファイル: `.github/workflows/daily_update.yml`
+
+⚠️ **注意**: 自動更新が動かない場合は、GitHubリポジトリの `Settings` > `Actions` > `General` > `Workflow permissions` で **"Read and write permissions"** が選択されているか確認してください。
+
 ## 技術スタック
 
 - **フロントエンド**: React (CDN), Tailwind CSS
