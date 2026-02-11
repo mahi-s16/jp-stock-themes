@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-02-10T10:39:43.426367",
+    "generated_at": "2026-02-11T10:14:30.110151",
     "periods": [
       "1D",
       "5D",
@@ -4064,7 +4064,7 @@
             113.76,
             115.18,
             119.66,
-            121.2,
+            121.21,
             120.64,
             119.84,
             117.12,
@@ -28320,7 +28320,7 @@
           ]
         },
         "2M": {
-          "change": 0.06,
+          "change": 0.07,
           "history": [
             100.0,
             98.87,
@@ -28339,34 +28339,34 @@
             95.98,
             97.68,
             97.15,
-            98.08,
-            96.83,
-            97.69,
-            99.57,
-            99.9,
-            102.82,
-            103.7,
-            103.29,
-            102.67,
-            107.68,
-            105.69,
-            106.75,
-            103.81,
-            102.3,
-            101.45,
-            103.09,
-            100.71,
-            101.2,
-            99.38,
-            99.36,
-            99.08,
-            98.22,
-            98.65,
-            96.8,
-            97.41,
-            97.45,
-            97.95,
-            100.06
+            98.09,
+            96.84,
+            97.7,
+            99.58,
+            99.91,
+            102.83,
+            103.71,
+            103.3,
+            102.68,
+            107.69,
+            105.7,
+            106.76,
+            103.82,
+            102.31,
+            101.46,
+            103.1,
+            100.72,
+            101.21,
+            99.39,
+            99.37,
+            99.09,
+            98.23,
+            98.66,
+            96.81,
+            97.42,
+            97.46,
+            97.96,
+            100.07
           ],
           "stocks": [
             {
@@ -28376,8 +28376,8 @@
               "change": 50.23,
               "beta": 1.49,
               "r2": 0.4,
-              "themeFactor": 0.08,
-              "individualFactor": 50.15
+              "themeFactor": 0.1,
+              "individualFactor": 50.13
             },
             {
               "code": "5574",
@@ -28386,8 +28386,8 @@
               "change": 14.42,
               "beta": 1.43,
               "r2": 0.35,
-              "themeFactor": 0.08,
-              "individualFactor": 14.34
+              "themeFactor": 0.1,
+              "individualFactor": 14.33
             },
             {
               "code": "5253",
@@ -28396,18 +28396,18 @@
               "change": 4.05,
               "beta": 1.08,
               "r2": 0.27,
-              "themeFactor": 0.06,
-              "individualFactor": 3.99
+              "themeFactor": 0.07,
+              "individualFactor": 3.98
             },
             {
               "code": "5842",
               "name": "Stock 5842",
               "price": 3490,
-              "change": 3.93,
+              "change": 4.02,
               "beta": 0.98,
               "r2": 0.33,
-              "themeFactor": 0.06,
-              "individualFactor": 3.87
+              "themeFactor": 0.07,
+              "individualFactor": 3.95
             },
             {
               "code": "4477",
@@ -28416,7 +28416,7 @@
               "change": 1.23,
               "beta": 0.58,
               "r2": 0.38,
-              "themeFactor": 0.03,
+              "themeFactor": 0.04,
               "individualFactor": 1.19
             },
             {
@@ -28426,8 +28426,8 @@
               "change": -7.62,
               "beta": 0.76,
               "r2": 0.23,
-              "themeFactor": 0.04,
-              "individualFactor": -7.66
+              "themeFactor": 0.05,
+              "individualFactor": -7.67
             },
             {
               "code": "4478",
@@ -28436,8 +28436,8 @@
               "change": -19.67,
               "beta": 0.98,
               "r2": 0.26,
-              "themeFactor": 0.06,
-              "individualFactor": -19.73
+              "themeFactor": 0.07,
+              "individualFactor": -19.74
             },
             {
               "code": "4475",
@@ -28446,7 +28446,7 @@
               "change": -21.71,
               "beta": 0.71,
               "r2": 0.21,
-              "themeFactor": 0.04,
+              "themeFactor": 0.05,
               "individualFactor": -21.75
             },
             {
@@ -28456,13 +28456,13 @@
               "change": -24.35,
               "beta": 1.08,
               "r2": 0.24,
-              "themeFactor": 0.06,
-              "individualFactor": -24.41
+              "themeFactor": 0.07,
+              "individualFactor": -24.42
             }
           ]
         },
         "3M": {
-          "change": -8.34,
+          "change": -8.33,
           "history": [
             100.0,
             99.56,
@@ -28502,34 +28502,34 @@
             87.75,
             89.34,
             88.87,
-            89.69,
-            88.48,
-            89.21,
-            90.98,
-            91.31,
-            93.99,
-            94.63,
-            94.3,
-            93.76,
-            98.47,
-            96.61,
-            97.58,
-            94.92,
-            93.54,
-            92.73,
-            94.26,
-            92.13,
-            92.64,
+            89.7,
+            88.49,
+            89.22,
             90.99,
-            91.01,
-            90.76,
-            90.0,
-            90.42,
-            88.78,
-            89.35,
+            91.32,
+            94.0,
+            94.64,
+            94.31,
+            93.77,
+            98.48,
+            96.62,
+            97.59,
+            94.93,
+            93.55,
+            92.74,
+            94.27,
+            92.14,
+            92.65,
+            91.0,
+            91.02,
+            90.77,
+            90.01,
+            90.43,
+            88.79,
             89.36,
-            89.79,
-            91.66
+            89.37,
+            89.8,
+            91.67
           ],
           "stocks": [
             {
@@ -28539,8 +28539,8 @@
               "change": 37.79,
               "beta": 1.21,
               "r2": 0.38,
-              "themeFactor": -10.12,
-              "individualFactor": 47.91
+              "themeFactor": -10.1,
+              "individualFactor": 47.9
             },
             {
               "code": "5574",
@@ -28549,8 +28549,8 @@
               "change": 8.25,
               "beta": 1.25,
               "r2": 0.35,
-              "themeFactor": -10.44,
-              "individualFactor": 18.69
+              "themeFactor": -10.42,
+              "individualFactor": 18.67
             },
             {
               "code": "4477",
@@ -28559,18 +28559,18 @@
               "change": 1.85,
               "beta": 0.91,
               "r2": 0.37,
-              "themeFactor": -7.63,
-              "individualFactor": 9.48
+              "themeFactor": -7.62,
+              "individualFactor": 9.47
             },
             {
               "code": "5842",
               "name": "Stock 5842",
               "price": 3490,
-              "change": 1.37,
+              "change": 1.46,
               "beta": 0.99,
               "r2": 0.36,
-              "themeFactor": -8.29,
-              "individualFactor": 9.66
+              "themeFactor": -8.28,
+              "individualFactor": 9.74
             },
             {
               "code": "5253",
@@ -28579,8 +28579,8 @@
               "change": -14.16,
               "beta": 1.07,
               "r2": 0.26,
-              "themeFactor": -8.95,
-              "individualFactor": -5.22
+              "themeFactor": -8.94,
+              "individualFactor": -5.23
             },
             {
               "code": "4483",
@@ -28590,7 +28590,7 @@
               "beta": 0.66,
               "r2": 0.18,
               "themeFactor": -5.52,
-              "individualFactor": -18.81
+              "individualFactor": -18.82
             },
             {
               "code": "5032",
@@ -28599,8 +28599,8 @@
               "change": -27.6,
               "beta": 1.14,
               "r2": 0.33,
-              "themeFactor": -9.52,
-              "individualFactor": -18.08
+              "themeFactor": -9.51,
+              "individualFactor": -18.1
             },
             {
               "code": "4478",
@@ -28609,8 +28609,8 @@
               "change": -28.22,
               "beta": 0.97,
               "r2": 0.29,
-              "themeFactor": -8.09,
-              "individualFactor": -20.13
+              "themeFactor": -8.08,
+              "individualFactor": -20.14
             },
             {
               "code": "4475",
@@ -28619,8 +28619,8 @@
               "change": -30.01,
               "beta": 0.79,
               "r2": 0.28,
-              "themeFactor": -6.63,
-              "individualFactor": -23.38
+              "themeFactor": -6.62,
+              "individualFactor": -23.39
             }
           ]
         },
@@ -28728,33 +28728,33 @@
             82.26,
             83.7,
             83.27,
-            84.03,
-            82.98,
-            83.38,
-            84.95,
-            85.13,
-            87.58,
-            88.04,
-            87.55,
-            87.07,
-            91.22,
-            89.46,
-            90.3,
-            88.01,
-            86.71,
-            86.13,
-            87.58,
-            85.58,
-            85.92,
-            84.37,
-            84.34,
-            84.12,
-            83.23,
-            83.51,
-            82.0,
-            82.64,
-            82.78,
-            83.2,
+            84.04,
+            82.99,
+            83.39,
+            84.96,
+            85.14,
+            87.59,
+            88.05,
+            87.56,
+            87.08,
+            91.23,
+            89.47,
+            90.32,
+            88.02,
+            86.72,
+            86.14,
+            87.59,
+            85.59,
+            85.93,
+            84.38,
+            84.35,
+            84.13,
+            83.24,
+            83.52,
+            82.01,
+            82.65,
+            82.79,
+            83.21,
             85.09
           ],
           "stocks": [
@@ -28765,18 +28765,18 @@
               "change": 17.79,
               "beta": 0.87,
               "r2": 0.25,
-              "themeFactor": -13.02,
-              "individualFactor": 30.81
+              "themeFactor": -13.01,
+              "individualFactor": 30.8
             },
             {
               "code": "5842",
               "name": "Stock 5842",
               "price": 3490,
-              "change": 0.36,
+              "change": 0.45,
               "beta": 0.96,
               "r2": 0.3,
-              "themeFactor": -14.3,
-              "individualFactor": 14.66
+              "themeFactor": -14.29,
+              "individualFactor": 14.74
             },
             {
               "code": "4483",
@@ -28785,8 +28785,8 @@
               "change": -6.28,
               "beta": 0.85,
               "r2": 0.26,
-              "themeFactor": -12.69,
-              "individualFactor": 6.41
+              "themeFactor": -12.68,
+              "individualFactor": 6.4
             },
             {
               "code": "5032",
@@ -28795,8 +28795,8 @@
               "change": -7.54,
               "beta": 1.33,
               "r2": 0.37,
-              "themeFactor": -19.85,
-              "individualFactor": 12.31
+              "themeFactor": -19.84,
+              "individualFactor": 12.29
             },
             {
               "code": "5574",
@@ -28805,8 +28805,8 @@
               "change": -13.13,
               "beta": 1.16,
               "r2": 0.32,
-              "themeFactor": -17.26,
-              "individualFactor": 4.13
+              "themeFactor": -17.25,
+              "individualFactor": 4.12
             },
             {
               "code": "4477",
@@ -28815,8 +28815,8 @@
               "change": -18.42,
               "beta": 0.79,
               "r2": 0.31,
-              "themeFactor": -11.79,
-              "individualFactor": -6.62
+              "themeFactor": -11.78,
+              "individualFactor": -6.63
             },
             {
               "code": "5253",
@@ -28825,8 +28825,8 @@
               "change": -25.62,
               "beta": 0.98,
               "r2": 0.27,
-              "themeFactor": -14.61,
-              "individualFactor": -11.01
+              "themeFactor": -14.6,
+              "individualFactor": -11.02
             },
             {
               "code": "4475",
@@ -28835,8 +28835,8 @@
               "change": -39.74,
               "beta": 0.93,
               "r2": 0.31,
-              "themeFactor": -13.92,
-              "individualFactor": -25.82
+              "themeFactor": -13.91,
+              "individualFactor": -25.83
             },
             {
               "code": "4478",
@@ -28845,13 +28845,13 @@
               "change": -41.65,
               "beta": 1.09,
               "r2": 0.29,
-              "themeFactor": -16.33,
-              "individualFactor": -25.32
+              "themeFactor": -16.32,
+              "individualFactor": -25.34
             }
           ]
         },
         "12M": {
-          "change": -10.58,
+          "change": -10.57,
           "history": [
             100.0,
             101.41,
@@ -29070,34 +29070,34 @@
             87.94,
             89.51,
             89.13,
-            89.77,
-            88.71,
-            88.55,
-            90.18,
-            90.45,
-            92.76,
-            92.88,
-            92.32,
-            91.6,
-            95.94,
-            93.96,
-            94.73,
-            92.87,
-            91.48,
-            90.98,
-            92.49,
-            90.33,
-            90.54,
-            88.98,
+            89.78,
             88.72,
-            88.43,
-            87.4,
-            87.71,
+            88.56,
+            90.18,
+            90.46,
+            92.77,
+            92.89,
+            92.33,
+            91.61,
+            95.95,
+            93.97,
+            94.74,
+            92.87,
+            91.49,
+            90.99,
+            92.5,
+            90.33,
+            90.55,
+            88.98,
+            88.73,
+            88.44,
+            87.41,
+            87.72,
             85.86,
-            86.65,
-            86.85,
+            86.66,
+            86.86,
             87.46,
-            89.42
+            89.43
           ],
           "stocks": [
             {
@@ -29108,7 +29108,7 @@
               "beta": 0.93,
               "r2": 0.32,
               "themeFactor": -9.82,
-              "individualFactor": 35.55
+              "individualFactor": 35.54
             },
             {
               "code": "4483",
@@ -29118,7 +29118,7 @@
               "beta": 0.63,
               "r2": 0.26,
               "themeFactor": -6.65,
-              "individualFactor": 22.71
+              "individualFactor": 22.7
             },
             {
               "code": "9348",
@@ -29127,8 +29127,8 @@
               "change": 4.34,
               "beta": 1.29,
               "r2": 0.38,
-              "themeFactor": -13.65,
-              "individualFactor": 17.99
+              "themeFactor": -13.63,
+              "individualFactor": 17.98
             },
             {
               "code": "5574",
@@ -29137,8 +29137,8 @@
               "change": -0.96,
               "beta": 1.36,
               "r2": 0.43,
-              "themeFactor": -14.42,
-              "individualFactor": 13.46
+              "themeFactor": -14.41,
+              "individualFactor": 13.45
             },
             {
               "code": "4477",
@@ -29148,17 +29148,17 @@
               "beta": 0.92,
               "r2": 0.33,
               "themeFactor": -9.77,
-              "individualFactor": -0.62
+              "individualFactor": -0.63
             },
             {
               "code": "5842",
               "name": "Stock 5842",
               "price": 3490,
-              "change": -12.68,
+              "change": -12.6,
               "beta": 0.8,
               "r2": 0.26,
               "themeFactor": -8.46,
-              "individualFactor": -4.22
+              "individualFactor": -4.15
             },
             {
               "code": "4475",
@@ -29167,8 +29167,8 @@
               "change": -32.38,
               "beta": 0.87,
               "r2": 0.36,
-              "themeFactor": -9.25,
-              "individualFactor": -23.13
+              "themeFactor": -9.24,
+              "individualFactor": -23.14
             },
             {
               "code": "4478",
@@ -29177,8 +29177,8 @@
               "change": -33.31,
               "beta": 0.94,
               "r2": 0.39,
-              "themeFactor": -9.98,
-              "individualFactor": -23.33
+              "themeFactor": -9.97,
+              "individualFactor": -23.34
             },
             {
               "code": "5253",
@@ -29187,8 +29187,8 @@
               "change": -51.62,
               "beta": 0.93,
               "r2": 0.28,
-              "themeFactor": -9.79,
-              "individualFactor": -41.84
+              "themeFactor": -9.78,
+              "individualFactor": -41.85
             }
           ]
         }
