@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-03-27T08:09:28.816886",
+    "generated_at": "2026-03-28T07:59:54.330652",
     "periods": [
       "1D",
       "5D",
@@ -88,7 +88,7 @@
             {
               "code": "7735",
               "name": "SCREEN HD",
-              "price": 19080,
+              "price": 9540,
               "change": -2.43,
               "beta": 1.0,
               "r2": 0.5,
@@ -219,7 +219,7 @@
             {
               "code": "7735",
               "name": "SCREEN HD",
-              "price": 19080,
+              "price": 9540,
               "change": -0.65,
               "beta": 1.1,
               "r2": 1.0,
@@ -259,17 +259,17 @@
           ]
         },
         "10D": {
-          "change": -1.52,
+          "change": -6.03,
           "history": [
             100.0,
             98.94,
             102.85,
-            99.67,
-            93.97,
-            95.43,
-            100.4,
-            100.39,
-            98.48
+            94.98,
+            89.52,
+            90.89,
+            95.74,
+            95.77,
+            93.97
           ],
           "stocks": [
             {
@@ -277,115 +277,115 @@
               "name": "SUMCO",
               "price": 1850,
               "change": 14.51,
-              "beta": 1.56,
-              "r2": 0.87,
-              "themeFactor": -2.38,
-              "individualFactor": 16.89
+              "beta": 1.3,
+              "r2": 0.9,
+              "themeFactor": -7.81,
+              "individualFactor": 22.32
             },
             {
               "code": "6890",
               "name": "フェローテック",
               "price": 6500,
               "change": 5.86,
-              "beta": 1.38,
-              "r2": 0.9,
-              "themeFactor": -2.09,
-              "individualFactor": 7.96
+              "beta": 1.13,
+              "r2": 0.91,
+              "themeFactor": -6.81,
+              "individualFactor": 12.67
             },
             {
               "code": "4062",
               "name": "イビデン",
               "price": 8269,
               "change": 1.47,
-              "beta": 1.32,
-              "r2": 0.65,
-              "themeFactor": -2.0,
-              "individualFactor": 3.48
+              "beta": 0.99,
+              "r2": 0.55,
+              "themeFactor": -5.95,
+              "individualFactor": 7.42
             },
             {
               "code": "8035",
               "name": "東京エレクトロン",
               "price": 39290,
               "change": 0.36,
-              "beta": 0.8,
-              "r2": 0.85,
-              "themeFactor": -1.22,
-              "individualFactor": 1.57
-            },
-            {
-              "code": "7735",
-              "name": "SCREEN HD",
-              "price": 19080,
-              "change": -0.91,
-              "beta": 0.82,
-              "r2": 0.82,
-              "themeFactor": -1.25,
-              "individualFactor": 0.34
+              "beta": 0.62,
+              "r2": 0.79,
+              "themeFactor": -3.76,
+              "individualFactor": 4.12
             },
             {
               "code": "6963",
               "name": "ローム",
               "price": 3237,
               "change": -1.91,
-              "beta": 0.73,
-              "r2": 0.52,
-              "themeFactor": -1.11,
-              "individualFactor": -0.8
+              "beta": 0.57,
+              "r2": 0.49,
+              "themeFactor": -3.46,
+              "individualFactor": 1.55
             },
             {
               "code": "6146",
               "name": "ディスコ",
               "price": 66530,
               "change": -4.85,
-              "beta": 1.07,
-              "r2": 0.86,
-              "themeFactor": -1.63,
-              "individualFactor": -3.22
+              "beta": 0.75,
+              "r2": 0.64,
+              "themeFactor": -4.54,
+              "individualFactor": -0.31
             },
             {
               "code": "6723",
               "name": "ルネサス",
               "price": 2354,
               "change": -4.85,
-              "beta": 1.19,
-              "r2": 0.74,
-              "themeFactor": -1.81,
-              "individualFactor": -3.04
+              "beta": 0.89,
+              "r2": 0.61,
+              "themeFactor": -5.33,
+              "individualFactor": 0.49
             },
             {
               "code": "6920",
               "name": "レーザーテック",
               "price": 34970,
               "change": -7.49,
-              "beta": 1.07,
-              "r2": 0.58,
-              "themeFactor": -1.63,
-              "individualFactor": -5.86
+              "beta": 0.78,
+              "r2": 0.47,
+              "themeFactor": -4.72,
+              "individualFactor": -2.76
             },
             {
               "code": "6857",
               "name": "アドバンテスト",
               "price": 22070,
               "change": -8.57,
-              "beta": 1.27,
-              "r2": 0.83,
-              "themeFactor": -1.93,
-              "individualFactor": -6.65
+              "beta": 0.98,
+              "r2": 0.75,
+              "themeFactor": -5.9,
+              "individualFactor": -2.68
             },
             {
               "code": "285A",
               "name": "キオクシアHD",
               "price": 20270,
               "change": -10.37,
-              "beta": 1.38,
-              "r2": 0.66,
-              "themeFactor": -2.1,
-              "individualFactor": -8.27
+              "beta": 1.04,
+              "r2": 0.56,
+              "themeFactor": -6.26,
+              "individualFactor": -4.11
+            },
+            {
+              "code": "7735",
+              "name": "SCREEN HD",
+              "price": 9540,
+              "change": -50.45,
+              "beta": 3.42,
+              "r2": 0.55,
+              "themeFactor": -20.6,
+              "individualFactor": -29.86
             }
           ]
         },
         "1M": {
-          "change": -2.34,
+          "change": -6.29,
           "history": [
             100.0,
             102.96,
@@ -405,12 +405,12 @@
             99.37,
             98.18,
             101.94,
-            98.77,
-            93.16,
-            94.5,
-            99.48,
-            99.55,
-            97.66
+            94.65,
+            89.26,
+            90.52,
+            95.4,
+            95.5,
+            93.71
           ],
           "stocks": [
             {
@@ -418,115 +418,115 @@
               "name": "ローム",
               "price": 3237,
               "change": 22.15,
-              "beta": 0.26,
-              "r2": 0.03,
-              "themeFactor": -0.61,
-              "individualFactor": 22.76
+              "beta": 0.27,
+              "r2": 0.04,
+              "themeFactor": -1.72,
+              "individualFactor": 23.87
             },
             {
               "code": "3436",
               "name": "SUMCO",
               "price": 1850,
               "change": 14.65,
-              "beta": 1.36,
-              "r2": 0.77,
-              "themeFactor": -3.19,
-              "individualFactor": 17.84
+              "beta": 1.25,
+              "r2": 0.76,
+              "themeFactor": -7.88,
+              "individualFactor": 22.53
             },
             {
               "code": "6920",
               "name": "レーザーテック",
               "price": 34970,
               "change": 14.13,
-              "beta": 1.11,
-              "r2": 0.57,
-              "themeFactor": -2.59,
-              "individualFactor": 16.73
+              "beta": 1.0,
+              "r2": 0.54,
+              "themeFactor": -6.29,
+              "individualFactor": 20.42
             },
             {
               "code": "6890",
               "name": "フェローテック",
               "price": 6500,
               "change": 0.78,
-              "beta": 1.16,
+              "beta": 1.07,
               "r2": 0.72,
-              "themeFactor": -2.71,
-              "individualFactor": 3.49
+              "themeFactor": -6.72,
+              "individualFactor": 7.49
             },
             {
               "code": "285A",
               "name": "キオクシアHD",
               "price": 20270,
               "change": -1.41,
-              "beta": 1.44,
-              "r2": 0.68,
-              "themeFactor": -3.38,
-              "individualFactor": 1.97
+              "beta": 1.3,
+              "r2": 0.65,
+              "themeFactor": -8.2,
+              "individualFactor": 6.79
             },
             {
               "code": "4062",
               "name": "イビデン",
               "price": 8269,
               "change": -9.7,
-              "beta": 1.22,
-              "r2": 0.61,
-              "themeFactor": -2.87,
-              "individualFactor": -6.83
+              "beta": 1.09,
+              "r2": 0.56,
+              "themeFactor": -6.83,
+              "individualFactor": -2.87
             },
             {
               "code": "6146",
               "name": "ディスコ",
               "price": 66530,
               "change": -10.17,
-              "beta": 1.12,
-              "r2": 0.83,
-              "themeFactor": -2.63,
-              "individualFactor": -7.54
+              "beta": 0.98,
+              "r2": 0.74,
+              "themeFactor": -6.17,
+              "individualFactor": -3.99
             },
             {
               "code": "8035",
               "name": "東京エレクトロン",
               "price": 39290,
               "change": -10.62,
-              "beta": 0.81,
-              "r2": 0.8,
-              "themeFactor": -1.89,
-              "individualFactor": -8.73
-            },
-            {
-              "code": "7735",
-              "name": "SCREEN HD",
-              "price": 19080,
-              "change": -13.19,
-              "beta": 0.98,
-              "r2": 0.69,
-              "themeFactor": -2.29,
-              "individualFactor": -10.9
+              "beta": 0.72,
+              "r2": 0.75,
+              "themeFactor": -4.54,
+              "individualFactor": -6.08
             },
             {
               "code": "6857",
               "name": "アドバンテスト",
               "price": 22070,
               "change": -13.37,
-              "beta": 1.25,
-              "r2": 0.76,
-              "themeFactor": -2.93,
-              "individualFactor": -10.43
+              "beta": 1.13,
+              "r2": 0.73,
+              "themeFactor": -7.13,
+              "individualFactor": -6.23
             },
             {
               "code": "6723",
               "name": "ルネサス",
               "price": 2354,
               "change": -19.03,
-              "beta": 1.02,
-              "r2": 0.69,
-              "themeFactor": -2.4,
-              "individualFactor": -16.63
+              "beta": 0.91,
+              "r2": 0.63,
+              "themeFactor": -5.74,
+              "individualFactor": -13.3
+            },
+            {
+              "code": "7735",
+              "name": "SCREEN HD",
+              "price": 9540,
+              "change": -56.6,
+              "beta": 2.06,
+              "r2": 0.43,
+              "themeFactor": -12.98,
+              "individualFactor": -43.62
             }
           ]
         },
         "2M": {
-          "change": 7.65,
+          "change": 2.82,
           "history": [
             100.0,
             107.05,
@@ -567,12 +567,12 @@
             109.76,
             108.48,
             112.8,
-            109.31,
-            103.15,
-            104.61,
-            110.06,
-            109.87,
-            107.65
+            104.28,
+            98.38,
+            99.75,
+            105.07,
+            104.92,
+            102.82
           ],
           "stocks": [
             {
@@ -580,115 +580,115 @@
               "name": "ローム",
               "price": 3237,
               "change": 28.96,
-              "beta": 0.41,
+              "beta": 0.39,
               "r2": 0.1,
-              "themeFactor": 3.1,
-              "individualFactor": 25.87
+              "themeFactor": 1.11,
+              "individualFactor": 27.85
             },
             {
               "code": "285A",
               "name": "キオクシアHD",
               "price": 20270,
               "change": 22.85,
-              "beta": 1.4,
-              "r2": 0.52,
-              "themeFactor": 10.71,
-              "individualFactor": 12.14
+              "beta": 1.31,
+              "r2": 0.5,
+              "themeFactor": 3.68,
+              "individualFactor": 19.16
             },
             {
               "code": "3436",
               "name": "SUMCO",
               "price": 1850,
               "change": 16.09,
-              "beta": 1.05,
+              "beta": 0.99,
               "r2": 0.53,
-              "themeFactor": 8.0,
-              "individualFactor": 8.1
+              "themeFactor": 2.79,
+              "individualFactor": 13.3
             },
             {
               "code": "6146",
               "name": "ディスコ",
               "price": 66530,
               "change": 13.59,
-              "beta": 1.3,
-              "r2": 0.76,
-              "themeFactor": 9.92,
-              "individualFactor": 3.67
+              "beta": 1.18,
+              "r2": 0.71,
+              "themeFactor": 3.34,
+              "individualFactor": 10.25
             },
             {
               "code": "6890",
               "name": "フェローテック",
               "price": 6500,
               "change": 6.91,
-              "beta": 0.97,
+              "beta": 0.92,
               "r2": 0.55,
-              "themeFactor": 7.44,
-              "individualFactor": -0.53
-            },
-            {
-              "code": "7735",
-              "name": "SCREEN HD",
-              "price": 19080,
-              "change": 6.15,
-              "beta": 0.98,
-              "r2": 0.68,
-              "themeFactor": 7.48,
-              "individualFactor": -1.33
+              "themeFactor": 2.6,
+              "individualFactor": 4.31
             },
             {
               "code": "6857",
               "name": "アドバンテスト",
               "price": 22070,
               "change": 1.38,
-              "beta": 1.16,
-              "r2": 0.65,
-              "themeFactor": 8.88,
-              "individualFactor": -7.5
+              "beta": 1.09,
+              "r2": 0.64,
+              "themeFactor": 3.07,
+              "individualFactor": -1.69
             },
             {
               "code": "4062",
               "name": "イビデン",
               "price": 8269,
               "change": -0.58,
-              "beta": 1.22,
-              "r2": 0.54,
-              "themeFactor": 9.31,
-              "individualFactor": -9.89
+              "beta": 1.12,
+              "r2": 0.51,
+              "themeFactor": 3.16,
+              "individualFactor": -3.74
             },
             {
               "code": "6723",
               "name": "ルネサス",
               "price": 2354,
               "change": -2.14,
-              "beta": 0.94,
-              "r2": 0.51,
-              "themeFactor": 7.2,
-              "individualFactor": -9.34
+              "beta": 0.87,
+              "r2": 0.49,
+              "themeFactor": 2.47,
+              "individualFactor": -4.61
             },
             {
               "code": "6920",
               "name": "レーザーテック",
               "price": 34970,
               "change": -4.45,
-              "beta": 1.13,
-              "r2": 0.56,
-              "themeFactor": 8.65,
-              "individualFactor": -13.1
+              "beta": 1.04,
+              "r2": 0.53,
+              "themeFactor": 2.94,
+              "individualFactor": -7.39
             },
             {
               "code": "8035",
               "name": "東京エレクトロン",
               "price": 39290,
               "change": -4.66,
-              "beta": 0.75,
-              "r2": 0.68,
-              "themeFactor": 5.72,
-              "individualFactor": -10.38
+              "beta": 0.69,
+              "r2": 0.65,
+              "themeFactor": 1.96,
+              "individualFactor": -6.62
+            },
+            {
+              "code": "7735",
+              "name": "SCREEN HD",
+              "price": 9540,
+              "change": -46.93,
+              "beta": 1.68,
+              "r2": 0.43,
+              "themeFactor": 4.74,
+              "individualFactor": -51.66
             }
           ]
         },
         "3M": {
-          "change": 41.97,
+          "change": 35.35,
           "history": [
             100.0,
             98.12,
@@ -750,12 +750,12 @@
             145.12,
             143.3,
             149.19,
-            144.54,
-            136.48,
-            138.28,
-            145.61,
-            145.0,
-            141.97
+            137.63,
+            129.94,
+            131.62,
+            138.76,
+            138.22,
+            135.35
           ],
           "stocks": [
             {
@@ -763,115 +763,115 @@
               "name": "キオクシアHD",
               "price": 20270,
               "change": 117.96,
-              "beta": 1.45,
-              "r2": 0.54,
-              "themeFactor": 60.74,
-              "individualFactor": 57.22
+              "beta": 1.36,
+              "r2": 0.53,
+              "themeFactor": 48.08,
+              "individualFactor": 69.88
             },
             {
               "code": "6963",
               "name": "ローム",
               "price": 3237,
               "change": 55.21,
-              "beta": 0.35,
-              "r2": 0.09,
-              "themeFactor": 14.7,
-              "individualFactor": 40.51
-            },
-            {
-              "code": "7735",
-              "name": "SCREEN HD",
-              "price": 19080,
-              "change": 45.65,
-              "beta": 0.96,
-              "r2": 0.62,
-              "themeFactor": 40.12,
-              "individualFactor": 5.53
+              "beta": 0.34,
+              "r2": 0.1,
+              "themeFactor": 12.13,
+              "individualFactor": 43.08
             },
             {
               "code": "6146",
               "name": "ディスコ",
               "price": 66530,
               "change": 45.17,
-              "beta": 1.22,
-              "r2": 0.72,
-              "themeFactor": 51.16,
-              "individualFactor": -5.99
+              "beta": 1.13,
+              "r2": 0.68,
+              "themeFactor": 39.8,
+              "individualFactor": 5.37
             },
             {
               "code": "3436",
               "name": "SUMCO",
               "price": 1850,
               "change": 43.68,
-              "beta": 0.94,
+              "beta": 0.9,
               "r2": 0.46,
-              "themeFactor": 39.56,
-              "individualFactor": 4.12
+              "themeFactor": 31.82,
+              "individualFactor": 11.86
             },
             {
               "code": "4062",
               "name": "イビデン",
               "price": 8269,
               "change": 41.84,
-              "beta": 1.23,
-              "r2": 0.58,
-              "themeFactor": 51.69,
-              "individualFactor": -9.86
+              "beta": 1.15,
+              "r2": 0.55,
+              "themeFactor": 40.48,
+              "individualFactor": 1.35
             },
             {
               "code": "6890",
               "name": "フェローテック",
               "price": 6500,
               "change": 39.94,
-              "beta": 0.84,
+              "beta": 0.81,
               "r2": 0.48,
-              "themeFactor": 35.31,
-              "individualFactor": 4.62
+              "themeFactor": 28.52,
+              "individualFactor": 11.41
             },
             {
               "code": "8035",
               "name": "東京エレクトロン",
               "price": 39290,
               "change": 25.45,
-              "beta": 0.84,
-              "r2": 0.67,
-              "themeFactor": 35.41,
-              "individualFactor": -9.96
+              "beta": 0.79,
+              "r2": 0.65,
+              "themeFactor": 27.87,
+              "individualFactor": -2.42
             },
             {
               "code": "6920",
               "name": "レーザーテック",
               "price": 34970,
               "change": 19.72,
-              "beta": 1.17,
-              "r2": 0.6,
-              "themeFactor": 48.93,
-              "individualFactor": -29.21
+              "beta": 1.08,
+              "r2": 0.57,
+              "themeFactor": 38.3,
+              "individualFactor": -18.59
             },
             {
               "code": "6723",
               "name": "ルネサス",
               "price": 2354,
               "change": 13.59,
-              "beta": 0.86,
-              "r2": 0.48,
-              "themeFactor": 36.07,
-              "individualFactor": -22.48
+              "beta": 0.81,
+              "r2": 0.46,
+              "themeFactor": 28.5,
+              "individualFactor": -14.91
             },
             {
               "code": "6857",
               "name": "アドバンテスト",
               "price": 22070,
               "change": 13.47,
-              "beta": 1.16,
-              "r2": 0.65,
-              "themeFactor": 48.54,
-              "individualFactor": -35.06
+              "beta": 1.09,
+              "r2": 0.63,
+              "themeFactor": 38.5,
+              "individualFactor": -25.03
+            },
+            {
+              "code": "7735",
+              "name": "SCREEN HD",
+              "price": 9540,
+              "change": -27.18,
+              "beta": 1.55,
+              "r2": 0.43,
+              "themeFactor": 54.72,
+              "individualFactor": -81.9
             }
           ]
         },
         "6M": {
-          "change": 93.05,
+          "change": 85.85,
           "history": [
             100.0,
             103.89,
@@ -996,12 +996,12 @@
             199.77,
             196.4,
             204.99,
-            198.34,
-            187.32,
-            189.1,
-            199.29,
-            197.46,
-            193.05
+            190.83,
+            180.21,
+            181.85,
+            191.83,
+            190.08,
+            185.85
           ],
           "stocks": [
             {
@@ -1009,40 +1009,40 @@
               "name": "キオクシアHD",
               "price": 20270,
               "change": 356.53,
-              "beta": 1.67,
+              "beta": 1.63,
               "r2": 0.62,
-              "themeFactor": 155.65,
-              "individualFactor": 200.88
+              "themeFactor": 140.31,
+              "individualFactor": 216.23
             },
             {
               "code": "6920",
               "name": "レーザーテック",
               "price": 34970,
               "change": 110.52,
-              "beta": 1.09,
-              "r2": 0.53,
-              "themeFactor": 101.15,
-              "individualFactor": 9.37
+              "beta": 1.06,
+              "r2": 0.52,
+              "themeFactor": 91.06,
+              "individualFactor": 19.45
             },
             {
               "code": "4062",
               "name": "イビデン",
               "price": 8269,
               "change": 97.85,
-              "beta": 1.17,
-              "r2": 0.57,
-              "themeFactor": 109.15,
-              "individualFactor": -11.3
+              "beta": 1.14,
+              "r2": 0.56,
+              "themeFactor": 98.18,
+              "individualFactor": -0.33
             },
             {
               "code": "8035",
               "name": "東京エレクトロン",
               "price": 39290,
               "change": 75.71,
-              "beta": 0.81,
-              "r2": 0.66,
-              "themeFactor": 75.4,
-              "individualFactor": 0.31
+              "beta": 0.79,
+              "r2": 0.65,
+              "themeFactor": 67.97,
+              "individualFactor": 7.74
             },
             {
               "code": "6890",
@@ -1051,38 +1051,28 @@
               "change": 67.2,
               "beta": 0.71,
               "r2": 0.5,
-              "themeFactor": 66.38,
-              "individualFactor": 0.82
+              "themeFactor": 60.55,
+              "individualFactor": 6.64
             },
             {
               "code": "6146",
               "name": "ディスコ",
               "price": 66530,
               "change": 62.4,
-              "beta": 1.03,
-              "r2": 0.61,
-              "themeFactor": 95.67,
-              "individualFactor": -33.27
+              "beta": 1.0,
+              "r2": 0.6,
+              "themeFactor": 85.85,
+              "individualFactor": -23.45
             },
             {
               "code": "6857",
               "name": "アドバンテスト",
               "price": 22070,
               "change": 58.53,
-              "beta": 1.15,
-              "r2": 0.6,
-              "themeFactor": 107.26,
-              "individualFactor": -48.74
-            },
-            {
-              "code": "7735",
-              "name": "SCREEN HD",
-              "price": 19080,
-              "change": 58.41,
-              "beta": 0.76,
-              "r2": 0.45,
-              "themeFactor": 70.33,
-              "individualFactor": -11.92
+              "beta": 1.13,
+              "r2": 0.59,
+              "themeFactor": 96.96,
+              "individualFactor": -38.43
             },
             {
               "code": "6963",
@@ -1091,33 +1081,43 @@
               "change": 57.76,
               "beta": 0.38,
               "r2": 0.14,
-              "themeFactor": 35.42,
-              "individualFactor": 22.34
+              "themeFactor": 32.33,
+              "individualFactor": 25.43
             },
             {
               "code": "3436",
               "name": "SUMCO",
               "price": 1850,
               "change": 40.64,
-              "beta": 0.77,
+              "beta": 0.76,
               "r2": 0.3,
-              "themeFactor": 71.41,
-              "individualFactor": -30.77
+              "themeFactor": 65.04,
+              "individualFactor": -24.4
             },
             {
               "code": "6723",
               "name": "ルネサス",
               "price": 2354,
               "change": 38.0,
-              "beta": 0.67,
+              "beta": 0.65,
               "r2": 0.35,
-              "themeFactor": 61.99,
-              "individualFactor": -23.99
+              "themeFactor": 56.12,
+              "individualFactor": -18.11
+            },
+            {
+              "code": "7735",
+              "name": "SCREEN HD",
+              "price": 9540,
+              "change": -20.79,
+              "beta": 1.03,
+              "r2": 0.32,
+              "themeFactor": 88.29,
+              "individualFactor": -109.08
             }
           ]
         },
         "12M": {
-          "change": 175.8,
+          "change": 167.35,
           "history": [
             100.0,
             98.0,
@@ -1358,12 +1358,12 @@
             287.03,
             282.07,
             294.85,
-            284.87,
-            269.23,
-            271.04,
-            286.52,
-            282.75,
-            275.8
+            276.06,
+            260.88,
+            262.53,
+            277.78,
+            274.09,
+            267.35
           ],
           "stocks": [
             {
@@ -1371,40 +1371,40 @@
               "name": "キオクシアHD",
               "price": 20270,
               "change": 698.35,
-              "beta": 1.56,
+              "beta": 1.54,
               "r2": 0.65,
-              "themeFactor": 273.7,
-              "individualFactor": 424.64
+              "themeFactor": 258.19,
+              "individualFactor": 440.15
             },
             {
               "code": "4062",
               "name": "イビデン",
               "price": 8269,
               "change": 287.61,
-              "beta": 1.11,
-              "r2": 0.63,
-              "themeFactor": 195.63,
-              "individualFactor": 91.98
+              "beta": 1.1,
+              "r2": 0.62,
+              "themeFactor": 184.4,
+              "individualFactor": 103.21
             },
             {
               "code": "6857",
               "name": "アドバンテスト",
               "price": 22070,
               "change": 207.91,
-              "beta": 1.09,
+              "beta": 1.08,
               "r2": 0.63,
-              "themeFactor": 191.73,
-              "individualFactor": 16.19
+              "themeFactor": 181.14,
+              "individualFactor": 26.78
             },
             {
               "code": "6920",
               "name": "レーザーテック",
               "price": 34970,
               "change": 157.77,
-              "beta": 0.99,
+              "beta": 0.98,
               "r2": 0.54,
-              "themeFactor": 173.63,
-              "individualFactor": -15.86
+              "themeFactor": 163.71,
+              "individualFactor": -5.94
             },
             {
               "code": "6890",
@@ -1412,9 +1412,9 @@
               "price": 6500,
               "change": 130.37,
               "beta": 0.69,
-              "r2": 0.54,
-              "themeFactor": 121.76,
-              "individualFactor": 8.61
+              "r2": 0.55,
+              "themeFactor": 115.45,
+              "individualFactor": 14.93
             },
             {
               "code": "6963",
@@ -1423,38 +1423,28 @@
               "change": 115.51,
               "beta": 0.47,
               "r2": 0.23,
-              "themeFactor": 82.66,
-              "individualFactor": 32.85
+              "themeFactor": 78.22,
+              "individualFactor": 37.29
             },
             {
               "code": "6146",
               "name": "ディスコ",
               "price": 66530,
               "change": 100.76,
-              "beta": 1.02,
+              "beta": 1.01,
               "r2": 0.63,
-              "themeFactor": 180.09,
-              "individualFactor": -79.33
-            },
-            {
-              "code": "7735",
-              "name": "SCREEN HD",
-              "price": 19080,
-              "change": 85.92,
-              "beta": 0.78,
-              "r2": 0.53,
-              "themeFactor": 137.54,
-              "individualFactor": -51.62
+              "themeFactor": 169.54,
+              "individualFactor": -68.78
             },
             {
               "code": "8035",
               "name": "東京エレクトロン",
               "price": 39290,
               "change": 80.69,
-              "beta": 0.8,
+              "beta": 0.79,
               "r2": 0.62,
-              "themeFactor": 140.39,
-              "individualFactor": -59.7
+              "themeFactor": 132.4,
+              "individualFactor": -51.71
             },
             {
               "code": "3436",
@@ -1463,18 +1453,28 @@
               "change": 65.44,
               "beta": 0.82,
               "r2": 0.41,
-              "themeFactor": 144.25,
-              "individualFactor": -78.8
+              "themeFactor": 136.56,
+              "individualFactor": -71.11
             },
             {
               "code": "6723",
               "name": "ルネサス",
               "price": 2354,
               "change": 3.47,
-              "beta": 0.78,
-              "r2": 0.44,
-              "themeFactor": 137.24,
-              "individualFactor": -133.78
+              "beta": 0.77,
+              "r2": 0.43,
+              "themeFactor": 129.52,
+              "individualFactor": -126.05
+            },
+            {
+              "code": "7735",
+              "name": "SCREEN HD",
+              "price": 9540,
+              "change": -7.04,
+              "beta": 0.91,
+              "r2": 0.38,
+              "themeFactor": 152.69,
+              "individualFactor": -159.73
             }
           ]
         }
@@ -19363,7 +19363,7 @@
             {
               "code": "9008",
               "name": "京王電鉄",
-              "price": 3946,
+              "price": 789,
               "change": 0.2,
               "beta": 1.0,
               "r2": 0.5,
@@ -19464,7 +19464,7 @@
             {
               "code": "9008",
               "name": "京王電鉄",
-              "price": 3946,
+              "price": 789,
               "change": 1.88,
               "beta": 0.8,
               "r2": 0.64,
@@ -19524,17 +19524,17 @@
           ]
         },
         "10D": {
-          "change": 1.47,
+          "change": -6.65,
           "history": [
             100.0,
             101.07,
             102.52,
-            100.44,
-            98.43,
-            99.51,
-            100.89,
-            101.09,
-            101.47
+            92.46,
+            90.54,
+            91.54,
+            92.83,
+            92.98,
+            93.35
           ],
           "stocks": [
             {
@@ -19542,105 +19542,105 @@
               "name": "西武HD",
               "price": 4380,
               "change": 4.68,
-              "beta": 1.77,
-              "r2": 0.73,
-              "themeFactor": 2.6,
-              "individualFactor": 2.08
+              "beta": 0.52,
+              "r2": 0.45,
+              "themeFactor": -3.46,
+              "individualFactor": 8.15
             },
             {
               "code": "9041",
               "name": "近鉄GHD",
               "price": 3289,
               "change": 4.41,
-              "beta": 0.92,
-              "r2": 0.88,
-              "themeFactor": 1.36,
-              "individualFactor": 3.05
+              "beta": 0.31,
+              "r2": 0.69,
+              "themeFactor": -2.04,
+              "individualFactor": 6.46
             },
             {
               "code": "9005",
               "name": "東急",
               "price": 1888,
               "change": 2.47,
-              "beta": 1.07,
-              "r2": 0.93,
-              "themeFactor": 1.57,
-              "individualFactor": 0.9
+              "beta": 0.37,
+              "r2": 0.78,
+              "themeFactor": -2.43,
+              "individualFactor": 4.9
             },
             {
               "code": "9143",
               "name": "SG HD",
               "price": 1522,
               "change": 1.6,
-              "beta": 1.23,
-              "r2": 0.43,
-              "themeFactor": 1.8,
-              "individualFactor": -0.2
+              "beta": 0.1,
+              "r2": 0.02,
+              "themeFactor": -0.63,
+              "individualFactor": 2.24
             },
             {
               "code": "9007",
               "name": "小田急電鉄",
               "price": 1664,
               "change": 1.59,
-              "beta": 0.75,
-              "r2": 0.8,
-              "themeFactor": 1.1,
-              "individualFactor": 0.49
-            },
-            {
-              "code": "9008",
-              "name": "京王電鉄",
-              "price": 3946,
-              "change": 1.52,
-              "beta": 1.06,
-              "r2": 0.85,
-              "themeFactor": 1.56,
-              "individualFactor": -0.04
+              "beta": 0.25,
+              "r2": 0.61,
+              "themeFactor": -1.63,
+              "individualFactor": 3.22
             },
             {
               "code": "9009",
               "name": "京成電鉄",
               "price": 1233,
               "change": 0.65,
-              "beta": 1.2,
-              "r2": 0.81,
-              "themeFactor": 1.76,
-              "individualFactor": -1.1
+              "beta": 0.45,
+              "r2": 0.8,
+              "themeFactor": -2.97,
+              "individualFactor": 3.63
             },
             {
               "code": "9021",
               "name": "JR西日本",
               "price": 3221,
               "change": -0.4,
-              "beta": 0.87,
-              "r2": 0.81,
-              "themeFactor": 1.28,
-              "individualFactor": -1.69
+              "beta": 0.32,
+              "r2": 0.78,
+              "themeFactor": -2.14,
+              "individualFactor": 1.73
             },
             {
               "code": "9022",
               "name": "JR東海",
               "price": 4221,
               "change": -0.5,
-              "beta": 1.72,
-              "r2": 0.92,
-              "themeFactor": 2.52,
-              "individualFactor": -3.02
+              "beta": 0.54,
+              "r2": 0.66,
+              "themeFactor": -3.62,
+              "individualFactor": 3.13
             },
             {
               "code": "9020",
               "name": "JR東日本",
               "price": 3671,
               "change": -1.34,
-              "beta": 0.82,
-              "r2": 0.52,
-              "themeFactor": 1.2,
-              "individualFactor": -2.54
+              "beta": 0.32,
+              "r2": 0.56,
+              "themeFactor": -2.1,
+              "individualFactor": 0.76
+            },
+            {
+              "code": "9008",
+              "name": "京王電鉄",
+              "price": 789,
+              "change": -79.7,
+              "beta": 8.26,
+              "r2": 0.93,
+              "themeFactor": -54.92,
+              "individualFactor": -24.77
             }
           ]
         },
         "1M": {
-          "change": -3.8,
+          "change": -11.46,
           "history": [
             100.0,
             100.57,
@@ -19660,12 +19660,12 @@
             94.82,
             95.83,
             97.19,
-            95.24,
-            93.33,
-            94.36,
-            95.66,
-            95.85,
-            96.2
+            87.71,
+            85.89,
+            86.84,
+            88.06,
+            88.21,
+            88.54
           ],
           "stocks": [
             {
@@ -19673,68 +19673,58 @@
               "name": "SG HD",
               "price": 1522,
               "change": 0.26,
-              "beta": 1.43,
-              "r2": 0.49,
-              "themeFactor": -5.44,
-              "individualFactor": 5.7
+              "beta": 0.29,
+              "r2": 0.08,
+              "themeFactor": -3.35,
+              "individualFactor": 3.61
             },
             {
               "code": "9041",
               "name": "近鉄GHD",
               "price": 3289,
               "change": -0.33,
-              "beta": 0.78,
-              "r2": 0.72,
-              "themeFactor": -2.95,
-              "individualFactor": 2.62
+              "beta": 0.3,
+              "r2": 0.42,
+              "themeFactor": -3.46,
+              "individualFactor": 3.13
             },
             {
               "code": "9021",
               "name": "JR西日本",
               "price": 3221,
               "change": -1.77,
-              "beta": 0.76,
-              "r2": 0.62,
-              "themeFactor": -2.88,
-              "individualFactor": 1.11
+              "beta": 0.35,
+              "r2": 0.52,
+              "themeFactor": -4.03,
+              "individualFactor": 2.26
             },
             {
               "code": "9005",
               "name": "東急",
               "price": 1888,
               "change": -2.18,
-              "beta": 0.89,
-              "r2": 0.74,
-              "themeFactor": -3.4,
-              "individualFactor": 1.22
+              "beta": 0.37,
+              "r2": 0.5,
+              "themeFactor": -4.28,
+              "individualFactor": 2.11
             },
             {
               "code": "9020",
               "name": "JR東日本",
               "price": 3671,
               "change": -3.75,
-              "beta": 0.85,
-              "r2": 0.52,
-              "themeFactor": -3.25,
-              "individualFactor": -0.5
-            },
-            {
-              "code": "9008",
-              "name": "京王電鉄",
-              "price": 3946,
-              "change": -4.27,
-              "beta": 1.14,
-              "r2": 0.76,
-              "themeFactor": -4.32,
-              "individualFactor": 0.05
+              "beta": 0.38,
+              "r2": 0.4,
+              "themeFactor": -4.37,
+              "individualFactor": 0.62
             },
             {
               "code": "9007",
               "name": "小田急電鉄",
               "price": 1664,
               "change": -4.56,
-              "beta": 1.12,
-              "r2": 0.77,
+              "beta": 0.37,
+              "r2": 0.33,
               "themeFactor": -4.27,
               "individualFactor": -0.29
             },
@@ -19743,35 +19733,45 @@
               "name": "西武HD",
               "price": 4380,
               "change": -5.38,
-              "beta": 1.16,
-              "r2": 0.44,
-              "themeFactor": -4.42,
-              "individualFactor": -0.96
+              "beta": 0.46,
+              "r2": 0.26,
+              "themeFactor": -5.25,
+              "individualFactor": -0.13
             },
             {
               "code": "9009",
               "name": "京成電鉄",
               "price": 1233,
               "change": -7.36,
-              "beta": 1.19,
-              "r2": 0.66,
-              "themeFactor": -4.53,
-              "individualFactor": -2.83
+              "beta": 0.5,
+              "r2": 0.45,
+              "themeFactor": -5.74,
+              "individualFactor": -1.63
             },
             {
               "code": "9022",
               "name": "JR東海",
               "price": 4221,
               "change": -8.7,
-              "beta": 1.15,
-              "r2": 0.61,
-              "themeFactor": -4.37,
-              "individualFactor": -4.33
+              "beta": 0.51,
+              "r2": 0.48,
+              "themeFactor": -5.89,
+              "individualFactor": -2.81
+            },
+            {
+              "code": "9008",
+              "name": "京王電鉄",
+              "price": 789,
+              "change": -80.85,
+              "beta": 6.96,
+              "r2": 0.82,
+              "themeFactor": -79.72,
+              "individualFactor": -1.13
             }
           ]
         },
         "2M": {
-          "change": -0.07,
+          "change": -8.01,
           "history": [
             100.0,
             99.84,
@@ -19812,12 +19812,12 @@
             98.47,
             99.53,
             100.97,
-            98.92,
-            96.93,
-            98.0,
-            99.36,
-            99.55,
-            99.93
+            91.12,
+            89.22,
+            90.21,
+            91.49,
+            91.63,
+            91.99
           ],
           "stocks": [
             {
@@ -19825,105 +19825,105 @@
               "name": "東急",
               "price": 1888,
               "change": 5.5,
-              "beta": 0.93,
-              "r2": 0.56,
-              "themeFactor": -0.07,
-              "individualFactor": 5.57
+              "beta": 0.48,
+              "r2": 0.39,
+              "themeFactor": -3.81,
+              "individualFactor": 9.31
             },
             {
               "code": "9024",
               "name": "西武HD",
               "price": 4380,
               "change": 3.23,
-              "beta": 1.18,
-              "r2": 0.5,
-              "themeFactor": -0.09,
-              "individualFactor": 3.32
+              "beta": 0.59,
+              "r2": 0.33,
+              "themeFactor": -4.71,
+              "individualFactor": 7.94
             },
             {
               "code": "9021",
               "name": "JR西日本",
               "price": 3221,
               "change": 1.93,
-              "beta": 0.98,
-              "r2": 0.5,
-              "themeFactor": -0.07,
-              "individualFactor": 2.0
+              "beta": 0.5,
+              "r2": 0.35,
+              "themeFactor": -3.98,
+              "individualFactor": 5.91
             },
             {
               "code": "9041",
               "name": "近鉄GHD",
               "price": 3289,
               "change": 1.39,
-              "beta": 0.79,
-              "r2": 0.58,
-              "themeFactor": -0.06,
-              "individualFactor": 1.45
+              "beta": 0.38,
+              "r2": 0.36,
+              "themeFactor": -3.06,
+              "individualFactor": 4.45
             },
             {
               "code": "9143",
               "name": "SG HD",
               "price": 1522,
               "change": 1.0,
-              "beta": 1.23,
-              "r2": 0.36,
-              "themeFactor": -0.09,
-              "individualFactor": 1.09
+              "beta": 0.4,
+              "r2": 0.1,
+              "themeFactor": -3.24,
+              "individualFactor": 4.24
             },
             {
               "code": "9022",
               "name": "JR東海",
               "price": 4221,
               "change": 0.09,
-              "beta": 1.09,
-              "r2": 0.4,
-              "themeFactor": -0.08,
-              "individualFactor": 0.18
-            },
-            {
-              "code": "9008",
-              "name": "京王電鉄",
-              "price": 3946,
-              "change": -0.78,
-              "beta": 0.93,
-              "r2": 0.63,
-              "themeFactor": -0.07,
-              "individualFactor": -0.71
+              "beta": 0.6,
+              "r2": 0.33,
+              "themeFactor": -4.84,
+              "individualFactor": 4.93
             },
             {
               "code": "9009",
               "name": "京成電鉄",
               "price": 1233,
               "change": -2.03,
-              "beta": 1.28,
-              "r2": 0.57,
-              "themeFactor": -0.1,
-              "individualFactor": -1.93
+              "beta": 0.65,
+              "r2": 0.39,
+              "themeFactor": -5.21,
+              "individualFactor": 3.18
             },
             {
               "code": "9007",
               "name": "小田急電鉄",
               "price": 1664,
               "change": -3.06,
-              "beta": 1.05,
-              "r2": 0.73,
-              "themeFactor": -0.08,
-              "individualFactor": -2.98
+              "beta": 0.47,
+              "r2": 0.39,
+              "themeFactor": -3.75,
+              "individualFactor": 0.69
             },
             {
               "code": "9020",
               "name": "JR東日本",
               "price": 3671,
               "change": -8.02,
-              "beta": 0.77,
-              "r2": 0.33,
-              "themeFactor": -0.06,
-              "individualFactor": -7.96
+              "beta": 0.42,
+              "r2": 0.26,
+              "themeFactor": -3.33,
+              "individualFactor": -4.68
+            },
+            {
+              "code": "9008",
+              "name": "京王電鉄",
+              "price": 789,
+              "change": -80.16,
+              "beta": 5.78,
+              "r2": 0.72,
+              "themeFactor": -46.31,
+              "individualFactor": -33.84
             }
           ]
         },
         "3M": {
-          "change": 0.91,
+          "change": -7.01,
           "history": [
             100.0,
             101.67,
@@ -19985,12 +19985,12 @@
             99.43,
             100.49,
             101.94,
-            99.9,
-            97.91,
-            99.0,
-            100.35,
-            100.56,
-            100.91
+            92.12,
+            90.21,
+            91.22,
+            92.49,
+            92.66,
+            92.99
           ],
           "stocks": [
             {
@@ -19998,105 +19998,105 @@
               "name": "近鉄GHD",
               "price": 3289,
               "change": 12.12,
-              "beta": 0.71,
-              "r2": 0.47,
-              "themeFactor": 0.65,
-              "individualFactor": 11.47
+              "beta": 0.39,
+              "r2": 0.33,
+              "themeFactor": -2.76,
+              "individualFactor": 14.88
             },
             {
               "code": "9021",
               "name": "JR西日本",
               "price": 3221,
               "change": 5.71,
-              "beta": 0.91,
-              "r2": 0.51,
-              "themeFactor": 0.83,
-              "individualFactor": 4.88
+              "beta": 0.52,
+              "r2": 0.38,
+              "themeFactor": -3.64,
+              "individualFactor": 9.35
             },
             {
               "code": "9005",
               "name": "東急",
               "price": 1888,
               "change": 5.15,
-              "beta": 0.9,
-              "r2": 0.56,
-              "themeFactor": 0.82,
-              "individualFactor": 4.33
+              "beta": 0.5,
+              "r2": 0.4,
+              "themeFactor": -3.52,
+              "individualFactor": 8.67
             },
             {
               "code": "9143",
               "name": "SG HD",
               "price": 1522,
               "change": 5.04,
-              "beta": 1.11,
-              "r2": 0.33,
-              "themeFactor": 1.01,
-              "individualFactor": 4.03
+              "beta": 0.43,
+              "r2": 0.11,
+              "themeFactor": -3.04,
+              "individualFactor": 8.08
             },
             {
               "code": "9009",
               "name": "京成電鉄",
               "price": 1233,
               "change": -0.16,
-              "beta": 1.35,
-              "r2": 0.56,
-              "themeFactor": 1.23,
-              "individualFactor": -1.4
-            },
-            {
-              "code": "9008",
-              "name": "京王電鉄",
-              "price": 3946,
-              "change": -1.0,
-              "beta": 0.89,
-              "r2": 0.63,
-              "themeFactor": 0.81,
-              "individualFactor": -1.81
+              "beta": 0.75,
+              "r2": 0.39,
+              "themeFactor": -5.23,
+              "individualFactor": 5.07
             },
             {
               "code": "9007",
               "name": "小田急電鉄",
               "price": 1664,
               "change": -1.25,
-              "beta": 1.02,
-              "r2": 0.73,
-              "themeFactor": 0.93,
-              "individualFactor": -2.18
+              "beta": 0.52,
+              "r2": 0.42,
+              "themeFactor": -3.62,
+              "individualFactor": 2.37
             },
             {
               "code": "9024",
               "name": "西武HD",
               "price": 4380,
               "change": -3.2,
-              "beta": 1.32,
-              "r2": 0.47,
-              "themeFactor": 1.21,
-              "individualFactor": -4.41
+              "beta": 0.7,
+              "r2": 0.3,
+              "themeFactor": -4.91,
+              "individualFactor": 1.71
             },
             {
               "code": "9022",
               "name": "JR東海",
               "price": 4221,
               "change": -4.09,
-              "beta": 1.11,
-              "r2": 0.43,
-              "themeFactor": 1.01,
-              "individualFactor": -5.1
+              "beta": 0.66,
+              "r2": 0.35,
+              "themeFactor": -4.6,
+              "individualFactor": 0.51
             },
             {
               "code": "9020",
               "name": "JR東日本",
               "price": 3671,
               "change": -9.2,
-              "beta": 0.84,
-              "r2": 0.37,
-              "themeFactor": 0.77,
-              "individualFactor": -9.97
+              "beta": 0.48,
+              "r2": 0.28,
+              "themeFactor": -3.38,
+              "individualFactor": -5.82
+            },
+            {
+              "code": "9008",
+              "name": "京王電鉄",
+              "price": 789,
+              "change": -80.2,
+              "beta": 5.31,
+              "r2": 0.67,
+              "themeFactor": -37.22,
+              "individualFactor": -42.98
             }
           ]
         },
         "6M": {
-          "change": -2.63,
+          "change": -10.83,
           "history": [
             100.0,
             100.87,
@@ -20221,12 +20221,12 @@
             96.03,
             97.03,
             98.38,
-            96.39,
-            94.5,
-            95.56,
-            96.85,
-            97.07,
-            97.37
+            88.34,
+            86.54,
+            87.51,
+            88.72,
+            88.89,
+            89.17
           ],
           "stocks": [
             {
@@ -20234,105 +20234,105 @@
               "name": "近鉄GHD",
               "price": 3289,
               "change": 7.36,
-              "beta": 0.91,
-              "r2": 0.52,
-              "themeFactor": -2.39,
-              "individualFactor": 9.75
-            },
-            {
-              "code": "9008",
-              "name": "京王電鉄",
-              "price": 3946,
-              "change": 2.47,
-              "beta": 0.94,
-              "r2": 0.63,
-              "themeFactor": -2.46,
-              "individualFactor": 4.93
+              "beta": 0.56,
+              "r2": 0.36,
+              "themeFactor": -6.07,
+              "individualFactor": 13.43
             },
             {
               "code": "9005",
               "name": "東急",
               "price": 1888,
               "change": 1.61,
-              "beta": 0.95,
-              "r2": 0.59,
-              "themeFactor": -2.5,
-              "individualFactor": 4.11
+              "beta": 0.61,
+              "r2": 0.43,
+              "themeFactor": -6.56,
+              "individualFactor": 8.17
             },
             {
               "code": "9022",
               "name": "JR東海",
               "price": 4221,
               "change": 1.19,
-              "beta": 1.15,
-              "r2": 0.4,
-              "themeFactor": -3.04,
-              "individualFactor": 4.23
+              "beta": 0.77,
+              "r2": 0.32,
+              "themeFactor": -8.34,
+              "individualFactor": 9.53
             },
             {
               "code": "9020",
               "name": "JR東日本",
               "price": 3671,
               "change": 0.7,
-              "beta": 1.0,
-              "r2": 0.44,
-              "themeFactor": -2.62,
-              "individualFactor": 3.32
+              "beta": 0.64,
+              "r2": 0.33,
+              "themeFactor": -6.96,
+              "individualFactor": 7.66
             },
             {
               "code": "9007",
               "name": "小田急電鉄",
               "price": 1664,
               "change": -1.89,
-              "beta": 1.04,
-              "r2": 0.71,
-              "themeFactor": -2.73,
-              "individualFactor": 0.85
+              "beta": 0.63,
+              "r2": 0.47,
+              "themeFactor": -6.79,
+              "individualFactor": 4.9
             },
             {
               "code": "9021",
               "name": "JR西日本",
               "price": 3221,
               "change": -2.54,
-              "beta": 0.94,
-              "r2": 0.55,
-              "themeFactor": -2.47,
-              "individualFactor": -0.08
+              "beta": 0.6,
+              "r2": 0.41,
+              "themeFactor": -6.55,
+              "individualFactor": 4.0
             },
             {
               "code": "9143",
               "name": "SG HD",
               "price": 1522,
               "change": -3.27,
-              "beta": 0.93,
-              "r2": 0.29,
-              "themeFactor": -2.44,
-              "individualFactor": -0.83
+              "beta": 0.47,
+              "r2": 0.14,
+              "themeFactor": -5.1,
+              "individualFactor": 1.84
             },
             {
               "code": "9009",
               "name": "京成電鉄",
               "price": 1233,
               "change": -10.14,
-              "beta": 1.12,
-              "r2": 0.45,
-              "themeFactor": -2.94,
-              "individualFactor": -7.2
+              "beta": 0.73,
+              "r2": 0.35,
+              "themeFactor": -7.92,
+              "individualFactor": -2.23
             },
             {
               "code": "9024",
               "name": "西武HD",
               "price": 4380,
               "change": -21.78,
-              "beta": 1.13,
-              "r2": 0.37,
-              "themeFactor": -2.97,
-              "individualFactor": -18.81
+              "beta": 0.71,
+              "r2": 0.27,
+              "themeFactor": -7.7,
+              "individualFactor": -14.08
+            },
+            {
+              "code": "9008",
+              "name": "京王電鉄",
+              "price": 789,
+              "change": -79.51,
+              "beta": 4.18,
+              "r2": 0.58,
+              "themeFactor": -45.22,
+              "individualFactor": -34.29
             }
           ]
         },
         "12M": {
-          "change": 10.26,
+          "change": 2.03,
           "history": [
             100.0,
             99.47,
@@ -20573,12 +20573,12 @@
             108.77,
             109.96,
             111.49,
-            109.15,
-            106.95,
-            108.09,
-            109.67,
-            109.8,
-            110.26
+            101.06,
+            98.94,
+            100.01,
+            101.5,
+            101.59,
+            102.03
           ],
           "stocks": [
             {
@@ -20586,100 +20586,100 @@
               "name": "JR東海",
               "price": 4221,
               "change": 41.56,
-              "beta": 1.15,
-              "r2": 0.5,
-              "themeFactor": 11.83,
-              "individualFactor": 29.73
+              "beta": 0.96,
+              "r2": 0.45,
+              "themeFactor": 1.95,
+              "individualFactor": 39.61
             },
             {
               "code": "9024",
               "name": "西武HD",
               "price": 4380,
               "change": 22.62,
-              "beta": 1.35,
-              "r2": 0.43,
-              "themeFactor": 13.87,
-              "individualFactor": 8.75
+              "beta": 1.1,
+              "r2": 0.36,
+              "themeFactor": 2.22,
+              "individualFactor": 20.4
             },
             {
               "code": "9020",
               "name": "JR東日本",
               "price": 3671,
               "change": 21.5,
-              "beta": 1.01,
-              "r2": 0.56,
-              "themeFactor": 10.32,
-              "individualFactor": 11.18
+              "beta": 0.83,
+              "r2": 0.49,
+              "themeFactor": 1.68,
+              "individualFactor": 19.82
             },
             {
               "code": "9007",
               "name": "小田急電鉄",
               "price": 1664,
               "change": 11.45,
-              "beta": 0.98,
-              "r2": 0.67,
-              "themeFactor": 10.07,
-              "individualFactor": 1.38
+              "beta": 0.79,
+              "r2": 0.56,
+              "themeFactor": 1.6,
+              "individualFactor": 9.85
             },
             {
               "code": "9005",
               "name": "東急",
               "price": 1888,
               "change": 9.41,
-              "beta": 0.85,
-              "r2": 0.62,
-              "themeFactor": 8.7,
-              "individualFactor": 0.71
+              "beta": 0.7,
+              "r2": 0.55,
+              "themeFactor": 1.42,
+              "individualFactor": 7.99
             },
             {
               "code": "9021",
               "name": "JR西日本",
               "price": 3221,
               "change": 8.34,
-              "beta": 0.87,
-              "r2": 0.57,
-              "themeFactor": 8.95,
-              "individualFactor": -0.62
-            },
-            {
-              "code": "9008",
-              "name": "京王電鉄",
-              "price": 3946,
-              "change": 2.94,
-              "beta": 1.0,
-              "r2": 0.58,
-              "themeFactor": 10.3,
-              "individualFactor": -7.36
+              "beta": 0.72,
+              "r2": 0.51,
+              "themeFactor": 1.46,
+              "individualFactor": 6.88
             },
             {
               "code": "9143",
               "name": "SG HD",
               "price": 1522,
               "change": -0.53,
-              "beta": 0.73,
-              "r2": 0.23,
-              "themeFactor": 7.5,
-              "individualFactor": -8.03
+              "beta": 0.54,
+              "r2": 0.17,
+              "themeFactor": 1.1,
+              "individualFactor": -1.64
             },
             {
               "code": "9041",
               "name": "近鉄GHD",
               "price": 3289,
               "change": -0.73,
-              "beta": 0.86,
-              "r2": 0.52,
-              "themeFactor": 8.84,
-              "individualFactor": -9.57
+              "beta": 0.7,
+              "r2": 0.44,
+              "themeFactor": 1.41,
+              "individualFactor": -2.14
             },
             {
               "code": "9009",
               "name": "京成電鉄",
               "price": 1233,
               "change": -13.94,
-              "beta": 1.14,
-              "r2": 0.43,
-              "themeFactor": 11.71,
-              "individualFactor": -25.65
+              "beta": 0.94,
+              "r2": 0.38,
+              "themeFactor": 1.91,
+              "individualFactor": -15.85
+            },
+            {
+              "code": "9008",
+              "name": "京王電鉄",
+              "price": 789,
+              "change": -79.41,
+              "beta": 2.81,
+              "r2": 0.42,
+              "themeFactor": 5.69,
+              "individualFactor": -85.1
             }
           ]
         }
@@ -26785,7 +26785,7 @@
             {
               "code": "7012",
               "name": "Stock 7012",
-              "price": 15195,
+              "price": 3039,
               "change": -0.72,
               "beta": 1.0,
               "r2": 0.5,
@@ -26856,7 +26856,7 @@
             {
               "code": "7012",
               "name": "Stock 7012",
-              "price": 15195,
+              "price": 3039,
               "change": 0.5,
               "beta": -0.18,
               "r2": 0.02,
@@ -26886,17 +26886,17 @@
           ]
         },
         "10D": {
-          "change": -5.77,
+          "change": -18.3,
           "history": [
             100.0,
             99.74,
             102.56,
-            100.02,
-            94.3,
-            93.64,
-            95.26,
-            94.83,
-            94.23
+            86.41,
+            81.62,
+            81.17,
+            82.8,
+            82.21,
+            81.7
           ],
           "stocks": [
             {
@@ -26904,65 +26904,65 @@
               "name": "Stock 4272",
               "price": 1810,
               "change": 0.22,
-              "beta": 0.51,
-              "r2": 0.48,
-              "themeFactor": -2.93,
-              "individualFactor": 3.15
+              "beta": 0.28,
+              "r2": 0.75,
+              "themeFactor": -5.05,
+              "individualFactor": 5.28
             },
             {
               "code": "6201",
               "name": "Stock 6201",
               "price": 20405,
               "change": -0.78,
-              "beta": 0.1,
-              "r2": 0.65,
-              "themeFactor": -0.55,
-              "individualFactor": -0.23
+              "beta": 0.02,
+              "r2": 0.12,
+              "themeFactor": -0.33,
+              "individualFactor": -0.45
             },
             {
               "code": "7011",
               "name": "Stock 7011",
               "price": 4577,
               "change": -4.49,
-              "beta": 1.35,
-              "r2": 0.85,
-              "themeFactor": -7.78,
-              "individualFactor": 3.29
-            },
-            {
-              "code": "7012",
-              "name": "Stock 7012",
-              "price": 15195,
-              "change": -6.0,
-              "beta": 1.36,
-              "r2": 0.86,
-              "themeFactor": -7.87,
-              "individualFactor": 1.87
+              "beta": 0.41,
+              "r2": 0.41,
+              "themeFactor": -7.44,
+              "individualFactor": 2.95
             },
             {
               "code": "7013",
               "name": "Stock 7013",
               "price": 3500,
               "change": -6.19,
-              "beta": 1.65,
-              "r2": 0.96,
-              "themeFactor": -9.53,
-              "individualFactor": 3.34
+              "beta": 0.52,
+              "r2": 0.49,
+              "themeFactor": -9.43,
+              "individualFactor": 3.24
             },
             {
               "code": "7721",
               "name": "Stock 7721",
               "price": 6990,
               "change": -17.38,
-              "beta": 1.92,
-              "r2": 0.79,
-              "themeFactor": -11.08,
-              "individualFactor": -6.3
+              "beta": 0.35,
+              "r2": 0.14,
+              "themeFactor": -6.44,
+              "individualFactor": -10.93
+            },
+            {
+              "code": "7012",
+              "name": "Stock 7012",
+              "price": 3039,
+              "change": -81.2,
+              "beta": 5.17,
+              "r2": 0.9,
+              "themeFactor": -94.65,
+              "individualFactor": 13.45
             }
           ]
         },
         "1M": {
-          "change": -11.42,
+          "change": -22.73,
           "history": [
             100.0,
             98.08,
@@ -26982,12 +26982,12 @@
             93.97,
             93.7,
             96.28,
-            93.95,
-            88.66,
-            88.06,
-            89.57,
-            89.16,
-            88.58
+            81.67,
+            77.22,
+            76.81,
+            78.33,
+            77.77,
+            77.27
           ],
           "stocks": [
             {
@@ -26995,65 +26995,65 @@
               "name": "Stock 6201",
               "price": 20405,
               "change": 1.01,
-              "beta": 0.07,
-              "r2": 0.18,
-              "themeFactor": -0.74,
-              "individualFactor": 1.76
+              "beta": 0.03,
+              "r2": 0.11,
+              "themeFactor": -0.71,
+              "individualFactor": 1.72
             },
             {
               "code": "4272",
               "name": "Stock 4272",
               "price": 1810,
               "change": -5.97,
-              "beta": 0.55,
-              "r2": 0.45,
-              "themeFactor": -6.27,
-              "individualFactor": 0.3
+              "beta": 0.32,
+              "r2": 0.4,
+              "themeFactor": -7.33,
+              "individualFactor": 1.36
             },
             {
               "code": "7011",
               "name": "Stock 7011",
               "price": 4577,
               "change": -7.81,
-              "beta": 1.25,
-              "r2": 0.87,
-              "themeFactor": -14.29,
-              "individualFactor": 6.48
-            },
-            {
-              "code": "7012",
-              "name": "Stock 7012",
-              "price": 15195,
-              "change": -15.18,
-              "beta": 1.37,
-              "r2": 0.85,
-              "themeFactor": -15.6,
-              "individualFactor": 0.42
+              "beta": 0.6,
+              "r2": 0.51,
+              "themeFactor": -13.67,
+              "individualFactor": 5.86
             },
             {
               "code": "7013",
               "name": "Stock 7013",
               "price": 3500,
               "change": -20.16,
-              "beta": 1.34,
-              "r2": 0.83,
-              "themeFactor": -15.36,
-              "individualFactor": -4.81
+              "beta": 0.66,
+              "r2": 0.5,
+              "themeFactor": -14.91,
+              "individualFactor": -5.25
             },
             {
               "code": "7721",
               "name": "Stock 7721",
               "price": 6990,
               "change": -20.39,
-              "beta": 1.79,
-              "r2": 0.8,
-              "themeFactor": -20.39,
-              "individualFactor": 0.0
+              "beta": 0.75,
+              "r2": 0.36,
+              "themeFactor": -17.09,
+              "individualFactor": -3.3
+            },
+            {
+              "code": "7012",
+              "name": "Stock 7012",
+              "price": 3039,
+              "change": -83.04,
+              "beta": 4.02,
+              "r2": 0.78,
+              "themeFactor": -91.31,
+              "individualFactor": 8.28
             }
           ]
         },
         "2M": {
-          "change": 0.53,
+          "change": -13.54,
           "history": [
             100.0,
             98.32,
@@ -27094,78 +27094,78 @@
             107.06,
             106.63,
             109.69,
-            107.01,
-            100.74,
-            100.02,
-            101.77,
-            101.28,
-            100.53
+            91.73,
+            86.51,
+            86.02,
+            87.79,
+            87.11,
+            86.46
           ],
           "stocks": [
-            {
-              "code": "7012",
-              "name": "Stock 7012",
-              "price": 15195,
-              "change": 5.52,
-              "beta": 1.62,
-              "r2": 0.82,
-              "themeFactor": 0.86,
-              "individualFactor": 4.66
-            },
             {
               "code": "6201",
               "name": "Stock 6201",
               "price": 20405,
               "change": 4.96,
-              "beta": 0.04,
+              "beta": 0.02,
               "r2": 0.01,
-              "themeFactor": 0.02,
-              "individualFactor": 4.94
+              "themeFactor": -0.33,
+              "individualFactor": 5.3
             },
             {
               "code": "4272",
               "name": "Stock 4272",
               "price": 1810,
               "change": 1.66,
-              "beta": 0.35,
-              "r2": 0.29,
-              "themeFactor": 0.19,
-              "individualFactor": 1.47
+              "beta": 0.26,
+              "r2": 0.31,
+              "themeFactor": -3.48,
+              "individualFactor": 5.14
             },
             {
               "code": "7721",
               "name": "Stock 7721",
               "price": 6990,
               "change": 0.14,
-              "beta": 1.54,
-              "r2": 0.74,
-              "themeFactor": 0.82,
-              "individualFactor": -0.67
+              "beta": 0.82,
+              "r2": 0.42,
+              "themeFactor": -11.04,
+              "individualFactor": 11.18
             },
             {
               "code": "7011",
               "name": "Stock 7011",
               "price": 4577,
               "change": -4.55,
-              "beta": 1.03,
-              "r2": 0.82,
-              "themeFactor": 0.55,
-              "individualFactor": -5.09
+              "beta": 0.59,
+              "r2": 0.55,
+              "themeFactor": -7.98,
+              "individualFactor": 3.44
             },
             {
               "code": "7013",
               "name": "Stock 7013",
               "price": 3500,
               "change": -4.55,
-              "beta": 1.46,
-              "r2": 0.82,
-              "themeFactor": 0.78,
-              "individualFactor": -5.33
+              "beta": 0.83,
+              "r2": 0.54,
+              "themeFactor": -11.27,
+              "individualFactor": 6.71
+            },
+            {
+              "code": "7012",
+              "name": "Stock 7012",
+              "price": 3039,
+              "change": -78.9,
+              "beta": 3.4,
+              "r2": 0.79,
+              "themeFactor": -45.98,
+              "individualFactor": -32.91
             }
           ]
         },
         "3M": {
-          "change": 21.42,
+          "change": 3.88,
           "history": [
             100.0,
             97.92,
@@ -27227,12 +27227,12 @@
             129.85,
             129.25,
             133.07,
-            129.76,
-            121.79,
-            120.82,
-            123.04,
-            122.38,
-            121.42
+            110.72,
+            104.06,
+            103.36,
+            105.61,
+            104.71,
+            103.88
           ],
           "stocks": [
             {
@@ -27240,65 +27240,65 @@
               "name": "Stock 7721",
               "price": 6990,
               "change": 32.14,
-              "beta": 1.45,
-              "r2": 0.74,
-              "themeFactor": 31.06,
-              "individualFactor": 1.08
-            },
-            {
-              "code": "7012",
-              "name": "Stock 7012",
-              "price": 15195,
-              "change": 31.56,
-              "beta": 1.56,
-              "r2": 0.82,
-              "themeFactor": 33.5,
-              "individualFactor": -1.94
+              "beta": 0.87,
+              "r2": 0.48,
+              "themeFactor": 3.36,
+              "individualFactor": 28.77
             },
             {
               "code": "7013",
               "name": "Stock 7013",
               "price": 3500,
               "change": 24.47,
-              "beta": 1.36,
-              "r2": 0.81,
-              "themeFactor": 29.17,
-              "individualFactor": -4.7
+              "beta": 0.86,
+              "r2": 0.58,
+              "themeFactor": 3.34,
+              "individualFactor": 21.13
             },
             {
               "code": "7011",
               "name": "Stock 7011",
               "price": 4577,
               "change": 17.09,
-              "beta": 1.07,
-              "r2": 0.8,
-              "themeFactor": 22.85,
-              "individualFactor": -5.76
+              "beta": 0.67,
+              "r2": 0.56,
+              "themeFactor": 2.6,
+              "individualFactor": 14.49
             },
             {
               "code": "6201",
               "name": "Stock 6201",
               "price": 20405,
               "change": 15.28,
-              "beta": 0.09,
-              "r2": 0.04,
-              "themeFactor": 1.89,
-              "individualFactor": 13.39
+              "beta": 0.06,
+              "r2": 0.03,
+              "themeFactor": 0.22,
+              "individualFactor": 15.06
             },
             {
               "code": "4272",
               "name": "Stock 4272",
               "price": 1810,
               "change": 8.0,
-              "beta": 0.28,
-              "r2": 0.23,
-              "themeFactor": 6.09,
-              "individualFactor": 1.91
+              "beta": 0.23,
+              "r2": 0.27,
+              "themeFactor": 0.88,
+              "individualFactor": 7.11
+            },
+            {
+              "code": "7012",
+              "name": "Stock 7012",
+              "price": 3039,
+              "change": -73.69,
+              "beta": 3.04,
+              "r2": 0.76,
+              "themeFactor": 11.8,
+              "individualFactor": -85.48
             }
           ]
         },
         "6M": {
-          "change": 40.35,
+          "change": 18.2,
           "history": [
             100.0,
             100.99,
@@ -27423,78 +27423,78 @@
             150.16,
             149.44,
             153.99,
-            150.1,
-            140.81,
-            139.68,
-            142.22,
-            141.5,
-            140.35
+            126.05,
+            118.41,
+            117.63,
+            120.2,
+            119.19,
+            118.2
           ],
           "stocks": [
-            {
-              "code": "7012",
-              "name": "Stock 7012",
-              "price": 15195,
-              "change": 66.14,
-              "beta": 1.43,
-              "r2": 0.82,
-              "themeFactor": 57.7,
-              "individualFactor": 8.44
-            },
             {
               "code": "7013",
               "name": "Stock 7013",
               "price": 3500,
               "change": 52.55,
-              "beta": 1.37,
-              "r2": 0.8,
-              "themeFactor": 55.36,
-              "individualFactor": -2.82
+              "beta": 1.0,
+              "r2": 0.62,
+              "themeFactor": 18.17,
+              "individualFactor": 34.38
             },
             {
               "code": "7721",
               "name": "Stock 7721",
               "price": 6990,
               "change": 51.3,
-              "beta": 1.57,
-              "r2": 0.77,
-              "themeFactor": 63.43,
-              "individualFactor": -12.13
+              "beta": 1.1,
+              "r2": 0.56,
+              "themeFactor": 20.08,
+              "individualFactor": 31.21
             },
             {
               "code": "4272",
               "name": "Stock 4272",
               "price": 1810,
               "change": 27.95,
-              "beta": 0.25,
-              "r2": 0.2,
-              "themeFactor": 10.24,
-              "individualFactor": 17.71
+              "beta": 0.22,
+              "r2": 0.22,
+              "themeFactor": 4.0,
+              "individualFactor": 23.95
             },
             {
               "code": "6201",
               "name": "Stock 6201",
               "price": 20405,
               "change": 23.93,
-              "beta": 0.07,
-              "r2": 0.03,
-              "themeFactor": 2.64,
-              "individualFactor": 21.29
+              "beta": 0.05,
+              "r2": 0.02,
+              "themeFactor": 0.88,
+              "individualFactor": 23.05
             },
             {
               "code": "7011",
               "name": "Stock 7011",
               "price": 4577,
               "change": 20.25,
-              "beta": 1.06,
-              "r2": 0.76,
-              "themeFactor": 42.84,
-              "individualFactor": -22.59
+              "beta": 0.77,
+              "r2": 0.59,
+              "themeFactor": 13.99,
+              "individualFactor": 6.26
+            },
+            {
+              "code": "7012",
+              "name": "Stock 7012",
+              "price": 3039,
+              "change": -66.77,
+              "beta": 2.42,
+              "r2": 0.72,
+              "themeFactor": 44.04,
+              "individualFactor": -110.81
             }
           ]
         },
         "12M": {
-          "change": 73.25,
+          "change": 51.42,
           "history": [
             100.0,
             98.77,
@@ -27735,12 +27735,12 @@
             185.67,
             184.92,
             190.49,
-            185.57,
-            173.74,
-            172.21,
-            175.61,
-            174.52,
-            173.25
+            161.88,
+            151.68,
+            150.49,
+            153.91,
+            152.54,
+            151.42
           ],
           "stocks": [
             {
@@ -27748,60 +27748,60 @@
               "name": "Stock 7013",
               "price": 3500,
               "change": 125.98,
-              "beta": 1.23,
-              "r2": 0.77,
-              "themeFactor": 90.42,
-              "individualFactor": 35.57
+              "beta": 1.09,
+              "r2": 0.71,
+              "themeFactor": 56.28,
+              "individualFactor": 69.7
             },
             {
               "code": "7721",
               "name": "Stock 7721",
               "price": 6990,
               "change": 90.98,
-              "beta": 1.43,
-              "r2": 0.73,
-              "themeFactor": 104.68,
-              "individualFactor": -13.7
+              "beta": 1.25,
+              "r2": 0.64,
+              "themeFactor": 64.05,
+              "individualFactor": 26.94
             },
             {
               "code": "7011",
               "name": "Stock 7011",
               "price": 4577,
               "change": 72.86,
-              "beta": 1.12,
-              "r2": 0.78,
-              "themeFactor": 81.96,
-              "individualFactor": -9.09
-            },
-            {
-              "code": "7012",
-              "name": "Stock 7012",
-              "price": 15195,
-              "change": 63.67,
-              "beta": 1.39,
-              "r2": 0.81,
-              "themeFactor": 101.86,
-              "individualFactor": -38.18
+              "beta": 0.99,
+              "r2": 0.71,
+              "themeFactor": 50.71,
+              "individualFactor": 22.15
             },
             {
               "code": "6201",
               "name": "Stock 6201",
               "price": 20405,
               "change": 52.33,
-              "beta": 0.39,
-              "r2": 0.18,
-              "themeFactor": 28.66,
-              "individualFactor": 23.67
+              "beta": 0.34,
+              "r2": 0.16,
+              "themeFactor": 17.38,
+              "individualFactor": 34.95
             },
             {
               "code": "4272",
               "name": "Stock 4272",
               "price": 1810,
               "change": 33.64,
-              "beta": 0.26,
-              "r2": 0.21,
-              "themeFactor": 18.71,
-              "individualFactor": 14.93
+              "beta": 0.24,
+              "r2": 0.22,
+              "themeFactor": 12.51,
+              "individualFactor": 21.13
+            },
+            {
+              "code": "7012",
+              "name": "Stock 7012",
+              "price": 3039,
+              "change": -67.27,
+              "beta": 1.97,
+              "r2": 0.63,
+              "themeFactor": 101.14,
+              "individualFactor": -168.4
             }
           ]
         }
@@ -31803,7 +31803,7 @@
             {
               "code": "7012",
               "name": "Stock 7012",
-              "price": 15195,
+              "price": 3039,
               "change": -0.72,
               "beta": 1.0,
               "r2": 0.5,
@@ -31894,7 +31894,7 @@
             {
               "code": "7012",
               "name": "Stock 7012",
-              "price": 15195,
+              "price": 3039,
               "change": 0.5,
               "beta": -0.6,
               "r2": 0.19,
@@ -31914,17 +31914,17 @@
           ]
         },
         "10D": {
-          "change": -1.47,
+          "change": -10.87,
           "history": [
             100.0,
             100.36,
             105.6,
-            102.73,
-            96.14,
-            96.14,
-            98.01,
-            98.04,
-            98.53
+            92.53,
+            86.64,
+            86.79,
+            88.67,
+            88.57,
+            89.13
           ],
           "stocks": [
             {
@@ -31932,85 +31932,85 @@
               "name": "Stock 5019",
               "price": 1553,
               "change": 7.77,
-              "beta": 0.98,
-              "r2": 0.74,
-              "themeFactor": -1.44,
-              "individualFactor": 9.21
+              "beta": 0.61,
+              "r2": 0.78,
+              "themeFactor": -6.68,
+              "individualFactor": 14.45
             },
             {
               "code": "8088",
               "name": "Stock 8088",
               "price": 2066,
               "change": 7.66,
-              "beta": 0.73,
-              "r2": 0.34,
-              "themeFactor": -1.08,
-              "individualFactor": 8.73
+              "beta": 0.54,
+              "r2": 0.49,
+              "themeFactor": -5.86,
+              "individualFactor": 13.52
             },
             {
               "code": "8616",
               "name": "Stock 8616",
               "price": 759,
               "change": 2.99,
-              "beta": 0.59,
-              "r2": 0.76,
-              "themeFactor": -0.86,
-              "individualFactor": 3.85
+              "beta": 0.31,
+              "r2": 0.57,
+              "themeFactor": -3.39,
+              "individualFactor": 6.37
             },
             {
               "code": "4088",
               "name": "Stock 4088",
               "price": 2173,
               "change": 1.8,
-              "beta": 0.48,
-              "r2": 0.42,
-              "themeFactor": -0.71,
-              "individualFactor": 2.51
+              "beta": 0.43,
+              "r2": 0.88,
+              "themeFactor": -4.64,
+              "individualFactor": 6.44
             },
             {
               "code": "6331",
               "name": "Stock 6331",
               "price": 3120,
               "change": -3.85,
-              "beta": 1.45,
-              "r2": 0.88,
-              "themeFactor": -2.13,
-              "individualFactor": -1.72
+              "beta": 0.83,
+              "r2": 0.76,
+              "themeFactor": -8.97,
+              "individualFactor": 5.12
             },
             {
               "code": "7011",
               "name": "Stock 7011",
               "price": 4577,
               "change": -4.49,
-              "beta": 1.01,
-              "r2": 0.82,
-              "themeFactor": -1.49,
-              "individualFactor": -3.0
-            },
-            {
-              "code": "7012",
-              "name": "Stock 7012",
-              "price": 15195,
-              "change": -6.0,
-              "beta": 1.07,
-              "r2": 0.9,
-              "themeFactor": -1.58,
-              "individualFactor": -4.42
+              "beta": 0.51,
+              "r2": 0.56,
+              "themeFactor": -5.57,
+              "individualFactor": 1.08
             },
             {
               "code": "6330",
               "name": "Stock 6330",
               "price": 2664,
               "change": -17.65,
-              "beta": 2.79,
-              "r2": 0.61,
-              "themeFactor": -4.1,
-              "individualFactor": -13.55
+              "beta": 0.78,
+              "r2": 0.13,
+              "themeFactor": -8.49,
+              "individualFactor": -9.17
+            },
+            {
+              "code": "7012",
+              "name": "Stock 7012",
+              "price": 3039,
+              "change": -81.2,
+              "beta": 5.13,
+              "r2": 0.76,
+              "themeFactor": -55.8,
+              "individualFactor": -25.4
             }
           ]
         },
         "1M": {
-          "change": -4.76,
+          "change": -13.24,
           "history": [
             100.0,
             97.93,
@@ -32030,12 +32030,12 @@
             96.67,
             97.0,
             102.1,
-            99.43,
-            92.95,
-            92.85,
-            94.67,
-            94.72,
-            95.24
+            90.22,
+            84.38,
+            84.41,
+            86.24,
+            86.17,
+            86.76
           ],
           "stocks": [
             {
@@ -32043,85 +32043,85 @@
               "name": "Stock 5019",
               "price": 1553,
               "change": 9.67,
-              "beta": 0.84,
-              "r2": 0.7,
-              "themeFactor": -4.01,
-              "individualFactor": 13.68
+              "beta": 0.67,
+              "r2": 0.66,
+              "themeFactor": -8.83,
+              "individualFactor": 18.5
             },
             {
               "code": "8088",
               "name": "Stock 8088",
               "price": 2066,
               "change": 7.02,
-              "beta": 0.91,
-              "r2": 0.55,
-              "themeFactor": -4.33,
-              "individualFactor": 11.35
+              "beta": 0.72,
+              "r2": 0.52,
+              "themeFactor": -9.5,
+              "individualFactor": 16.52
             },
             {
               "code": "4088",
               "name": "Stock 4088",
               "price": 2173,
               "change": 3.4,
-              "beta": 0.5,
-              "r2": 0.62,
-              "themeFactor": -2.36,
-              "individualFactor": 5.76
+              "beta": 0.45,
+              "r2": 0.77,
+              "themeFactor": -5.94,
+              "individualFactor": 9.34
             },
             {
               "code": "8616",
               "name": "Stock 8616",
               "price": 759,
               "change": -1.81,
-              "beta": 0.69,
-              "r2": 0.75,
-              "themeFactor": -3.27,
-              "individualFactor": 1.46
+              "beta": 0.49,
+              "r2": 0.57,
+              "themeFactor": -6.47,
+              "individualFactor": 4.66
             },
             {
               "code": "7011",
               "name": "Stock 7011",
               "price": 4577,
               "change": -7.81,
-              "beta": 0.81,
-              "r2": 0.65,
-              "themeFactor": -3.86,
-              "individualFactor": -3.96
+              "beta": 0.61,
+              "r2": 0.55,
+              "themeFactor": -8.03,
+              "individualFactor": 0.22
             },
             {
               "code": "6330",
               "name": "Stock 6330",
               "price": 2664,
               "change": -12.94,
-              "beta": 2.42,
-              "r2": 0.61,
-              "themeFactor": -11.52,
-              "individualFactor": -1.42
-            },
-            {
-              "code": "7012",
-              "name": "Stock 7012",
-              "price": 15195,
-              "change": -15.18,
-              "beta": 0.98,
-              "r2": 0.78,
-              "themeFactor": -4.66,
-              "individualFactor": -10.53
+              "beta": 1.51,
+              "r2": 0.36,
+              "themeFactor": -19.97,
+              "individualFactor": 7.03
             },
             {
               "code": "6331",
               "name": "Stock 6331",
               "price": 3120,
               "change": -20.41,
-              "beta": 1.2,
-              "r2": 0.83,
-              "themeFactor": -5.72,
-              "individualFactor": -14.69
+              "beta": 0.92,
+              "r2": 0.74,
+              "themeFactor": -12.22,
+              "individualFactor": -8.19
+            },
+            {
+              "code": "7012",
+              "name": "Stock 7012",
+              "price": 3039,
+              "change": -83.04,
+              "beta": 3.2,
+              "r2": 0.53,
+              "themeFactor": -42.32,
+              "individualFactor": -40.71
             }
           ]
         },
         "2M": {
-          "change": -2.77,
+          "change": -13.32,
           "history": [
             100.0,
             98.78,
@@ -32162,12 +32162,12 @@
             97.77,
             98.38,
             103.18,
-            100.09,
-            94.37,
-            94.98,
-            96.56,
-            96.74,
-            97.23
+            88.63,
+            83.7,
+            84.48,
+            86.07,
+            86.11,
+            86.68
           ],
           "stocks": [
             {
@@ -32175,85 +32175,85 @@
               "name": "Stock 5019",
               "price": 1553,
               "change": 22.61,
-              "beta": 0.88,
-              "r2": 0.7,
-              "themeFactor": -2.43,
-              "individualFactor": 25.05
+              "beta": 0.63,
+              "r2": 0.6,
+              "themeFactor": -8.43,
+              "individualFactor": 31.04
             },
             {
               "code": "8088",
               "name": "Stock 8088",
               "price": 2066,
               "change": 14.05,
-              "beta": 0.91,
-              "r2": 0.54,
-              "themeFactor": -2.52,
-              "individualFactor": 16.57
-            },
-            {
-              "code": "7012",
-              "name": "Stock 7012",
-              "price": 15195,
-              "change": 5.52,
-              "beta": 1.18,
-              "r2": 0.49,
-              "themeFactor": -3.25,
-              "individualFactor": 8.78
+              "beta": 0.66,
+              "r2": 0.47,
+              "themeFactor": -8.77,
+              "individualFactor": 22.81
             },
             {
               "code": "8616",
               "name": "Stock 8616",
               "price": 759,
               "change": 4.4,
-              "beta": 0.64,
-              "r2": 0.61,
-              "themeFactor": -1.78,
-              "individualFactor": 6.18
+              "beta": 0.42,
+              "r2": 0.44,
+              "themeFactor": -5.64,
+              "individualFactor": 10.04
             },
             {
               "code": "7011",
               "name": "Stock 7011",
               "price": 4577,
               "change": -4.55,
-              "beta": 0.83,
-              "r2": 0.6,
-              "themeFactor": -2.3,
-              "individualFactor": -2.25
+              "beta": 0.57,
+              "r2": 0.47,
+              "themeFactor": -7.6,
+              "individualFactor": 3.05
             },
             {
               "code": "4088",
               "name": "Stock 4088",
               "price": 2173,
               "change": -7.14,
-              "beta": 0.51,
-              "r2": 0.18,
-              "themeFactor": -1.42,
-              "individualFactor": -5.72
+              "beta": 0.41,
+              "r2": 0.2,
+              "themeFactor": -5.52,
+              "individualFactor": -1.61
             },
             {
               "code": "6331",
               "name": "Stock 6331",
               "price": 3120,
               "change": -8.37,
-              "beta": 1.14,
-              "r2": 0.7,
-              "themeFactor": -3.15,
-              "individualFactor": -5.22
+              "beta": 0.82,
+              "r2": 0.61,
+              "themeFactor": -10.96,
+              "individualFactor": 2.59
             },
             {
               "code": "6330",
               "name": "Stock 6330",
               "price": 2664,
               "change": -48.67,
-              "beta": 2.44,
-              "r2": 0.4,
-              "themeFactor": -6.75,
-              "individualFactor": -41.92
+              "beta": 1.36,
+              "r2": 0.21,
+              "themeFactor": -18.05,
+              "individualFactor": -30.62
+            },
+            {
+              "code": "7012",
+              "name": "Stock 7012",
+              "price": 3039,
+              "change": -78.9,
+              "beta": 3.13,
+              "r2": 0.61,
+              "themeFactor": -41.68,
+              "individualFactor": -37.21
             }
           ]
         },
         "3M": {
-          "change": 17.23,
+          "change": 4.08,
           "history": [
             100.0,
             98.5,
@@ -32315,12 +32315,12 @@
             119.68,
             119.97,
             126.53,
-            123.41,
-            114.86,
-            114.31,
-            116.58,
-            116.64,
-            117.23
+            109.12,
+            101.55,
+            101.22,
+            103.5,
+            103.39,
+            104.08
           ],
           "stocks": [
             {
@@ -32328,60 +32328,50 @@
               "name": "Stock 5019",
               "price": 1553,
               "change": 33.46,
-              "beta": 0.48,
-              "r2": 0.4,
-              "themeFactor": 8.32,
-              "individualFactor": 25.15
-            },
-            {
-              "code": "7012",
-              "name": "Stock 7012",
-              "price": 15195,
-              "change": 31.56,
-              "beta": 0.8,
-              "r2": 0.36,
-              "themeFactor": 13.86,
-              "individualFactor": 17.7
+              "beta": 0.43,
+              "r2": 0.42,
+              "themeFactor": 1.75,
+              "individualFactor": 31.71
             },
             {
               "code": "8088",
               "name": "Stock 8088",
               "price": 2066,
               "change": 27.64,
-              "beta": 0.68,
-              "r2": 0.49,
-              "themeFactor": 11.77,
-              "individualFactor": 15.87
+              "beta": 0.58,
+              "r2": 0.48,
+              "themeFactor": 2.38,
+              "individualFactor": 25.26
             },
             {
               "code": "6330",
               "name": "Stock 6330",
               "price": 2664,
               "change": 19.52,
-              "beta": 2.79,
-              "r2": 0.71,
-              "themeFactor": 48.11,
-              "individualFactor": -28.59
+              "beta": 2.08,
+              "r2": 0.52,
+              "themeFactor": 8.49,
+              "individualFactor": 11.02
             },
             {
               "code": "7011",
               "name": "Stock 7011",
               "price": 4577,
               "change": 17.09,
-              "beta": 0.63,
-              "r2": 0.47,
-              "themeFactor": 10.92,
-              "individualFactor": 6.17
+              "beta": 0.53,
+              "r2": 0.43,
+              "themeFactor": 2.16,
+              "individualFactor": 14.93
             },
             {
               "code": "8616",
               "name": "Stock 8616",
               "price": 759,
               "change": 13.45,
-              "beta": 0.4,
-              "r2": 0.45,
-              "themeFactor": 6.93,
-              "individualFactor": 6.53
+              "beta": 0.33,
+              "r2": 0.39,
+              "themeFactor": 1.34,
+              "individualFactor": 12.11
             },
             {
               "code": "4088",
@@ -32389,24 +32379,34 @@
               "price": 2173,
               "change": 0.32,
               "beta": 0.27,
-              "r2": 0.1,
-              "themeFactor": 4.65,
-              "individualFactor": -4.33
+              "r2": 0.14,
+              "themeFactor": 1.11,
+              "individualFactor": -0.78
             },
             {
               "code": "6331",
               "name": "Stock 6331",
               "price": 3120,
               "change": -5.17,
-              "beta": 0.71,
-              "r2": 0.47,
-              "themeFactor": 12.18,
-              "individualFactor": -17.34
+              "beta": 0.62,
+              "r2": 0.48,
+              "themeFactor": 2.54,
+              "individualFactor": -7.7
+            },
+            {
+              "code": "7012",
+              "name": "Stock 7012",
+              "price": 3039,
+              "change": -73.69,
+              "beta": 2.06,
+              "r2": 0.43,
+              "themeFactor": 8.39,
+              "individualFactor": -82.08
             }
           ]
         },
         "6M": {
-          "change": 33.8,
+          "change": 17.19,
           "history": [
             100.0,
             100.76,
@@ -32531,12 +32531,12 @@
             137.72,
             137.73,
             145.78,
-            142.58,
-            131.71,
-            130.35,
-            133.19,
-            133.21,
-            133.8
+            124.54,
+            114.91,
+            113.82,
+            116.67,
+            116.47,
+            117.19
           ],
           "stocks": [
             {
@@ -32544,85 +32544,85 @@
               "name": "Stock 6330",
               "price": 2664,
               "change": 69.04,
-              "beta": 2.52,
-              "r2": 0.72,
-              "themeFactor": 85.31,
-              "individualFactor": -16.28
-            },
-            {
-              "code": "7012",
-              "name": "Stock 7012",
-              "price": 15195,
-              "change": 66.14,
-              "beta": 0.84,
-              "r2": 0.4,
-              "themeFactor": 28.35,
-              "individualFactor": 37.79
+              "beta": 2.05,
+              "r2": 0.58,
+              "themeFactor": 35.26,
+              "individualFactor": 33.78
             },
             {
               "code": "5019",
               "name": "Stock 5019",
               "price": 1553,
               "change": 57.88,
-              "beta": 0.39,
-              "r2": 0.35,
-              "themeFactor": 13.19,
-              "individualFactor": 44.69
+              "beta": 0.36,
+              "r2": 0.38,
+              "themeFactor": 6.26,
+              "individualFactor": 51.62
             },
             {
               "code": "8616",
               "name": "Stock 8616",
               "price": 759,
               "change": 33.2,
-              "beta": 0.38,
-              "r2": 0.39,
-              "themeFactor": 12.85,
-              "individualFactor": 20.35
+              "beta": 0.33,
+              "r2": 0.35,
+              "themeFactor": 5.66,
+              "individualFactor": 27.54
             },
             {
               "code": "8088",
               "name": "Stock 8088",
               "price": 2066,
               "change": 26.17,
-              "beta": 0.56,
+              "beta": 0.5,
               "r2": 0.44,
-              "themeFactor": 18.78,
-              "individualFactor": 7.38
+              "themeFactor": 8.61,
+              "individualFactor": 17.56
             },
             {
               "code": "7011",
               "name": "Stock 7011",
               "price": 4577,
               "change": 20.25,
-              "beta": 0.64,
-              "r2": 0.39,
-              "themeFactor": 21.61,
-              "individualFactor": -1.36
+              "beta": 0.56,
+              "r2": 0.37,
+              "themeFactor": 9.62,
+              "individualFactor": 10.63
             },
             {
               "code": "6331",
               "name": "Stock 6331",
               "price": 3120,
               "change": 13.29,
-              "beta": 0.7,
+              "beta": 0.64,
               "r2": 0.39,
-              "themeFactor": 23.71,
-              "individualFactor": -10.43
+              "themeFactor": 10.98,
+              "individualFactor": 2.3
             },
             {
               "code": "4088",
               "name": "Stock 4088",
               "price": 2173,
               "change": -15.53,
-              "beta": 0.37,
-              "r2": 0.14,
-              "themeFactor": 12.49,
-              "individualFactor": -28.02
+              "beta": 0.35,
+              "r2": 0.15,
+              "themeFactor": 6.0,
+              "individualFactor": -21.53
+            },
+            {
+              "code": "7012",
+              "name": "Stock 7012",
+              "price": 3039,
+              "change": -66.77,
+              "beta": 1.68,
+              "r2": 0.41,
+              "themeFactor": 28.84,
+              "individualFactor": -95.61
             }
           ]
         },
         "12M": {
-          "change": 86.59,
+          "change": 70.22,
           "history": [
             100.0,
             100.06,
@@ -32863,12 +32863,12 @@
             196.68,
             195.52,
             208.78,
-            205.21,
-            186.13,
-            181.45,
-            186.79,
-            185.96,
-            186.59
+            187.43,
+            169.58,
+            165.17,
+            170.52,
+            169.48,
+            170.22
           ],
           "stocks": [
             {
@@ -32876,50 +32876,40 @@
               "name": "Stock 6330",
               "price": 2664,
               "change": 268.98,
-              "beta": 2.01,
-              "r2": 0.74,
-              "themeFactor": 173.79,
-              "individualFactor": 95.19
+              "beta": 1.89,
+              "r2": 0.69,
+              "themeFactor": 133.01,
+              "individualFactor": 135.97
             },
             {
               "code": "6331",
               "name": "Stock 6331",
               "price": 3120,
               "change": 140.18,
-              "beta": 0.66,
-              "r2": 0.34,
-              "themeFactor": 57.16,
-              "individualFactor": 83.02
+              "beta": 0.65,
+              "r2": 0.35,
+              "themeFactor": 45.71,
+              "individualFactor": 94.47
             },
             {
               "code": "7011",
               "name": "Stock 7011",
               "price": 4577,
               "change": 72.86,
-              "beta": 0.63,
+              "beta": 0.61,
               "r2": 0.36,
-              "themeFactor": 54.25,
-              "individualFactor": 18.62
-            },
-            {
-              "code": "7012",
-              "name": "Stock 7012",
-              "price": 15195,
-              "change": 63.67,
-              "beta": 0.79,
-              "r2": 0.38,
-              "themeFactor": 68.01,
-              "individualFactor": -4.34
+              "themeFactor": 42.67,
+              "individualFactor": 30.19
             },
             {
               "code": "8616",
               "name": "Stock 8616",
               "price": 759,
               "change": 53.45,
-              "beta": 0.39,
-              "r2": 0.41,
-              "themeFactor": 33.9,
-              "individualFactor": 19.55
+              "beta": 0.38,
+              "r2": 0.4,
+              "themeFactor": 26.49,
+              "individualFactor": 26.96
             },
             {
               "code": "5019",
@@ -32927,29 +32917,39 @@
               "price": 1553,
               "change": 43.41,
               "beta": 0.38,
-              "r2": 0.33,
-              "themeFactor": 32.94,
-              "individualFactor": 10.47
+              "r2": 0.34,
+              "themeFactor": 26.43,
+              "individualFactor": 16.98
             },
             {
               "code": "8088",
               "name": "Stock 8088",
               "price": 2066,
               "change": 37.15,
-              "beta": 0.5,
+              "beta": 0.49,
               "r2": 0.42,
-              "themeFactor": 43.14,
-              "individualFactor": -5.99
+              "themeFactor": 34.3,
+              "individualFactor": 2.85
             },
             {
               "code": "4088",
               "name": "Stock 4088",
               "price": 2173,
               "change": 13.0,
-              "beta": 0.3,
-              "r2": 0.16,
-              "themeFactor": 26.36,
-              "individualFactor": -13.36
+              "beta": 0.31,
+              "r2": 0.17,
+              "themeFactor": 21.54,
+              "individualFactor": -8.54
+            },
+            {
+              "code": "7012",
+              "name": "Stock 7012",
+              "price": 3039,
+              "change": -67.27,
+              "beta": 1.14,
+              "r2": 0.28,
+              "themeFactor": 80.22,
+              "individualFactor": -147.49
             }
           ]
         }
@@ -34387,7 +34387,7 @@
             {
               "code": "7012",
               "name": "Stock 7012",
-              "price": 15195,
+              "price": 3039,
               "change": -0.72,
               "beta": 1.0,
               "r2": 0.5,
@@ -34468,7 +34468,7 @@
             {
               "code": "7012",
               "name": "Stock 7012",
-              "price": 15195,
+              "price": 3039,
               "change": 0.5,
               "beta": -0.2,
               "r2": 0.08,
@@ -34528,17 +34528,17 @@
           ]
         },
         "10D": {
-          "change": -5.49,
+          "change": -14.89,
           "history": [
             100.0,
             99.23,
             102.4,
-            97.71,
-            91.76,
-            94.53,
-            97.07,
-            95.63,
-            94.51
+            87.51,
+            82.25,
+            85.17,
+            87.72,
+            86.16,
+            85.11
           ],
           "stocks": [
             {
@@ -34546,85 +34546,85 @@
               "name": "ファナック",
               "price": 5728,
               "change": -3.84,
-              "beta": 0.86,
-              "r2": 0.91,
-              "themeFactor": -4.7,
-              "individualFactor": 0.86
+              "beta": 0.42,
+              "r2": 0.66,
+              "themeFactor": -6.24,
+              "individualFactor": 2.4
             },
             {
               "code": "6506",
               "name": "安川電機",
               "price": 4323,
               "change": -4.21,
-              "beta": 1.01,
-              "r2": 0.91,
-              "themeFactor": -5.52,
-              "individualFactor": 1.31
+              "beta": 0.53,
+              "r2": 0.76,
+              "themeFactor": -7.91,
+              "individualFactor": 3.7
             },
             {
               "code": "6273",
               "name": "Stock 6273",
               "price": 62720,
               "change": -4.62,
-              "beta": 1.32,
-              "r2": 0.94,
-              "themeFactor": -7.22,
-              "individualFactor": 2.6
+              "beta": 0.63,
+              "r2": 0.66,
+              "themeFactor": -9.43,
+              "individualFactor": 4.81
             },
             {
               "code": "6324",
               "name": "Stock 6324",
               "price": 4065,
               "change": -5.02,
-              "beta": 1.33,
-              "r2": 0.9,
-              "themeFactor": -7.33,
-              "individualFactor": 2.3
+              "beta": 0.65,
+              "r2": 0.65,
+              "themeFactor": -9.74,
+              "individualFactor": 4.71
             },
             {
               "code": "6103",
               "name": "オークマ",
               "price": 3680,
               "change": -5.4,
-              "beta": 1.16,
-              "r2": 0.91,
-              "themeFactor": -6.38,
-              "individualFactor": 0.98
-            },
-            {
-              "code": "7012",
-              "name": "Stock 7012",
-              "price": 15195,
-              "change": -6.0,
-              "beta": 0.79,
-              "r2": 0.53,
-              "themeFactor": -4.34,
-              "individualFactor": -1.66
+              "beta": 0.59,
+              "r2": 0.71,
+              "themeFactor": -8.79,
+              "individualFactor": 3.39
             },
             {
               "code": "6301",
               "name": "コマツ",
               "price": 6465,
               "change": -6.21,
-              "beta": 1.04,
-              "r2": 0.69,
-              "themeFactor": -5.72,
-              "individualFactor": -0.49
+              "beta": 0.5,
+              "r2": 0.48,
+              "themeFactor": -7.44,
+              "individualFactor": 1.24
             },
             {
               "code": "7779",
               "name": "Stock 7779",
               "price": 287,
               "change": -8.6,
-              "beta": 1.65,
-              "r2": 0.77,
-              "themeFactor": -9.05,
-              "individualFactor": 0.45
+              "beta": 0.85,
+              "r2": 0.63,
+              "themeFactor": -12.72,
+              "individualFactor": 4.12
+            },
+            {
+              "code": "7012",
+              "name": "Stock 7012",
+              "price": 3039,
+              "change": -81.2,
+              "beta": 4.73,
+              "r2": 0.78,
+              "themeFactor": -70.41,
+              "individualFactor": -10.79
             }
           ]
         },
         "1M": {
-          "change": -15.38,
+          "change": -23.86,
           "history": [
             100.0,
             100.81,
@@ -34644,12 +34644,12 @@
             89.49,
             88.8,
             91.6,
-            87.44,
-            82.1,
-            84.54,
-            86.81,
-            85.62,
-            84.62
+            78.23,
+            73.52,
+            76.1,
+            78.38,
+            77.07,
+            76.14
           ],
           "stocks": [
             {
@@ -34657,85 +34657,85 @@
               "name": "Stock 6324",
               "price": 4065,
               "change": -7.09,
-              "beta": 1.18,
-              "r2": 0.79,
-              "themeFactor": -18.22,
-              "individualFactor": 11.13
+              "beta": 0.81,
+              "r2": 0.64,
+              "themeFactor": -19.3,
+              "individualFactor": 12.21
             },
             {
               "code": "6954",
               "name": "ファナック",
               "price": 5728,
               "change": -10.79,
-              "beta": 0.86,
-              "r2": 0.8,
-              "themeFactor": -13.2,
-              "individualFactor": 2.4
+              "beta": 0.57,
+              "r2": 0.61,
+              "themeFactor": -13.62,
+              "individualFactor": 2.82
             },
             {
               "code": "6273",
               "name": "Stock 6273",
               "price": 62720,
               "change": -13.94,
-              "beta": 1.1,
-              "r2": 0.88,
-              "themeFactor": -16.85,
-              "individualFactor": 2.91
+              "beta": 0.74,
+              "r2": 0.7,
+              "themeFactor": -17.67,
+              "individualFactor": 3.73
             },
             {
               "code": "6301",
               "name": "コマツ",
               "price": 6465,
               "change": -14.27,
-              "beta": 0.95,
-              "r2": 0.75,
-              "themeFactor": -14.57,
-              "individualFactor": 0.31
-            },
-            {
-              "code": "7012",
-              "name": "Stock 7012",
-              "price": 15195,
-              "change": -15.18,
-              "beta": 0.82,
-              "r2": 0.56,
-              "themeFactor": -12.57,
-              "individualFactor": -2.61
+              "beta": 0.64,
+              "r2": 0.59,
+              "themeFactor": -15.17,
+              "individualFactor": 0.9
             },
             {
               "code": "6506",
               "name": "安川電機",
               "price": 4323,
               "change": -16.31,
-              "beta": 1.07,
-              "r2": 0.8,
-              "themeFactor": -16.42,
-              "individualFactor": 0.11
+              "beta": 0.72,
+              "r2": 0.64,
+              "themeFactor": -17.21,
+              "individualFactor": 0.91
             },
             {
               "code": "6103",
               "name": "オークマ",
               "price": 3680,
               "change": -18.49,
-              "beta": 1.03,
-              "r2": 0.91,
-              "themeFactor": -15.84,
-              "individualFactor": -2.66
+              "beta": 0.7,
+              "r2": 0.74,
+              "themeFactor": -16.79,
+              "individualFactor": -1.7
             },
             {
               "code": "7779",
               "name": "Stock 7779",
               "price": 287,
               "change": -26.97,
-              "beta": 1.41,
-              "r2": 0.65,
-              "themeFactor": -21.75,
-              "individualFactor": -5.22
+              "beta": 0.98,
+              "r2": 0.54,
+              "themeFactor": -23.43,
+              "individualFactor": -3.54
+            },
+            {
+              "code": "7012",
+              "name": "Stock 7012",
+              "price": 3039,
+              "change": -83.04,
+              "beta": 3.09,
+              "r2": 0.59,
+              "themeFactor": -73.78,
+              "individualFactor": -9.25
             }
           ]
         },
         "2M": {
-          "change": 1.05,
+          "change": -9.5,
           "history": [
             100.0,
             100.72,
@@ -34776,12 +34776,12 @@
             107.1,
             106.05,
             109.53,
-            104.45,
-            98.01,
-            100.99,
-            103.75,
-            102.1,
-            101.05
+            92.99,
+            87.34,
+            90.49,
+            93.26,
+            91.47,
+            90.5
           ],
           "stocks": [
             {
@@ -34789,85 +34789,85 @@
               "name": "Stock 7779",
               "price": 287,
               "change": 17.62,
-              "beta": 1.47,
-              "r2": 0.51,
-              "themeFactor": 1.54,
-              "individualFactor": 16.08
+              "beta": 1.11,
+              "r2": 0.45,
+              "themeFactor": -10.54,
+              "individualFactor": 28.16
             },
             {
               "code": "6301",
               "name": "コマツ",
               "price": 6465,
               "change": 16.84,
-              "beta": 0.97,
-              "r2": 0.64,
-              "themeFactor": 1.02,
-              "individualFactor": 15.83
-            },
-            {
-              "code": "7012",
-              "name": "Stock 7012",
-              "price": 15195,
-              "change": 5.52,
-              "beta": 0.88,
-              "r2": 0.39,
-              "themeFactor": 0.93,
-              "individualFactor": 4.6
+              "beta": 0.72,
+              "r2": 0.53,
+              "themeFactor": -6.81,
+              "individualFactor": 23.65
             },
             {
               "code": "6324",
               "name": "Stock 6324",
               "price": 4065,
               "change": 4.63,
-              "beta": 1.21,
-              "r2": 0.64,
-              "themeFactor": 1.27,
-              "individualFactor": 3.37
+              "beta": 0.89,
+              "r2": 0.53,
+              "themeFactor": -8.44,
+              "individualFactor": 13.07
             },
             {
               "code": "6273",
               "name": "Stock 6273",
               "price": 62720,
               "change": -1.23,
-              "beta": 0.97,
-              "r2": 0.75,
-              "themeFactor": 1.02,
-              "individualFactor": -2.25
+              "beta": 0.72,
+              "r2": 0.64,
+              "themeFactor": -6.86,
+              "individualFactor": 5.63
             },
             {
               "code": "6103",
               "name": "オークマ",
               "price": 3680,
               "change": -6.6,
-              "beta": 0.87,
-              "r2": 0.73,
-              "themeFactor": 0.92,
-              "individualFactor": -7.52
+              "beta": 0.66,
+              "r2": 0.64,
+              "themeFactor": -6.3,
+              "individualFactor": -0.3
             },
             {
               "code": "6954",
               "name": "ファナック",
               "price": 5728,
               "change": -12.43,
-              "beta": 0.8,
-              "r2": 0.68,
-              "themeFactor": 0.84,
-              "individualFactor": -13.27
+              "beta": 0.58,
+              "r2": 0.55,
+              "themeFactor": -5.52,
+              "individualFactor": -6.91
             },
             {
               "code": "6506",
               "name": "安川電機",
               "price": 4323,
               "change": -15.95,
-              "beta": 0.95,
-              "r2": 0.69,
-              "themeFactor": 1.0,
-              "individualFactor": -16.95
+              "beta": 0.71,
+              "r2": 0.58,
+              "themeFactor": -6.7,
+              "individualFactor": -9.25
+            },
+            {
+              "code": "7012",
+              "name": "Stock 7012",
+              "price": 3039,
+              "change": -78.9,
+              "beta": 2.56,
+              "r2": 0.54,
+              "themeFactor": -24.28,
+              "individualFactor": -54.61
             }
           ]
         },
         "3M": {
-          "change": 18.38,
+          "change": 5.23,
           "history": [
             100.0,
             98.32,
@@ -34929,12 +34929,12 @@
             125.57,
             124.33,
             128.52,
-            122.51,
-            114.96,
-            118.45,
-            121.67,
-            119.58,
-            118.38
+            108.22,
+            101.66,
+            105.36,
+            108.59,
+            106.32,
+            105.23
           ],
           "stocks": [
             {
@@ -34942,85 +34942,85 @@
               "name": "Stock 7779",
               "price": 287,
               "change": 55.98,
-              "beta": 1.39,
-              "r2": 0.47,
-              "themeFactor": 25.51,
-              "individualFactor": 30.47
+              "beta": 1.06,
+              "r2": 0.42,
+              "themeFactor": 5.53,
+              "individualFactor": 50.45
             },
             {
               "code": "6301",
               "name": "コマツ",
               "price": 6465,
               "change": 31.56,
-              "beta": 0.89,
-              "r2": 0.59,
-              "themeFactor": 16.36,
-              "individualFactor": 15.21
-            },
-            {
-              "code": "7012",
-              "name": "Stock 7012",
-              "price": 15195,
-              "change": 31.56,
-              "beta": 0.97,
-              "r2": 0.41,
-              "themeFactor": 17.77,
-              "individualFactor": 13.78
+              "beta": 0.66,
+              "r2": 0.5,
+              "themeFactor": 3.47,
+              "individualFactor": 28.1
             },
             {
               "code": "6273",
               "name": "Stock 6273",
               "price": 62720,
               "change": 16.32,
-              "beta": 0.96,
-              "r2": 0.7,
-              "themeFactor": 17.57,
-              "individualFactor": -1.25
+              "beta": 0.72,
+              "r2": 0.59,
+              "themeFactor": 3.74,
+              "individualFactor": 12.58
             },
             {
               "code": "6324",
               "name": "Stock 6324",
               "price": 4065,
               "change": 11.37,
-              "beta": 1.18,
-              "r2": 0.59,
-              "themeFactor": 21.75,
-              "individualFactor": -10.38
+              "beta": 0.87,
+              "r2": 0.49,
+              "themeFactor": 4.56,
+              "individualFactor": 6.81
             },
             {
               "code": "6103",
               "name": "オークマ",
               "price": 3680,
               "change": 6.05,
-              "beta": 0.84,
-              "r2": 0.68,
-              "themeFactor": 15.5,
-              "individualFactor": -9.45
+              "beta": 0.64,
+              "r2": 0.6,
+              "themeFactor": 3.37,
+              "individualFactor": 2.69
             },
             {
               "code": "6954",
               "name": "ファナック",
               "price": 5728,
               "change": -1.7,
-              "beta": 0.82,
-              "r2": 0.63,
-              "themeFactor": 15.11,
-              "individualFactor": -16.81
+              "beta": 0.6,
+              "r2": 0.51,
+              "themeFactor": 3.14,
+              "individualFactor": -4.84
             },
             {
               "code": "6506",
               "name": "安川電機",
               "price": 4323,
               "change": -4.09,
-              "beta": 0.95,
-              "r2": 0.64,
-              "themeFactor": 17.46,
-              "individualFactor": -21.55
+              "beta": 0.71,
+              "r2": 0.54,
+              "themeFactor": 3.7,
+              "individualFactor": -7.79
+            },
+            {
+              "code": "7012",
+              "name": "Stock 7012",
+              "price": 3039,
+              "change": -73.69,
+              "beta": 2.47,
+              "r2": 0.56,
+              "themeFactor": 12.93,
+              "individualFactor": -86.62
             }
           ]
         },
         "6M": {
-          "change": 41.54,
+          "change": 24.93,
           "history": [
             100.0,
             101.09,
@@ -35145,98 +35145,98 @@
             149.84,
             148.62,
             153.6,
-            146.57,
-            137.56,
-            141.46,
-            145.31,
-            143.08,
-            141.54
+            128.53,
+            120.76,
+            124.92,
+            128.79,
+            126.34,
+            124.93
           ],
           "stocks": [
-            {
-              "code": "7012",
-              "name": "Stock 7012",
-              "price": 15195,
-              "change": 66.14,
-              "beta": 0.9,
-              "r2": 0.38,
-              "themeFactor": 37.37,
-              "individualFactor": 28.77
-            },
             {
               "code": "6324",
               "name": "Stock 6324",
               "price": 4065,
               "change": 62.62,
-              "beta": 1.39,
-              "r2": 0.59,
-              "themeFactor": 57.77,
-              "individualFactor": 4.85
+              "beta": 1.12,
+              "r2": 0.51,
+              "themeFactor": 27.87,
+              "individualFactor": 34.75
             },
             {
               "code": "7779",
               "name": "Stock 7779",
               "price": 287,
               "change": 51.85,
-              "beta": 1.06,
-              "r2": 0.36,
-              "themeFactor": 43.87,
-              "individualFactor": 7.98
+              "beta": 0.89,
+              "r2": 0.34,
+              "themeFactor": 22.25,
+              "individualFactor": 29.6
             },
             {
               "code": "6506",
               "name": "安川電機",
               "price": 4323,
               "change": 43.62,
-              "beta": 1.24,
-              "r2": 0.71,
-              "themeFactor": 51.32,
-              "individualFactor": -7.69
+              "beta": 0.99,
+              "r2": 0.6,
+              "themeFactor": 24.79,
+              "individualFactor": 18.83
             },
             {
               "code": "6273",
               "name": "Stock 6273",
               "price": 62720,
               "change": 41.1,
-              "beta": 0.87,
-              "r2": 0.62,
-              "themeFactor": 36.24,
-              "individualFactor": 4.86
+              "beta": 0.72,
+              "r2": 0.55,
+              "themeFactor": 17.93,
+              "individualFactor": 23.17
             },
             {
               "code": "6954",
               "name": "ファナック",
               "price": 5728,
               "change": 36.63,
-              "beta": 0.98,
-              "r2": 0.69,
-              "themeFactor": 40.52,
-              "individualFactor": -3.9
+              "beta": 0.78,
+              "r2": 0.58,
+              "themeFactor": 19.47,
+              "individualFactor": 17.16
             },
             {
               "code": "6301",
               "name": "コマツ",
               "price": 6465,
               "change": 25.94,
-              "beta": 0.7,
-              "r2": 0.47,
-              "themeFactor": 29.01,
-              "individualFactor": -3.07
+              "beta": 0.58,
+              "r2": 0.43,
+              "themeFactor": 14.41,
+              "individualFactor": 11.53
             },
             {
               "code": "6103",
               "name": "オークマ",
               "price": 3680,
               "change": 4.44,
-              "beta": 0.78,
-              "r2": 0.6,
-              "themeFactor": 32.3,
-              "individualFactor": -27.87
+              "beta": 0.65,
+              "r2": 0.55,
+              "themeFactor": 16.16,
+              "individualFactor": -11.72
+            },
+            {
+              "code": "7012",
+              "name": "Stock 7012",
+              "price": 3039,
+              "change": -66.77,
+              "beta": 1.94,
+              "r2": 0.48,
+              "themeFactor": 48.3,
+              "individualFactor": -115.07
             }
           ]
         },
         "12M": {
-          "change": 28.66,
+          "change": 12.29,
           "history": [
             100.0,
             98.05,
@@ -35477,93 +35477,93 @@
             136.38,
             135.12,
             139.58,
-            133.23,
-            125.08,
-            128.69,
-            132.04,
-            129.96,
-            128.66
+            115.46,
+            108.53,
+            112.4,
+            115.77,
+            113.47,
+            112.29
           ],
           "stocks": [
-            {
-              "code": "7012",
-              "name": "Stock 7012",
-              "price": 15195,
-              "change": 63.67,
-              "beta": 1.06,
-              "r2": 0.5,
-              "themeFactor": 30.4,
-              "individualFactor": 33.28
-            },
             {
               "code": "7779",
               "name": "Stock 7779",
               "price": 287,
               "change": 52.66,
-              "beta": 0.88,
-              "r2": 0.34,
-              "themeFactor": 25.3,
-              "individualFactor": 27.36
+              "beta": 0.8,
+              "r2": 0.33,
+              "themeFactor": 9.79,
+              "individualFactor": 42.87
             },
             {
               "code": "6301",
               "name": "コマツ",
               "price": 6465,
               "change": 46.45,
-              "beta": 0.78,
-              "r2": 0.61,
-              "themeFactor": 22.3,
-              "individualFactor": 24.14
+              "beta": 0.68,
+              "r2": 0.56,
+              "themeFactor": 8.38,
+              "individualFactor": 38.07
             },
             {
               "code": "6954",
               "name": "ファナック",
               "price": 5728,
               "change": 32.38,
-              "beta": 1.03,
-              "r2": 0.75,
-              "themeFactor": 29.54,
-              "individualFactor": 2.84
+              "beta": 0.89,
+              "r2": 0.66,
+              "themeFactor": 10.9,
+              "individualFactor": 21.48
             },
             {
               "code": "6324",
               "name": "Stock 6324",
               "price": 4065,
               "change": 13.02,
-              "beta": 1.36,
-              "r2": 0.55,
-              "themeFactor": 39.01,
-              "individualFactor": -25.98
+              "beta": 1.18,
+              "r2": 0.49,
+              "themeFactor": 14.46,
+              "individualFactor": -1.43
             },
             {
               "code": "6273",
               "name": "Stock 6273",
               "price": 62720,
               "change": 9.45,
-              "beta": 0.85,
-              "r2": 0.6,
-              "themeFactor": 24.36,
-              "individualFactor": -14.91
+              "beta": 0.75,
+              "r2": 0.55,
+              "themeFactor": 9.18,
+              "individualFactor": 0.27
             },
             {
               "code": "6506",
               "name": "安川電機",
               "price": 4323,
               "change": 8.38,
-              "beta": 1.32,
-              "r2": 0.74,
-              "themeFactor": 37.9,
-              "individualFactor": -29.53
+              "beta": 1.14,
+              "r2": 0.66,
+              "themeFactor": 14.02,
+              "individualFactor": -5.65
             },
             {
               "code": "6103",
               "name": "オークマ",
               "price": 3680,
               "change": 3.28,
-              "beta": 0.83,
-              "r2": 0.65,
-              "themeFactor": 23.86,
-              "individualFactor": -20.59
+              "beta": 0.73,
+              "r2": 0.6,
+              "themeFactor": 9.02,
+              "individualFactor": -5.74
+            },
+            {
+              "code": "7012",
+              "name": "Stock 7012",
+              "price": 3039,
+              "change": -67.27,
+              "beta": 1.69,
+              "r2": 0.5,
+              "themeFactor": 20.75,
+              "individualFactor": -88.01
             }
           ]
         }
@@ -36558,7 +36558,7 @@
             125.34,
             120.84,
             123.33,
-            124.08,
+            124.09,
             122.55,
             121.75,
             122.2,
@@ -39498,7 +39498,7 @@
             102.56,
             102.83,
             102.45,
-            103.16,
+            103.15,
             102.07,
             100.45,
             102.36,
@@ -39582,7 +39582,7 @@
             110.14,
             108.17,
             109.65,
-            109.72,
+            109.71,
             107.11,
             107.35,
             108.73,
@@ -39852,7 +39852,7 @@
             {
               "code": "7012",
               "name": "Stock 7012",
-              "price": 15195,
+              "price": 3039,
               "change": -0.72,
               "beta": 1.0,
               "r2": 0.5,
@@ -39933,7 +39933,7 @@
             {
               "code": "7012",
               "name": "Stock 7012",
-              "price": 15195,
+              "price": 3039,
               "change": 0.5,
               "beta": -0.42,
               "r2": 0.26,
@@ -39963,17 +39963,17 @@
           ]
         },
         "10D": {
-          "change": -3.28,
+          "change": -11.63,
           "history": [
             100.0,
             99.29,
             102.44,
-            98.72,
-            93.21,
-            94.91,
-            97.52,
-            96.55,
-            96.72
+            89.65,
+            84.76,
+            86.6,
+            89.21,
+            88.14,
+            88.37
           ],
           "stocks": [
             {
@@ -39981,95 +39981,95 @@
               "name": "Stock 9412",
               "price": 3050,
               "change": 3.21,
-              "beta": 1.18,
-              "r2": 0.54,
-              "themeFactor": -3.86,
-              "individualFactor": 7.07
+              "beta": 0.58,
+              "r2": 0.39,
+              "themeFactor": -6.78,
+              "individualFactor": 9.99
             },
             {
               "code": "9432",
               "name": "NTT",
               "price": 159,
               "change": 2.12,
-              "beta": 0.11,
-              "r2": 0.18,
-              "themeFactor": -0.35,
-              "individualFactor": 2.47
+              "beta": 0.03,
+              "r2": 0.04,
+              "themeFactor": -0.32,
+              "individualFactor": 2.44
             },
             {
               "code": "8001",
               "name": "伊藤忠商事",
               "price": 2062,
               "change": 1.5,
-              "beta": 1.05,
-              "r2": 0.81,
-              "themeFactor": -3.43,
-              "individualFactor": 4.93
+              "beta": 0.63,
+              "r2": 0.89,
+              "themeFactor": -7.37,
+              "individualFactor": 8.87
             },
             {
               "code": "9348",
               "name": "Stock 9348",
               "price": 566,
               "change": -2.08,
-              "beta": 1.59,
-              "r2": 0.96,
-              "themeFactor": -5.22,
-              "individualFactor": 3.15
+              "beta": 0.7,
+              "r2": 0.55,
+              "themeFactor": -8.12,
+              "individualFactor": 6.04
             },
             {
               "code": "7011",
               "name": "Stock 7011",
               "price": 4577,
               "change": -4.49,
-              "beta": 1.02,
-              "r2": 0.69,
-              "themeFactor": -3.35,
-              "individualFactor": -1.14
-            },
-            {
-              "code": "7012",
-              "name": "Stock 7012",
-              "price": 15195,
-              "change": -6.0,
-              "beta": 0.98,
-              "r2": 0.62,
-              "themeFactor": -3.2,
-              "individualFactor": -2.8
+              "beta": 0.47,
+              "r2": 0.44,
+              "themeFactor": -5.49,
+              "individualFactor": 1.0
             },
             {
               "code": "6301",
               "name": "コマツ",
               "price": 6465,
               "change": -6.21,
-              "beta": 1.17,
-              "r2": 0.67,
-              "themeFactor": -3.82,
-              "individualFactor": -2.39
+              "beta": 0.57,
+              "r2": 0.47,
+              "themeFactor": -6.6,
+              "individualFactor": 0.39
             },
             {
               "code": "6701",
               "name": "NEC",
               "price": 3990,
               "change": -6.49,
-              "beta": 0.66,
-              "r2": 0.55,
-              "themeFactor": -2.15,
-              "individualFactor": -4.34
+              "beta": 0.27,
+              "r2": 0.27,
+              "themeFactor": -3.1,
+              "individualFactor": -3.4
             },
             {
               "code": "186A",
               "name": "Stock 186A",
               "price": 989,
               "change": -11.06,
-              "beta": 2.5,
-              "r2": 0.89,
-              "themeFactor": -8.2,
-              "individualFactor": -2.86
+              "beta": 1.32,
+              "r2": 0.74,
+              "themeFactor": -15.39,
+              "individualFactor": 4.33
+            },
+            {
+              "code": "7012",
+              "name": "Stock 7012",
+              "price": 3039,
+              "change": -81.2,
+              "beta": 5.46,
+              "r2": 0.79,
+              "themeFactor": -63.48,
+              "individualFactor": -17.72
             }
           ]
         },
         "1M": {
-          "change": -3.98,
+          "change": -11.52,
           "history": [
             100.0,
             97.47,
@@ -40089,12 +40089,12 @@
             99.3,
             98.58,
             101.74,
-            98.0,
-            92.54,
-            94.26,
-            96.87,
-            95.84,
-            96.02
+            89.82,
+            84.92,
+            86.76,
+            89.38,
+            88.25,
+            88.48
           ],
           "stocks": [
             {
@@ -40102,18 +40102,18 @@
               "name": "Stock 9412",
               "price": 3050,
               "change": 8.93,
-              "beta": 1.05,
-              "r2": 0.52,
-              "themeFactor": -4.16,
-              "individualFactor": 13.09
+              "beta": 0.7,
+              "r2": 0.41,
+              "themeFactor": -8.03,
+              "individualFactor": 16.96
             },
             {
               "code": "9432",
               "name": "NTT",
               "price": 159,
               "change": 5.3,
-              "beta": 0.03,
-              "r2": 0.01,
+              "beta": 0.01,
+              "r2": 0.0,
               "themeFactor": -0.11,
               "individualFactor": 5.41
             },
@@ -40122,75 +40122,75 @@
               "name": "NEC",
               "price": 3990,
               "change": 1.89,
-              "beta": 0.76,
-              "r2": 0.3,
-              "themeFactor": -3.02,
-              "individualFactor": 4.91
+              "beta": 0.48,
+              "r2": 0.22,
+              "themeFactor": -5.53,
+              "individualFactor": 7.42
             },
             {
               "code": "186A",
               "name": "Stock 186A",
               "price": 989,
               "change": -2.94,
-              "beta": 2.18,
-              "r2": 0.88,
-              "themeFactor": -8.68,
-              "individualFactor": 5.74
+              "beta": 1.55,
+              "r2": 0.78,
+              "themeFactor": -17.81,
+              "individualFactor": 14.87
             },
             {
               "code": "9348",
               "name": "Stock 9348",
               "price": 566,
               "change": -5.82,
-              "beta": 1.35,
-              "r2": 0.87,
-              "themeFactor": -5.37,
-              "individualFactor": -0.45
+              "beta": 0.85,
+              "r2": 0.62,
+              "themeFactor": -9.83,
+              "individualFactor": 4.01
             },
             {
               "code": "8001",
               "name": "伊藤忠商事",
               "price": 2062,
               "change": -5.93,
-              "beta": 0.84,
-              "r2": 0.76,
-              "themeFactor": -3.34,
-              "individualFactor": -2.59
+              "beta": 0.62,
+              "r2": 0.75,
+              "themeFactor": -7.19,
+              "individualFactor": 1.26
             },
             {
               "code": "7011",
               "name": "Stock 7011",
               "price": 4577,
               "change": -7.81,
-              "beta": 1.05,
-              "r2": 0.71,
-              "themeFactor": -4.18,
-              "individualFactor": -3.64
+              "beta": 0.67,
+              "r2": 0.52,
+              "themeFactor": -7.74,
+              "individualFactor": -0.08
             },
             {
               "code": "6301",
               "name": "コマツ",
               "price": 6465,
               "change": -14.27,
-              "beta": 1.02,
-              "r2": 0.55,
-              "themeFactor": -4.06,
-              "individualFactor": -10.21
+              "beta": 0.68,
+              "r2": 0.43,
+              "themeFactor": -7.84,
+              "individualFactor": -6.43
             },
             {
               "code": "7012",
               "name": "Stock 7012",
-              "price": 15195,
-              "change": -15.18,
-              "beta": 1.17,
-              "r2": 0.73,
-              "themeFactor": -4.67,
-              "individualFactor": -10.51
+              "price": 3039,
+              "change": -83.04,
+              "beta": 4.03,
+              "r2": 0.64,
+              "themeFactor": -46.41,
+              "individualFactor": -36.62
             }
           ]
         },
         "2M": {
-          "change": 4.18,
+          "change": -5.2,
           "history": [
             100.0,
             98.34,
@@ -40231,12 +40231,12 @@
             107.63,
             106.66,
             110.22,
-            106.04,
-            100.05,
-            102.0,
-            105.08,
-            104.07,
-            104.18
+            95.86,
+            90.57,
+            92.67,
+            95.76,
+            94.63,
+            94.8
           ],
           "stocks": [
             {
@@ -40244,50 +40244,40 @@
               "name": "Stock 9412",
               "price": 3050,
               "change": 40.04,
-              "beta": 1.13,
-              "r2": 0.52,
-              "themeFactor": 4.73,
-              "individualFactor": 35.31
+              "beta": 0.79,
+              "r2": 0.41,
+              "themeFactor": -4.1,
+              "individualFactor": 44.13
             },
             {
               "code": "6301",
               "name": "コマツ",
               "price": 6465,
               "change": 16.84,
-              "beta": 1.04,
-              "r2": 0.46,
-              "themeFactor": 4.34,
-              "individualFactor": 12.5
-            },
-            {
-              "code": "7012",
-              "name": "Stock 7012",
-              "price": 15195,
-              "change": 5.52,
-              "beta": 1.36,
-              "r2": 0.59,
-              "themeFactor": 5.69,
-              "individualFactor": -0.17
+              "beta": 0.74,
+              "r2": 0.38,
+              "themeFactor": -3.86,
+              "individualFactor": 20.71
             },
             {
               "code": "186A",
               "name": "Stock 186A",
               "price": 989,
               "change": 5.1,
-              "beta": 1.85,
-              "r2": 0.69,
-              "themeFactor": 7.72,
-              "individualFactor": -2.61
+              "beta": 1.38,
+              "r2": 0.63,
+              "themeFactor": -7.19,
+              "individualFactor": 12.29
             },
             {
               "code": "9348",
               "name": "Stock 9348",
               "price": 566,
               "change": 4.24,
-              "beta": 1.31,
-              "r2": 0.59,
-              "themeFactor": 5.47,
-              "individualFactor": -1.23
+              "beta": 0.89,
+              "r2": 0.44,
+              "themeFactor": -4.6,
+              "individualFactor": 8.84
             },
             {
               "code": "9432",
@@ -40295,44 +40285,54 @@
               "price": 159,
               "change": 1.08,
               "beta": -0.02,
-              "r2": 0.0,
-              "themeFactor": -0.09,
-              "individualFactor": 1.17
+              "r2": 0.01,
+              "themeFactor": 0.11,
+              "individualFactor": 0.97
             },
             {
               "code": "8001",
               "name": "伊藤忠商事",
               "price": 2062,
               "change": 0.63,
-              "beta": 0.63,
-              "r2": 0.44,
-              "themeFactor": 2.65,
-              "individualFactor": -2.02
+              "beta": 0.51,
+              "r2": 0.46,
+              "themeFactor": -2.66,
+              "individualFactor": 3.3
             },
             {
               "code": "7011",
               "name": "Stock 7011",
               "price": 4577,
               "change": -4.55,
-              "beta": 0.94,
-              "r2": 0.7,
-              "themeFactor": 3.94,
-              "individualFactor": -8.49
+              "beta": 0.65,
+              "r2": 0.53,
+              "themeFactor": -3.37,
+              "individualFactor": -1.18
             },
             {
               "code": "6701",
               "name": "NEC",
               "price": 3990,
               "change": -31.29,
-              "beta": 0.78,
-              "r2": 0.2,
-              "themeFactor": 3.26,
-              "individualFactor": -34.55
+              "beta": 0.5,
+              "r2": 0.13,
+              "themeFactor": -2.61,
+              "individualFactor": -28.68
+            },
+            {
+              "code": "7012",
+              "name": "Stock 7012",
+              "price": 3039,
+              "change": -78.9,
+              "beta": 3.41,
+              "r2": 0.64,
+              "themeFactor": -17.71,
+              "individualFactor": -61.18
             }
           ]
         },
         "3M": {
-          "change": 23.91,
+          "change": 12.22,
           "history": [
             100.0,
             98.64,
@@ -40394,12 +40394,12 @@
             128.69,
             127.68,
             132.48,
-            126.99,
-            119.31,
-            121.53,
-            125.2,
-            123.8,
-            123.91
+            114.29,
+            107.49,
+            109.89,
+            113.58,
+            112.02,
+            112.22
           ],
           "stocks": [
             {
@@ -40407,70 +40407,60 @@
               "name": "Stock 186A",
               "price": 989,
               "change": 67.06,
-              "beta": 1.9,
-              "r2": 0.72,
-              "themeFactor": 45.34,
-              "individualFactor": 21.72
+              "beta": 1.47,
+              "r2": 0.65,
+              "themeFactor": 18.02,
+              "individualFactor": 49.04
             },
             {
               "code": "9412",
               "name": "Stock 9412",
               "price": 3050,
               "change": 46.56,
-              "beta": 0.93,
-              "r2": 0.46,
-              "themeFactor": 22.21,
-              "individualFactor": 24.35
+              "beta": 0.69,
+              "r2": 0.38,
+              "themeFactor": 8.44,
+              "individualFactor": 38.13
             },
             {
               "code": "9348",
               "name": "Stock 9348",
               "price": 566,
               "change": 36.39,
-              "beta": 1.35,
-              "r2": 0.6,
-              "themeFactor": 32.17,
-              "individualFactor": 4.22
-            },
-            {
-              "code": "7012",
-              "name": "Stock 7012",
-              "price": 15195,
-              "change": 31.56,
-              "beta": 1.3,
-              "r2": 0.58,
-              "themeFactor": 31.16,
-              "individualFactor": 0.4
+              "beta": 0.97,
+              "r2": 0.46,
+              "themeFactor": 11.86,
+              "individualFactor": 24.52
             },
             {
               "code": "6301",
               "name": "コマツ",
               "price": 6465,
               "change": 31.56,
-              "beta": 0.77,
-              "r2": 0.35,
-              "themeFactor": 18.41,
-              "individualFactor": 13.16
+              "beta": 0.6,
+              "r2": 0.31,
+              "themeFactor": 7.3,
+              "individualFactor": 24.26
             },
             {
               "code": "7011",
               "name": "Stock 7011",
               "price": 4577,
               "change": 17.09,
-              "beta": 0.95,
-              "r2": 0.65,
-              "themeFactor": 22.72,
-              "individualFactor": -5.63
+              "beta": 0.7,
+              "r2": 0.52,
+              "themeFactor": 8.49,
+              "individualFactor": 8.6
             },
             {
               "code": "8001",
               "name": "伊藤忠商事",
               "price": 2062,
               "change": 9.32,
-              "beta": 0.57,
-              "r2": 0.4,
-              "themeFactor": 13.63,
-              "individualFactor": -4.31
+              "beta": 0.48,
+              "r2": 0.43,
+              "themeFactor": 5.85,
+              "individualFactor": 3.47
             },
             {
               "code": "9432",
@@ -40487,15 +40477,25 @@
               "name": "NEC",
               "price": 3990,
               "change": -26.99,
-              "beta": 0.74,
-              "r2": 0.23,
-              "themeFactor": 17.7,
-              "individualFactor": -44.69
+              "beta": 0.52,
+              "r2": 0.17,
+              "themeFactor": 6.34,
+              "individualFactor": -33.33
+            },
+            {
+              "code": "7012",
+              "name": "Stock 7012",
+              "price": 3039,
+              "change": -73.69,
+              "beta": 2.95,
+              "r2": 0.61,
+              "themeFactor": 36.09,
+              "individualFactor": -109.78
             }
           ]
         },
         "6M": {
-          "change": 33.18,
+          "change": 18.41,
           "history": [
             100.0,
             101.41,
@@ -40620,12 +40620,12 @@
             137.61,
             136.21,
             140.99,
-            135.51,
-            127.83,
-            130.32,
-            134.43,
-            133.13,
-            133.18
+            119.48,
+            112.9,
+            115.63,
+            119.75,
+            118.26,
+            118.41
           ],
           "stocks": [
             {
@@ -40633,95 +40633,95 @@
               "name": "Stock 9412",
               "price": 3050,
               "change": 126.67,
-              "beta": 1.1,
-              "r2": 0.48,
-              "themeFactor": 36.35,
-              "individualFactor": 90.32
-            },
-            {
-              "code": "7012",
-              "name": "Stock 7012",
-              "price": 15195,
-              "change": 66.14,
-              "beta": 1.37,
-              "r2": 0.61,
-              "themeFactor": 45.46,
-              "individualFactor": 20.68
+              "beta": 0.84,
+              "r2": 0.39,
+              "themeFactor": 15.44,
+              "individualFactor": 111.24
             },
             {
               "code": "186A",
               "name": "Stock 186A",
               "price": 989,
               "change": 43.75,
-              "beta": 1.93,
-              "r2": 0.64,
-              "themeFactor": 63.92,
-              "individualFactor": -20.17
+              "beta": 1.53,
+              "r2": 0.57,
+              "themeFactor": 28.24,
+              "individualFactor": 15.51
             },
             {
               "code": "6301",
               "name": "コマツ",
               "price": 6465,
               "change": 25.94,
-              "beta": 0.72,
-              "r2": 0.36,
-              "themeFactor": 24.04,
-              "individualFactor": 1.9
+              "beta": 0.58,
+              "r2": 0.32,
+              "themeFactor": 10.68,
+              "individualFactor": 15.26
             },
             {
               "code": "8001",
               "name": "伊藤忠商事",
               "price": 2062,
               "change": 21.6,
-              "beta": 0.54,
-              "r2": 0.39,
-              "themeFactor": 17.79,
-              "individualFactor": 3.81
+              "beta": 0.46,
+              "r2": 0.41,
+              "themeFactor": 8.5,
+              "individualFactor": 13.1
             },
             {
               "code": "7011",
               "name": "Stock 7011",
               "price": 4577,
               "change": 20.25,
-              "beta": 1.05,
-              "r2": 0.61,
-              "themeFactor": 34.99,
-              "individualFactor": -14.73
+              "beta": 0.8,
+              "r2": 0.49,
+              "themeFactor": 14.7,
+              "individualFactor": 5.55
             },
             {
               "code": "9348",
               "name": "Stock 9348",
               "price": 566,
               "change": 7.6,
-              "beta": 1.07,
-              "r2": 0.48,
-              "themeFactor": 35.62,
-              "individualFactor": -28.01
+              "beta": 0.82,
+              "r2": 0.39,
+              "themeFactor": 15.03,
+              "individualFactor": -7.42
             },
             {
               "code": "9432",
               "name": "NTT",
               "price": 159,
               "change": 0.12,
-              "beta": 0.04,
-              "r2": 0.01,
-              "themeFactor": 1.34,
-              "individualFactor": -1.22
+              "beta": 0.02,
+              "r2": 0.0,
+              "themeFactor": 0.42,
+              "individualFactor": -0.3
             },
             {
               "code": "6701",
               "name": "NEC",
               "price": 3990,
               "change": -13.44,
-              "beta": 0.89,
-              "r2": 0.31,
-              "themeFactor": 29.56,
-              "individualFactor": -42.99
+              "beta": 0.66,
+              "r2": 0.23,
+              "themeFactor": 12.13,
+              "individualFactor": -25.57
+            },
+            {
+              "code": "7012",
+              "name": "Stock 7012",
+              "price": 3039,
+              "change": -66.77,
+              "beta": 2.56,
+              "r2": 0.62,
+              "themeFactor": 47.08,
+              "individualFactor": -113.85
             }
           ]
         },
         "12M": {
-          "change": 49.31,
+          "change": 34.76,
           "history": [
             100.0,
             99.92,
@@ -40962,12 +40962,12 @@
             154.04,
             152.41,
             157.23,
-            151.39,
-            143.17,
-            146.0,
-            150.53,
-            149.14,
-            149.31
+            135.59,
+            128.46,
+            131.53,
+            136.06,
+            134.48,
+            134.76
           ],
           "stocks": [
             {
@@ -40975,90 +40975,90 @@
               "name": "Stock 9412",
               "price": 3050,
               "change": 170.5,
-              "beta": 0.94,
-              "r2": 0.45,
-              "themeFactor": 46.47,
-              "individualFactor": 124.03
+              "beta": 0.83,
+              "r2": 0.41,
+              "themeFactor": 28.93,
+              "individualFactor": 141.57
             },
             {
               "code": "7011",
               "name": "Stock 7011",
               "price": 4577,
               "change": 72.86,
-              "beta": 1.15,
-              "r2": 0.63,
-              "themeFactor": 56.69,
-              "individualFactor": 16.17
-            },
-            {
-              "code": "7012",
-              "name": "Stock 7012",
-              "price": 15195,
-              "change": 63.67,
-              "beta": 1.45,
-              "r2": 0.67,
-              "themeFactor": 71.56,
-              "individualFactor": -7.88
+              "beta": 1.01,
+              "r2": 0.57,
+              "themeFactor": 34.95,
+              "individualFactor": 37.92
             },
             {
               "code": "6301",
               "name": "コマツ",
               "price": 6465,
               "change": 46.45,
-              "beta": 0.77,
-              "r2": 0.43,
-              "themeFactor": 38.22,
-              "individualFactor": 8.23
+              "beta": 0.7,
+              "r2": 0.41,
+              "themeFactor": 24.16,
+              "individualFactor": 22.28
             },
             {
               "code": "8001",
               "name": "伊藤忠商事",
               "price": 2062,
               "change": 45.99,
-              "beta": 0.6,
+              "beta": 0.55,
               "r2": 0.46,
-              "themeFactor": 29.45,
-              "individualFactor": 16.54
+              "themeFactor": 19.23,
+              "individualFactor": 26.76
             },
             {
               "code": "186A",
               "name": "Stock 186A",
               "price": 989,
               "change": 35.48,
-              "beta": 1.63,
-              "r2": 0.55,
-              "themeFactor": 80.14,
-              "individualFactor": -44.66
+              "beta": 1.47,
+              "r2": 0.53,
+              "themeFactor": 51.17,
+              "individualFactor": -15.69
             },
             {
               "code": "6701",
               "name": "NEC",
               "price": 3990,
               "change": 25.66,
-              "beta": 0.9,
-              "r2": 0.39,
-              "themeFactor": 44.16,
-              "individualFactor": -18.5
+              "beta": 0.78,
+              "r2": 0.34,
+              "themeFactor": 27.01,
+              "individualFactor": -1.35
             },
             {
               "code": "9432",
               "name": "NTT",
               "price": 159,
               "change": 9.7,
-              "beta": 0.15,
-              "r2": 0.09,
-              "themeFactor": 7.58,
-              "individualFactor": 2.11
+              "beta": 0.13,
+              "r2": 0.07,
+              "themeFactor": 4.45,
+              "individualFactor": 5.25
             },
             {
               "code": "9348",
               "name": "Stock 9348",
               "price": 566,
               "change": -26.49,
-              "beta": 1.35,
-              "r2": 0.41,
-              "themeFactor": 66.8,
-              "individualFactor": -93.3
+              "beta": 1.18,
+              "r2": 0.37,
+              "themeFactor": 41.04,
+              "individualFactor": -67.53
+            },
+            {
+              "code": "7012",
+              "name": "Stock 7012",
+              "price": 3039,
+              "change": -67.27,
+              "beta": 2.15,
+              "r2": 0.58,
+              "themeFactor": 74.71,
+              "individualFactor": -141.97
             }
           ]
         }
@@ -48081,7 +48081,7 @@
             {
               "code": "8136",
               "name": "サンリオ",
-              "price": 5303,
+              "price": 1060,
               "change": 1.98,
               "beta": 1.0,
               "r2": 0.5,
@@ -48242,7 +48242,7 @@
             {
               "code": "8136",
               "name": "サンリオ",
-              "price": 5303,
+              "price": 1060,
               "change": 1.13,
               "beta": 2.06,
               "r2": 1.0,
@@ -48252,17 +48252,17 @@
           ]
         },
         "10D": {
-          "change": 3.98,
+          "change": -3.75,
           "history": [
             100.0,
             101.46,
             103.3,
-            100.29,
-            98.64,
-            100.05,
-            101.86,
-            101.5,
-            103.98
+            92.39,
+            90.88,
+            92.4,
+            94.13,
+            93.91,
+            96.25
           ],
           "stocks": [
             {
@@ -48270,105 +48270,105 @@
               "name": "メルカリ",
               "price": 3764,
               "change": 8.79,
-              "beta": 1.34,
-              "r2": 0.74,
-              "themeFactor": 5.35,
-              "individualFactor": 3.44
+              "beta": 0.46,
+              "r2": 0.45,
+              "themeFactor": -1.74,
+              "individualFactor": 10.53
             },
             {
               "code": "2702",
               "name": "Stock 2702",
               "price": 8360,
               "change": 7.59,
-              "beta": 0.95,
-              "r2": 0.74,
-              "themeFactor": 3.78,
-              "individualFactor": 3.82
+              "beta": 0.29,
+              "r2": 0.36,
+              "themeFactor": -1.1,
+              "individualFactor": 8.69
             },
             {
               "code": "3099",
               "name": "三越伊勢丹",
               "price": 2976,
               "change": 7.03,
-              "beta": 1.45,
-              "r2": 0.8,
-              "themeFactor": 5.77,
-              "individualFactor": 1.26
+              "beta": 0.66,
+              "r2": 0.83,
+              "themeFactor": -2.46,
+              "individualFactor": 9.49
             },
             {
               "code": "4911",
               "name": "資生堂",
               "price": 3214,
               "change": 6.0,
-              "beta": 1.38,
-              "r2": 0.72,
-              "themeFactor": 5.5,
-              "individualFactor": 0.5
+              "beta": 0.52,
+              "r2": 0.51,
+              "themeFactor": -1.95,
+              "individualFactor": 7.95
             },
             {
               "code": "8233",
               "name": "高島屋",
               "price": 1903,
               "change": 5.46,
-              "beta": 1.23,
-              "r2": 0.78,
-              "themeFactor": 4.91,
-              "individualFactor": 0.55
+              "beta": 0.6,
+              "r2": 0.94,
+              "themeFactor": -2.26,
+              "individualFactor": 7.72
             },
             {
               "code": "9024",
               "name": "西武HD",
               "price": 4380,
               "change": 4.68,
-              "beta": 1.43,
-              "r2": 0.86,
-              "themeFactor": 5.7,
-              "individualFactor": -1.01
+              "beta": 0.49,
+              "r2": 0.5,
+              "themeFactor": -1.83,
+              "individualFactor": 6.52
             },
             {
               "code": "9201",
               "name": "Stock 9201",
               "price": 2685,
               "change": 3.31,
-              "beta": 1.32,
-              "r2": 0.52,
-              "themeFactor": 5.24,
-              "individualFactor": -1.93
+              "beta": 0.56,
+              "r2": 0.48,
+              "themeFactor": -2.11,
+              "individualFactor": 5.42
             },
             {
               "code": "9202",
               "name": "Stock 9202",
               "price": 2983,
               "change": 2.3,
-              "beta": 1.06,
-              "r2": 0.65,
-              "themeFactor": 4.23,
-              "individualFactor": -1.93
+              "beta": 0.54,
+              "r2": 0.85,
+              "themeFactor": -2.03,
+              "individualFactor": 4.32
             },
             {
               "code": "7532",
               "name": "パンパシHD",
               "price": 983,
               "change": -2.04,
-              "beta": 0.74,
-              "r2": 0.93,
-              "themeFactor": 2.94,
-              "individualFactor": -4.99
+              "beta": 0.3,
+              "r2": 0.79,
+              "themeFactor": -1.14,
+              "individualFactor": -0.9
             },
             {
               "code": "8136",
               "name": "サンリオ",
-              "price": 5303,
-              "change": -3.28,
-              "beta": 0.5,
-              "r2": 0.23,
-              "themeFactor": 2.0,
-              "individualFactor": -5.28
+              "price": 1060,
+              "change": -80.66,
+              "beta": 7.17,
+              "r2": 0.92,
+              "themeFactor": -26.92,
+              "individualFactor": -53.74
             }
           ]
         },
         "1M": {
-          "change": -1.88,
+          "change": -9.89,
           "history": [
             100.0,
             100.1,
@@ -48388,12 +48388,12 @@
             94.4,
             95.8,
             97.42,
-            94.68,
-            93.09,
-            94.39,
-            96.06,
-            95.7,
-            98.12
+            86.5,
+            85.06,
+            86.47,
+            88.05,
+            87.84,
+            90.11
           ],
           "stocks": [
             {
@@ -48401,105 +48401,105 @@
               "name": "Stock 2702",
               "price": 8360,
               "change": 17.58,
-              "beta": 0.53,
-              "r2": 0.28,
-              "themeFactor": -1.0,
-              "individualFactor": 18.58
+              "beta": 0.24,
+              "r2": 0.18,
+              "themeFactor": -2.42,
+              "individualFactor": 20.0
             },
             {
               "code": "4385",
               "name": "メルカリ",
               "price": 3764,
               "change": 4.99,
-              "beta": 1.35,
-              "r2": 0.5,
-              "themeFactor": -2.53,
-              "individualFactor": 7.52
+              "beta": 0.55,
+              "r2": 0.26,
+              "themeFactor": -5.48,
+              "individualFactor": 10.48
             },
             {
               "code": "4911",
               "name": "資生堂",
               "price": 3214,
               "change": 4.55,
-              "beta": 1.35,
-              "r2": 0.68,
-              "themeFactor": -2.54,
-              "individualFactor": 7.09
-            },
-            {
-              "code": "8136",
-              "name": "サンリオ",
-              "price": 5303,
-              "change": 0.15,
-              "beta": 0.94,
-              "r2": 0.32,
-              "themeFactor": -1.77,
-              "individualFactor": 1.92
+              "beta": 0.61,
+              "r2": 0.42,
+              "themeFactor": -6.0,
+              "individualFactor": 10.55
             },
             {
               "code": "3099",
               "name": "三越伊勢丹",
               "price": 2976,
               "change": -0.27,
-              "beta": 1.23,
-              "r2": 0.59,
-              "themeFactor": -2.31,
-              "individualFactor": 2.04
+              "beta": 0.65,
+              "r2": 0.5,
+              "themeFactor": -6.38,
+              "individualFactor": 6.11
             },
             {
               "code": "7532",
               "name": "パンパシHD",
               "price": 983,
               "change": -2.19,
-              "beta": 0.87,
-              "r2": 0.46,
-              "themeFactor": -1.63,
-              "individualFactor": -0.56
+              "beta": 0.41,
+              "r2": 0.32,
+              "themeFactor": -4.09,
+              "individualFactor": 1.9
             },
             {
               "code": "9024",
               "name": "西武HD",
               "price": 4380,
               "change": -5.38,
-              "beta": 0.72,
-              "r2": 0.31,
-              "themeFactor": -1.35,
-              "individualFactor": -4.03
+              "beta": 0.35,
+              "r2": 0.23,
+              "themeFactor": -3.49,
+              "individualFactor": -1.89
             },
             {
               "code": "9202",
               "name": "Stock 9202",
               "price": 2983,
               "change": -9.72,
-              "beta": 1.05,
-              "r2": 0.62,
-              "themeFactor": -1.97,
-              "individualFactor": -7.75
+              "beta": 0.56,
+              "r2": 0.54,
+              "themeFactor": -5.56,
+              "individualFactor": -4.16
             },
             {
               "code": "9201",
               "name": "Stock 9201",
               "price": 2685,
               "change": -12.04,
-              "beta": 1.42,
-              "r2": 0.57,
-              "themeFactor": -2.67,
-              "individualFactor": -9.37
+              "beta": 0.65,
+              "r2": 0.37,
+              "themeFactor": -6.45,
+              "individualFactor": -5.58
             },
             {
               "code": "8233",
               "name": "高島屋",
               "price": 1903,
               "change": -16.48,
-              "beta": 1.06,
-              "r2": 0.34,
-              "themeFactor": -2.0,
-              "individualFactor": -14.48
+              "beta": 0.56,
+              "r2": 0.28,
+              "themeFactor": -5.49,
+              "individualFactor": -10.99
+            },
+            {
+              "code": "8136",
+              "name": "サンリオ",
+              "price": 1060,
+              "change": -79.97,
+              "beta": 5.58,
+              "r2": 0.77,
+              "themeFactor": -55.17,
+              "individualFactor": -24.8
             }
           ]
         },
         "2M": {
-          "change": 9.28,
+          "change": -0.13,
           "history": [
             100.0,
             99.87,
@@ -48540,12 +48540,12 @@
             105.11,
             106.68,
             108.44,
-            105.41,
-            103.64,
-            105.1,
-            106.95,
-            106.55,
-            109.28
+            95.8,
+            94.21,
+            95.79,
+            97.55,
+            97.32,
+            99.87
           ],
           "stocks": [
             {
@@ -48553,105 +48553,105 @@
               "name": "メルカリ",
               "price": 3764,
               "change": 25.38,
-              "beta": 1.08,
-              "r2": 0.2,
-              "themeFactor": 10.05,
-              "individualFactor": 15.34
+              "beta": 0.52,
+              "r2": 0.12,
+              "themeFactor": -0.07,
+              "individualFactor": 25.45
             },
             {
               "code": "2702",
               "name": "Stock 2702",
               "price": 8360,
               "change": 25.34,
-              "beta": 0.42,
-              "r2": 0.21,
-              "themeFactor": 3.91,
-              "individualFactor": 21.43
+              "beta": 0.21,
+              "r2": 0.14,
+              "themeFactor": -0.03,
+              "individualFactor": 25.36
             },
             {
               "code": "4911",
               "name": "資生堂",
               "price": 3214,
               "change": 17.66,
-              "beta": 1.57,
-              "r2": 0.4,
-              "themeFactor": 14.55,
-              "individualFactor": 3.11
-            },
-            {
-              "code": "8136",
-              "name": "サンリオ",
-              "price": 5303,
-              "change": 17.61,
-              "beta": 0.89,
-              "r2": 0.13,
-              "themeFactor": 8.26,
-              "individualFactor": 9.35
+              "beta": 0.74,
+              "r2": 0.23,
+              "themeFactor": -0.1,
+              "individualFactor": 17.76
             },
             {
               "code": "3099",
               "name": "三越伊勢丹",
               "price": 2976,
               "change": 11.29,
-              "beta": 1.39,
-              "r2": 0.48,
-              "themeFactor": 12.89,
-              "individualFactor": -1.59
+              "beta": 0.74,
+              "r2": 0.36,
+              "themeFactor": -0.1,
+              "individualFactor": 11.39
             },
             {
               "code": "9024",
               "name": "西武HD",
               "price": 4380,
               "change": 3.23,
-              "beta": 0.7,
-              "r2": 0.26,
-              "themeFactor": 6.5,
-              "individualFactor": -3.27
+              "beta": 0.38,
+              "r2": 0.2,
+              "themeFactor": -0.05,
+              "individualFactor": 3.28
             },
             {
               "code": "7532",
               "name": "パンパシHD",
               "price": 983,
               "change": 3.07,
-              "beta": 0.77,
-              "r2": 0.34,
-              "themeFactor": 7.12,
-              "individualFactor": -4.05
+              "beta": 0.41,
+              "r2": 0.25,
+              "themeFactor": -0.05,
+              "individualFactor": 3.12
             },
             {
               "code": "8233",
               "name": "高島屋",
               "price": 1903,
               "change": 0.5,
-              "beta": 1.24,
-              "r2": 0.38,
-              "themeFactor": 11.52,
-              "individualFactor": -11.03
+              "beta": 0.68,
+              "r2": 0.3,
+              "themeFactor": -0.09,
+              "individualFactor": 0.58
             },
             {
               "code": "9202",
               "name": "Stock 9202",
               "price": 2983,
               "change": -2.04,
-              "beta": 0.99,
-              "r2": 0.53,
-              "themeFactor": 9.15,
-              "individualFactor": -11.18
+              "beta": 0.57,
+              "r2": 0.47,
+              "themeFactor": -0.07,
+              "individualFactor": -1.96
             },
             {
               "code": "9201",
               "name": "Stock 9201",
               "price": 2685,
               "change": -9.24,
-              "beta": 1.23,
-              "r2": 0.52,
-              "themeFactor": 11.44,
-              "individualFactor": -20.68
+              "beta": 0.64,
+              "r2": 0.36,
+              "themeFactor": -0.08,
+              "individualFactor": -9.16
+            },
+            {
+              "code": "8136",
+              "name": "サンリオ",
+              "price": 1060,
+              "change": -76.48,
+              "beta": 4.86,
+              "r2": 0.7,
+              "themeFactor": -0.62,
+              "individualFactor": -75.85
             }
           ]
         },
         "3M": {
-          "change": 13.93,
+          "change": 5.6,
           "history": [
             100.0,
             100.65,
@@ -48713,12 +48713,12 @@
             109.37,
             111.02,
             112.92,
-            109.68,
-            107.87,
-            109.47,
-            111.42,
-            111.04,
-            113.93
+            101.17,
+            99.53,
+            101.23,
+            103.09,
+            102.87,
+            105.6
           ],
           "stocks": [
             {
@@ -48726,105 +48726,105 @@
               "name": "資生堂",
               "price": 3214,
               "change": 39.03,
-              "beta": 1.51,
-              "r2": 0.39,
-              "themeFactor": 21.09,
-              "individualFactor": 17.95
+              "beta": 0.89,
+              "r2": 0.27,
+              "themeFactor": 4.96,
+              "individualFactor": 34.07
             },
             {
               "code": "2702",
               "name": "Stock 2702",
               "price": 8360,
               "change": 30.94,
-              "beta": 0.46,
-              "r2": 0.22,
-              "themeFactor": 6.4,
-              "individualFactor": 24.53
+              "beta": 0.27,
+              "r2": 0.16,
+              "themeFactor": 1.52,
+              "individualFactor": 29.42
             },
             {
               "code": "4385",
               "name": "メルカリ",
               "price": 3764,
               "change": 28.38,
-              "beta": 1.1,
-              "r2": 0.22,
-              "themeFactor": 15.32,
-              "individualFactor": 13.05
+              "beta": 0.64,
+              "r2": 0.15,
+              "themeFactor": 3.57,
+              "individualFactor": 24.81
             },
             {
               "code": "3099",
               "name": "三越伊勢丹",
               "price": 2976,
               "change": 25.86,
-              "beta": 1.23,
-              "r2": 0.43,
-              "themeFactor": 17.12,
-              "individualFactor": 8.74
+              "beta": 0.8,
+              "r2": 0.36,
+              "themeFactor": 4.49,
+              "individualFactor": 21.37
             },
             {
               "code": "8233",
               "name": "高島屋",
               "price": 1903,
               "change": 16.59,
-              "beta": 1.19,
-              "r2": 0.33,
-              "themeFactor": 16.59,
-              "individualFactor": -0.0
+              "beta": 0.78,
+              "r2": 0.28,
+              "themeFactor": 4.36,
+              "individualFactor": 12.23
             },
             {
               "code": "7532",
               "name": "パンパシHD",
               "price": 983,
               "change": 5.03,
-              "beta": 0.81,
-              "r2": 0.31,
-              "themeFactor": 11.31,
-              "individualFactor": -6.28
-            },
-            {
-              "code": "8136",
-              "name": "サンリオ",
-              "price": 5303,
-              "change": 4.12,
-              "beta": 0.85,
-              "r2": 0.12,
-              "themeFactor": 11.88,
-              "individualFactor": -7.76
+              "beta": 0.51,
+              "r2": 0.24,
+              "themeFactor": 2.83,
+              "individualFactor": 2.2
             },
             {
               "code": "9202",
               "name": "Stock 9202",
               "price": 2983,
               "change": 0.42,
-              "beta": 0.93,
-              "r2": 0.52,
-              "themeFactor": 12.92,
-              "individualFactor": -12.5
+              "beta": 0.64,
+              "r2": 0.49,
+              "themeFactor": 3.57,
+              "individualFactor": -3.14
             },
             {
               "code": "9024",
               "name": "西武HD",
               "price": 4380,
               "change": -3.2,
-              "beta": 0.83,
-              "r2": 0.28,
-              "themeFactor": 11.55,
-              "individualFactor": -14.75
+              "beta": 0.51,
+              "r2": 0.21,
+              "themeFactor": 2.83,
+              "individualFactor": -6.04
             },
             {
               "code": "9201",
               "name": "Stock 9201",
               "price": 2685,
               "change": -7.84,
-              "beta": 1.12,
-              "r2": 0.49,
-              "themeFactor": 15.66,
-              "individualFactor": -23.5
+              "beta": 0.71,
+              "r2": 0.39,
+              "themeFactor": 3.98,
+              "individualFactor": -11.82
+            },
+            {
+              "code": "8136",
+              "name": "サンリオ",
+              "price": 1060,
+              "change": -79.18,
+              "beta": 4.56,
+              "r2": 0.6,
+              "themeFactor": 25.53,
+              "individualFactor": -104.71
             }
           ]
         },
         "6M": {
-          "change": 9.85,
+          "change": 4.02,
           "history": [
             100.0,
             99.05,
@@ -48949,12 +48949,12 @@
             105.07,
             106.62,
             108.51,
-            105.38,
-            103.67,
-            105.39,
-            107.27,
-            106.96,
-            109.85
+            99.42,
+            97.82,
+            99.62,
+            101.44,
+            101.23,
+            104.02
           ],
           "stocks": [
             {
@@ -48962,105 +48962,105 @@
               "name": "メルカリ",
               "price": 3764,
               "change": 63.72,
-              "beta": 1.34,
-              "r2": 0.27,
-              "themeFactor": 13.25,
-              "individualFactor": 50.48
+              "beta": 1.07,
+              "r2": 0.22,
+              "themeFactor": 4.28,
+              "individualFactor": 59.44
             },
             {
               "code": "4911",
               "name": "資生堂",
               "price": 3214,
               "change": 36.77,
-              "beta": 1.55,
-              "r2": 0.44,
-              "themeFactor": 15.29,
-              "individualFactor": 21.49
+              "beta": 1.24,
+              "r2": 0.37,
+              "themeFactor": 4.98,
+              "individualFactor": 31.79
             },
             {
               "code": "8233",
               "name": "高島屋",
               "price": 1903,
               "change": 32.9,
-              "beta": 1.14,
-              "r2": 0.37,
-              "themeFactor": 11.28,
-              "individualFactor": 21.62
+              "beta": 0.97,
+              "r2": 0.35,
+              "themeFactor": 3.9,
+              "individualFactor": 29.01
             },
             {
               "code": "2702",
               "name": "Stock 2702",
               "price": 8360,
               "change": 30.33,
-              "beta": 0.36,
-              "r2": 0.17,
-              "themeFactor": 3.53,
-              "individualFactor": 26.8
+              "beta": 0.29,
+              "r2": 0.14,
+              "themeFactor": 1.16,
+              "individualFactor": 29.17
             },
             {
               "code": "3099",
               "name": "三越伊勢丹",
               "price": 2976,
               "change": 2.23,
-              "beta": 1.29,
-              "r2": 0.44,
-              "themeFactor": 12.74,
-              "individualFactor": -10.51
+              "beta": 1.08,
+              "r2": 0.4,
+              "themeFactor": 4.33,
+              "individualFactor": -2.1
             },
             {
               "code": "9202",
               "name": "Stock 9202",
               "price": 2983,
               "change": 0.74,
-              "beta": 0.66,
-              "r2": 0.31,
-              "themeFactor": 6.54,
-              "individualFactor": -5.8
+              "beta": 0.6,
+              "r2": 0.33,
+              "themeFactor": 2.42,
+              "individualFactor": -1.67
             },
             {
               "code": "7532",
               "name": "パンパシHD",
               "price": 983,
               "change": -5.98,
-              "beta": 0.79,
-              "r2": 0.29,
-              "themeFactor": 7.74,
-              "individualFactor": -13.71
+              "beta": 0.65,
+              "r2": 0.26,
+              "themeFactor": 2.6,
+              "individualFactor": -8.58
             },
             {
               "code": "9201",
               "name": "Stock 9201",
               "price": 2685,
               "change": -13.35,
-              "beta": 0.85,
-              "r2": 0.38,
-              "themeFactor": 8.42,
-              "individualFactor": -21.77
+              "beta": 0.73,
+              "r2": 0.36,
+              "themeFactor": 2.94,
+              "individualFactor": -16.29
             },
             {
               "code": "9024",
               "name": "西武HD",
               "price": 4380,
               "change": -21.78,
-              "beta": 0.81,
-              "r2": 0.3,
-              "themeFactor": 7.97,
-              "individualFactor": -29.75
+              "beta": 0.66,
+              "r2": 0.27,
+              "themeFactor": 2.66,
+              "individualFactor": -24.43
             },
             {
               "code": "8136",
               "name": "サンリオ",
-              "price": 5303,
-              "change": -27.06,
-              "beta": 1.11,
-              "r2": 0.18,
-              "themeFactor": 10.94,
-              "individualFactor": -38.01
+              "price": 1060,
+              "change": -85.41,
+              "beta": 3.46,
+              "r2": 0.4,
+              "themeFactor": 13.89,
+              "individualFactor": -99.3
             }
           ]
         },
         "12M": {
-          "change": 22.55,
+          "change": 16.47,
           "history": [
             100.0,
             99.61,
@@ -49301,12 +49301,12 @@
             117.35,
             119.16,
             121.4,
-            117.83,
-            115.9,
-            117.72,
-            119.87,
-            119.53,
-            122.55
+            111.62,
+            109.81,
+            111.71,
+            113.79,
+            113.57,
+            116.47
           ],
           "stocks": [
             {
@@ -49314,100 +49314,100 @@
               "name": "高島屋",
               "price": 1903,
               "change": 56.51,
-              "beta": 1.05,
-              "r2": 0.44,
-              "themeFactor": 23.58,
-              "individualFactor": 32.93
+              "beta": 0.97,
+              "r2": 0.43,
+              "themeFactor": 16.0,
+              "individualFactor": 40.51
             },
             {
               "code": "4385",
               "name": "メルカリ",
               "price": 3764,
               "change": 51.93,
-              "beta": 1.32,
-              "r2": 0.33,
-              "themeFactor": 29.85,
-              "individualFactor": 22.08
+              "beta": 1.19,
+              "r2": 0.31,
+              "themeFactor": 19.54,
+              "individualFactor": 32.39
             },
             {
               "code": "2702",
               "name": "Stock 2702",
               "price": 8360,
               "change": 45.64,
-              "beta": 0.38,
-              "r2": 0.21,
-              "themeFactor": 8.5,
-              "individualFactor": 37.14
+              "beta": 0.34,
+              "r2": 0.2,
+              "themeFactor": 5.61,
+              "individualFactor": 40.03
             },
             {
               "code": "3099",
               "name": "三越伊勢丹",
               "price": 2976,
               "change": 34.41,
-              "beta": 1.24,
-              "r2": 0.46,
-              "themeFactor": 27.92,
-              "individualFactor": 6.49
+              "beta": 1.14,
+              "r2": 0.44,
+              "themeFactor": 18.77,
+              "individualFactor": 15.64
             },
             {
               "code": "9024",
               "name": "西武HD",
               "price": 4380,
               "change": 22.62,
-              "beta": 1.02,
-              "r2": 0.35,
-              "themeFactor": 23.01,
-              "individualFactor": -0.38
+              "beta": 0.92,
+              "r2": 0.33,
+              "themeFactor": 15.22,
+              "individualFactor": 7.4
             },
             {
               "code": "7532",
               "name": "パンパシHD",
               "price": 983,
               "change": 17.74,
-              "beta": 0.73,
-              "r2": 0.34,
-              "themeFactor": 16.54,
-              "individualFactor": 1.2
+              "beta": 0.67,
+              "r2": 0.33,
+              "themeFactor": 11.09,
+              "individualFactor": 6.65
             },
             {
               "code": "4911",
               "name": "資生堂",
               "price": 3214,
               "change": 13.32,
-              "beta": 1.41,
-              "r2": 0.42,
-              "themeFactor": 31.75,
-              "individualFactor": -18.43
+              "beta": 1.27,
+              "r2": 0.39,
+              "themeFactor": 20.92,
+              "individualFactor": -7.6
             },
             {
               "code": "9202",
               "name": "Stock 9202",
               "price": 2983,
               "change": 4.94,
-              "beta": 0.65,
-              "r2": 0.36,
-              "themeFactor": 14.63,
-              "individualFactor": -9.69
+              "beta": 0.62,
+              "r2": 0.38,
+              "themeFactor": 10.22,
+              "individualFactor": -5.28
             },
             {
               "code": "9201",
               "name": "Stock 9201",
               "price": 2685,
               "change": 2.36,
-              "beta": 0.83,
+              "beta": 0.77,
               "r2": 0.44,
-              "themeFactor": 18.69,
-              "individualFactor": -16.32
+              "themeFactor": 12.72,
+              "individualFactor": -10.36
             },
             {
               "code": "8136",
               "name": "サンリオ",
-              "price": 5303,
-              "change": -24.01,
-              "beta": 1.52,
-              "r2": 0.32,
-              "themeFactor": 34.38,
-              "individualFactor": -58.4
+              "price": 1060,
+              "change": -84.8,
+              "beta": 2.71,
+              "r2": 0.37,
+              "themeFactor": 44.6,
+              "individualFactor": -129.41
             }
           ]
         }
