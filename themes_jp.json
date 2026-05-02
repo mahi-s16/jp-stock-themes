@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-01T09:16:36.450055",
+    "generated_at": "2026-05-02T08:49:26.614123",
     "periods": [
       "1D",
       "5D",
@@ -4082,7 +4082,7 @@
             130.77,
             132.04,
             130.82,
-            126.4,
+            126.39,
             125.99,
             123.11,
             124.48,
@@ -23572,7 +23572,7 @@
           ]
         },
         "2M": {
-          "change": -3.43,
+          "change": -3.25,
           "history": [
             100.0,
             102.0,
@@ -23595,30 +23595,30 @@
             96.8,
             96.98,
             98.75,
-            97.49,
-            98.92,
-            102.39,
-            101.46,
-            102.27,
-            102.07,
-            102.37,
-            103.46,
-            101.81,
-            99.94,
-            99.05,
-            99.22,
-            100.44,
-            101.36,
-            101.92,
+            97.68,
+            99.11,
+            102.6,
+            101.65,
+            102.46,
             102.26,
-            102.4,
-            102.17,
-            99.96,
-            98.43,
-            97.55,
-            98.96,
-            96.21,
-            96.57
+            102.56,
+            103.66,
+            102.0,
+            100.14,
+            99.24,
+            99.42,
+            100.63,
+            101.55,
+            102.11,
+            102.45,
+            102.58,
+            102.35,
+            100.14,
+            98.62,
+            97.73,
+            99.15,
+            96.39,
+            96.75
           ],
           "stocks": [
             {
@@ -23628,8 +23628,8 @@
               "change": 9.26,
               "beta": 1.56,
               "r2": 0.61,
-              "themeFactor": -5.33,
-              "individualFactor": 14.59
+              "themeFactor": -5.05,
+              "individualFactor": 14.31
             },
             {
               "code": "4385",
@@ -23638,8 +23638,8 @@
               "change": 6.88,
               "beta": 1.55,
               "r2": 0.6,
-              "themeFactor": -5.3,
-              "individualFactor": 12.18
+              "themeFactor": -5.03,
+              "individualFactor": 11.91
             },
             {
               "code": "2181",
@@ -23648,8 +23648,8 @@
               "change": -3.47,
               "beta": 0.76,
               "r2": 0.63,
-              "themeFactor": -2.61,
-              "individualFactor": -0.87
+              "themeFactor": -2.48,
+              "individualFactor": -0.99
             },
             {
               "code": "2331",
@@ -23657,9 +23657,9 @@
               "price": 1178,
               "change": -3.64,
               "beta": 0.67,
-              "r2": 0.49,
-              "themeFactor": -2.29,
-              "individualFactor": -1.35
+              "r2": 0.5,
+              "themeFactor": -2.19,
+              "individualFactor": -1.45
             },
             {
               "code": "9735",
@@ -23667,19 +23667,19 @@
               "price": 5730,
               "change": -4.03,
               "beta": 0.46,
-              "r2": 0.31,
-              "themeFactor": -1.56,
-              "individualFactor": -2.47
+              "r2": 0.32,
+              "themeFactor": -1.5,
+              "individualFactor": -2.53
             },
             {
               "code": "2413",
               "name": "エムスリー",
               "price": 1496,
-              "change": -8.11,
-              "beta": 1.04,
+              "change": -6.84,
+              "beta": 1.02,
               "r2": 0.5,
-              "themeFactor": -3.55,
-              "individualFactor": -4.55
+              "themeFactor": -3.31,
+              "individualFactor": -3.54
             },
             {
               "code": "4661",
@@ -23688,13 +23688,13 @@
               "change": -20.88,
               "beta": 1.15,
               "r2": 0.46,
-              "themeFactor": -3.94,
-              "individualFactor": -16.94
+              "themeFactor": -3.74,
+              "individualFactor": -17.14
             }
           ]
         },
         "3M": {
-          "change": -8.24,
+          "change": -8.09,
           "history": [
             100.0,
             99.65,
@@ -23738,30 +23738,30 @@
             92.18,
             92.37,
             94.09,
-            92.97,
-            94.23,
-            97.43,
-            96.64,
-            97.46,
-            97.24,
-            97.51,
-            98.37,
+            93.13,
+            94.39,
+            97.59,
             96.8,
-            94.95,
-            94.18,
-            94.29,
-            95.55,
-            96.47,
-            96.89,
-            97.22,
+            97.62,
             97.41,
-            97.08,
-            95.12,
-            93.66,
-            92.7,
-            94.03,
-            91.37,
-            91.76
+            97.67,
+            98.53,
+            96.97,
+            95.11,
+            94.33,
+            94.45,
+            95.7,
+            96.63,
+            97.05,
+            97.38,
+            97.56,
+            97.23,
+            95.27,
+            93.81,
+            92.85,
+            94.18,
+            91.52,
+            91.91
           ],
           "stocks": [
             {
@@ -23769,10 +23769,10 @@
               "name": "メルカリ",
               "price": 3855,
               "change": 18.25,
-              "beta": 1.56,
+              "beta": 1.57,
               "r2": 0.57,
-              "themeFactor": -12.89,
-              "individualFactor": 31.14
+              "themeFactor": -12.67,
+              "individualFactor": 30.92
             },
             {
               "code": "9735",
@@ -23781,8 +23781,8 @@
               "change": -0.46,
               "beta": 0.49,
               "r2": 0.34,
-              "themeFactor": -4.02,
-              "individualFactor": 3.56
+              "themeFactor": -3.97,
+              "individualFactor": 3.51
             },
             {
               "code": "2331",
@@ -23791,8 +23791,8 @@
               "change": -3.64,
               "beta": 0.68,
               "r2": 0.46,
-              "themeFactor": -5.6,
-              "individualFactor": 1.96
+              "themeFactor": -5.52,
+              "individualFactor": 1.88
             },
             {
               "code": "6098",
@@ -23801,18 +23801,18 @@
               "change": -11.86,
               "beta": 1.81,
               "r2": 0.63,
-              "themeFactor": -14.88,
-              "individualFactor": 3.02
+              "themeFactor": -14.62,
+              "individualFactor": 2.76
             },
             {
               "code": "2181",
               "name": "パーソルHD",
               "price": 232,
               "change": -14.24,
-              "beta": 0.73,
+              "beta": 0.74,
               "r2": 0.49,
-              "themeFactor": -6.05,
-              "individualFactor": -8.19
+              "themeFactor": -5.95,
+              "individualFactor": -8.29
             },
             {
               "code": "4661",
@@ -23820,24 +23820,24 @@
               "price": 2223,
               "change": -21.09,
               "beta": 0.75,
-              "r2": 0.28,
-              "themeFactor": -6.18,
-              "individualFactor": -14.91
+              "r2": 0.27,
+              "themeFactor": -6.06,
+              "individualFactor": -15.03
             },
             {
               "code": "2413",
               "name": "エムスリー",
               "price": 1496,
-              "change": -24.63,
-              "beta": 1.18,
-              "r2": 0.52,
-              "themeFactor": -9.7,
-              "individualFactor": -14.92
+              "change": -23.59,
+              "beta": 1.17,
+              "r2": 0.51,
+              "themeFactor": -9.46,
+              "individualFactor": -14.13
             }
           ]
         },
         "6M": {
-          "change": -0.22,
+          "change": -0.09,
           "history": [
             100.0,
             100.22,
@@ -23944,30 +23944,30 @@
             99.17,
             99.36,
             101.38,
-            100.28,
-            101.47,
-            105.06,
-            104.26,
-            105.27,
-            105.07,
-            105.43,
-            106.19,
-            104.49,
-            102.28,
-            101.49,
-            101.68,
-            103.16,
-            104.32,
-            104.72,
-            105.14,
-            105.64,
-            105.24,
-            103.33,
-            101.77,
-            100.49,
-            101.92,
-            99.3,
-            99.78
+            100.41,
+            101.61,
+            105.2,
+            104.4,
+            105.42,
+            105.22,
+            105.58,
+            106.34,
+            104.64,
+            102.42,
+            101.63,
+            101.82,
+            103.3,
+            104.46,
+            104.85,
+            105.28,
+            105.78,
+            105.37,
+            103.46,
+            101.9,
+            100.63,
+            102.05,
+            99.43,
+            99.91
           ],
           "stocks": [
             {
@@ -23977,8 +23977,8 @@
               "change": 63.38,
               "beta": 1.56,
               "r2": 0.48,
-              "themeFactor": -0.34,
-              "individualFactor": 63.72
+              "themeFactor": -0.14,
+              "individualFactor": 63.52
             },
             {
               "code": "2331",
@@ -23987,8 +23987,8 @@
               "change": 11.76,
               "beta": 0.62,
               "r2": 0.39,
-              "themeFactor": -0.14,
-              "individualFactor": 11.89
+              "themeFactor": -0.06,
+              "individualFactor": 11.81
             },
             {
               "code": "9735",
@@ -23997,8 +23997,8 @@
               "change": 10.61,
               "beta": 0.46,
               "r2": 0.3,
-              "themeFactor": -0.1,
-              "individualFactor": 10.72
+              "themeFactor": -0.04,
+              "individualFactor": 10.65
             },
             {
               "code": "6098",
@@ -24007,8 +24007,8 @@
               "change": -6.76,
               "beta": 1.58,
               "r2": 0.46,
-              "themeFactor": -0.35,
-              "individualFactor": -6.41
+              "themeFactor": -0.14,
+              "individualFactor": -6.62
             },
             {
               "code": "2181",
@@ -24017,33 +24017,33 @@
               "change": -9.35,
               "beta": 0.63,
               "r2": 0.33,
-              "themeFactor": -0.14,
-              "individualFactor": -9.21
+              "themeFactor": -0.06,
+              "individualFactor": -9.29
             },
             {
               "code": "2413",
               "name": "エムスリー",
               "price": 1496,
-              "change": -33.13,
-              "beta": 1.41,
-              "r2": 0.38,
-              "themeFactor": -0.31,
-              "individualFactor": -32.82
+              "change": -32.21,
+              "beta": 1.4,
+              "r2": 0.37,
+              "themeFactor": -0.12,
+              "individualFactor": -32.09
             },
             {
               "code": "4661",
               "name": "オリエンタルランド",
               "price": 2223,
               "change": -38.05,
-              "beta": 0.7,
+              "beta": 0.69,
               "r2": 0.22,
-              "themeFactor": -0.15,
-              "individualFactor": -37.9
+              "themeFactor": -0.06,
+              "individualFactor": -37.99
             }
           ]
         },
         "12M": {
-          "change": 3.76,
+          "change": 3.92,
           "history": [
             100.0,
             100.74,
@@ -24266,30 +24266,30 @@
             103.6,
             103.79,
             105.91,
-            104.68,
-            105.95,
-            109.66,
-            108.83,
-            109.83,
-            109.59,
-            109.94,
-            110.75,
-            108.95,
-            106.66,
-            105.81,
-            106.02,
-            107.57,
-            108.75,
-            109.11,
-            109.55,
-            109.94,
-            109.53,
-            107.49,
-            105.9,
-            104.62,
-            106.09,
-            103.25,
-            103.76
+            104.86,
+            106.13,
+            109.84,
+            109.01,
+            110.0,
+            109.77,
+            110.12,
+            110.94,
+            109.13,
+            106.83,
+            105.98,
+            106.19,
+            107.75,
+            108.92,
+            109.28,
+            109.73,
+            110.1,
+            109.7,
+            107.66,
+            106.07,
+            104.78,
+            106.26,
+            103.42,
+            103.92
           ],
           "stocks": [
             {
@@ -24299,8 +24299,8 @@
               "change": 67.35,
               "beta": 1.42,
               "r2": 0.37,
-              "themeFactor": 5.34,
-              "individualFactor": 62.01
+              "themeFactor": 5.58,
+              "individualFactor": 61.77
             },
             {
               "code": "9735",
@@ -24309,8 +24309,8 @@
               "change": 9.85,
               "beta": 0.43,
               "r2": 0.22,
-              "themeFactor": 1.61,
-              "individualFactor": 8.24
+              "themeFactor": 1.68,
+              "individualFactor": 8.17
             },
             {
               "code": "2331",
@@ -24319,8 +24319,8 @@
               "change": 6.57,
               "beta": 0.57,
               "r2": 0.28,
-              "themeFactor": 2.13,
-              "individualFactor": 4.45
+              "themeFactor": 2.22,
+              "individualFactor": 4.35
             },
             {
               "code": "2181",
@@ -24329,8 +24329,8 @@
               "change": -4.75,
               "beta": 0.62,
               "r2": 0.23,
-              "themeFactor": 2.34,
-              "individualFactor": -7.08
+              "themeFactor": 2.44,
+              "individualFactor": -7.19
             },
             {
               "code": "6098",
@@ -24339,18 +24339,18 @@
               "change": -10.11,
               "beta": 1.45,
               "r2": 0.37,
-              "themeFactor": 5.44,
-              "individualFactor": -15.55
+              "themeFactor": 5.68,
+              "individualFactor": -15.79
             },
             {
               "code": "2413",
               "name": "エムスリー",
               "price": 1496,
-              "change": -16.07,
-              "beta": 1.62,
+              "change": -14.92,
+              "beta": 1.61,
               "r2": 0.41,
-              "themeFactor": 6.08,
-              "individualFactor": -22.14
+              "themeFactor": 6.33,
+              "individualFactor": -21.25
             },
             {
               "code": "4661",
@@ -24359,8 +24359,8 @@
               "change": -26.54,
               "beta": 0.8,
               "r2": 0.25,
-              "themeFactor": 3.0,
-              "individualFactor": -29.54
+              "themeFactor": 3.13,
+              "individualFactor": -29.67
             }
           ]
         }
@@ -39043,7 +39043,7 @@
           ]
         },
         "2M": {
-          "change": -12.13,
+          "change": -11.88,
           "history": [
             100.0,
             103.33,
@@ -39066,30 +39066,30 @@
             91.15,
             90.2,
             92.04,
-            90.27,
-            89.75,
-            92.49,
-            90.71,
-            90.42,
-            90.86,
-            90.86,
-            93.57,
-            91.91,
-            90.99,
-            89.97,
-            91.08,
-            91.62,
-            92.4,
-            92.02,
-            92.56,
-            91.74,
-            91.77,
+            90.54,
+            90.02,
+            92.77,
+            90.98,
+            90.7,
+            91.13,
+            91.14,
+            93.86,
+            92.18,
+            91.26,
+            90.23,
+            91.35,
+            91.88,
+            92.67,
+            92.29,
+            92.83,
+            91.99,
+            92.03,
+            90.94,
             90.69,
-            90.44,
-            91.72,
-            91.21,
-            88.75,
-            87.87
+            91.97,
+            91.46,
+            89.01,
+            88.12
           ],
           "stocks": [
             {
@@ -39099,18 +39099,18 @@
               "change": -4.02,
               "beta": 0.6,
               "r2": 0.41,
-              "themeFactor": -7.25,
-              "individualFactor": 3.23
+              "themeFactor": -7.14,
+              "individualFactor": 3.11
             },
             {
               "code": "2413",
               "name": "エムスリー",
               "price": 1496,
-              "change": -8.11,
-              "beta": 0.71,
-              "r2": 0.46,
-              "themeFactor": -8.58,
-              "individualFactor": 0.47
+              "change": -6.84,
+              "beta": 0.69,
+              "r2": 0.45,
+              "themeFactor": -8.25,
+              "individualFactor": 1.41
             },
             {
               "code": "9795",
@@ -39118,34 +39118,34 @@
               "price": 2276,
               "change": -8.98,
               "beta": 0.37,
-              "r2": 0.49,
-              "themeFactor": -4.47,
-              "individualFactor": -4.5
+              "r2": 0.48,
+              "themeFactor": -4.37,
+              "individualFactor": -4.61
             },
             {
               "code": "4369",
               "name": "Stock 4369",
               "price": 3085,
               "change": -18.28,
-              "beta": 1.72,
+              "beta": 1.73,
               "r2": 0.59,
-              "themeFactor": -20.93,
-              "individualFactor": 2.65
+              "themeFactor": -20.56,
+              "individualFactor": 2.29
             },
             {
               "code": "7776",
               "name": "Stock 7776",
               "price": 270,
               "change": -21.28,
-              "beta": 1.88,
+              "beta": 1.89,
               "r2": 0.76,
-              "themeFactor": -22.82,
-              "individualFactor": 1.54
+              "themeFactor": -22.42,
+              "individualFactor": 1.13
             }
           ]
         },
         "3M": {
-          "change": -11.16,
+          "change": -10.96,
           "history": [
             100.0,
             100.32,
@@ -39189,30 +39189,30 @@
             91.89,
             90.82,
             92.61,
-            90.86,
-            90.18,
-            92.97,
-            91.14,
-            90.88,
-            91.32,
-            91.29,
-            94.21,
-            92.49,
-            91.72,
-            90.74,
-            91.89,
-            92.45,
-            93.37,
-            92.96,
-            93.52,
-            92.92,
-            92.92,
-            91.88,
-            91.58,
-            93.0,
-            92.46,
-            89.81,
-            88.84
+            91.07,
+            90.4,
+            93.21,
+            91.36,
+            91.1,
+            91.55,
+            91.51,
+            94.44,
+            92.72,
+            91.94,
+            90.95,
+            92.11,
+            92.67,
+            93.59,
+            93.18,
+            93.74,
+            93.13,
+            93.13,
+            92.09,
+            91.79,
+            93.21,
+            92.67,
+            90.01,
+            89.04
           ],
           "stocks": [
             {
@@ -39222,8 +39222,8 @@
               "change": -3.41,
               "beta": 0.54,
               "r2": 0.38,
-              "themeFactor": -5.99,
-              "individualFactor": 2.58
+              "themeFactor": -5.89,
+              "individualFactor": 2.49
             },
             {
               "code": "4369",
@@ -39232,8 +39232,8 @@
               "change": -4.37,
               "beta": 1.43,
               "r2": 0.53,
-              "themeFactor": -15.94,
-              "individualFactor": 11.57
+              "themeFactor": -15.67,
+              "individualFactor": 11.3
             },
             {
               "code": "9795",
@@ -39242,8 +39242,8 @@
               "change": -9.12,
               "beta": 0.28,
               "r2": 0.3,
-              "themeFactor": -3.18,
-              "individualFactor": -5.94
+              "themeFactor": -3.11,
+              "individualFactor": -6.01
             },
             {
               "code": "7776",
@@ -39251,24 +39251,24 @@
               "price": 270,
               "change": -14.29,
               "beta": 1.99,
-              "r2": 0.71,
-              "themeFactor": -22.21,
-              "individualFactor": 7.93
+              "r2": 0.72,
+              "themeFactor": -21.84,
+              "individualFactor": 7.56
             },
             {
               "code": "2413",
               "name": "エムスリー",
               "price": 1496,
-              "change": -24.63,
-              "beta": 0.77,
+              "change": -23.59,
+              "beta": 0.76,
               "r2": 0.37,
-              "themeFactor": -8.61,
-              "individualFactor": -16.02
+              "themeFactor": -8.36,
+              "individualFactor": -15.24
             }
           ]
         },
         "6M": {
-          "change": -17.34,
+          "change": -17.15,
           "history": [
             100.0,
             100.33,
@@ -39375,30 +39375,30 @@
             84.7,
             83.8,
             85.34,
-            83.73,
-            83.11,
-            85.72,
-            84.07,
-            83.9,
-            84.34,
-            84.37,
-            87.15,
-            85.6,
-            85.0,
-            84.05,
+            83.93,
+            83.31,
+            85.92,
+            84.27,
+            84.1,
+            84.55,
+            84.57,
+            87.35,
+            85.8,
             85.2,
-            85.52,
-            86.52,
-            86.22,
-            86.69,
-            86.32,
-            86.31,
-            85.39,
-            85.16,
-            86.76,
-            86.24,
-            83.73,
-            82.66
+            84.24,
+            85.4,
+            85.71,
+            86.71,
+            86.42,
+            86.88,
+            86.5,
+            86.49,
+            85.57,
+            85.34,
+            86.94,
+            86.42,
+            83.92,
+            82.85
           ],
           "stocks": [
             {
@@ -39408,8 +39408,8 @@
               "change": 7.53,
               "beta": 1.55,
               "r2": 0.46,
-              "themeFactor": -26.91,
-              "individualFactor": 34.44
+              "themeFactor": -26.66,
+              "individualFactor": 34.19
             },
             {
               "code": "9795",
@@ -39418,8 +39418,8 @@
               "change": -2.42,
               "beta": 0.25,
               "r2": 0.17,
-              "themeFactor": -4.39,
-              "individualFactor": 1.97
+              "themeFactor": -4.33,
+              "individualFactor": 1.91
             },
             {
               "code": "4544",
@@ -39428,18 +39428,18 @@
               "change": -19.48,
               "beta": 0.49,
               "r2": 0.25,
-              "themeFactor": -8.46,
-              "individualFactor": -11.01
+              "themeFactor": -8.39,
+              "individualFactor": -11.08
             },
             {
               "code": "2413",
               "name": "エムスリー",
               "price": 1496,
-              "change": -33.13,
-              "beta": 1.01,
+              "change": -32.21,
+              "beta": 1.0,
               "r2": 0.27,
-              "themeFactor": -17.49,
-              "individualFactor": -15.64
+              "themeFactor": -17.21,
+              "individualFactor": -15.0
             },
             {
               "code": "7776",
@@ -39448,13 +39448,13 @@
               "change": -39.19,
               "beta": 1.89,
               "r2": 0.48,
-              "themeFactor": -32.74,
-              "individualFactor": -6.45
+              "themeFactor": -32.44,
+              "individualFactor": -6.75
             }
           ]
         },
         "12M": {
-          "change": -6.23,
+          "change": -6.0,
           "history": [
             100.0,
             99.55,
@@ -39677,30 +39677,30 @@
             95.44,
             94.74,
             96.6,
-            94.87,
-            94.27,
-            97.14,
-            95.4,
-            95.26,
-            95.79,
-            95.85,
-            98.76,
-            97.08,
-            96.2,
-            95.15,
-            96.44,
-            96.7,
-            97.79,
-            97.45,
-            97.96,
-            97.4,
-            97.52,
-            96.55,
-            96.44,
-            98.41,
-            97.72,
-            94.97,
-            93.77
+            95.12,
+            94.52,
+            97.39,
+            95.65,
+            95.51,
+            96.04,
+            96.11,
+            99.02,
+            97.33,
+            96.45,
+            95.39,
+            96.69,
+            96.95,
+            98.04,
+            97.7,
+            98.21,
+            97.63,
+            97.76,
+            96.78,
+            96.67,
+            98.64,
+            97.95,
+            95.2,
+            94.0
           ],
           "stocks": [
             {
@@ -39710,8 +39710,8 @@
               "change": 16.85,
               "beta": 1.63,
               "r2": 0.4,
-              "themeFactor": -10.15,
-              "individualFactor": 27.0
+              "themeFactor": -9.79,
+              "individualFactor": 26.63
             },
             {
               "code": "4544",
@@ -39720,8 +39720,8 @@
               "change": 15.73,
               "beta": 0.62,
               "r2": 0.22,
-              "themeFactor": -3.87,
-              "individualFactor": 19.6
+              "themeFactor": -3.73,
+              "individualFactor": 19.46
             },
             {
               "code": "9795",
@@ -39730,18 +39730,18 @@
               "change": 3.32,
               "beta": 0.19,
               "r2": 0.07,
-              "themeFactor": -1.16,
-              "individualFactor": 4.48
+              "themeFactor": -1.11,
+              "individualFactor": 4.43
             },
             {
               "code": "2413",
               "name": "エムスリー",
               "price": 1496,
-              "change": -16.07,
+              "change": -14.92,
               "beta": 1.26,
-              "r2": 0.33,
-              "themeFactor": -7.86,
-              "individualFactor": -8.21
+              "r2": 0.32,
+              "themeFactor": -7.55,
+              "individualFactor": -7.37
             },
             {
               "code": "7776",
@@ -39750,8 +39750,8 @@
               "change": -51.0,
               "beta": 1.53,
               "r2": 0.31,
-              "themeFactor": -9.55,
-              "individualFactor": -41.45
+              "themeFactor": -9.2,
+              "individualFactor": -41.8
             }
           ]
         }
@@ -49148,7 +49148,7 @@
             122.03,
             122.31,
             122.49,
-            123.63,
+            123.62,
             123.22,
             124.06,
             123.79,
