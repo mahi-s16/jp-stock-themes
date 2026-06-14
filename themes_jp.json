@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-06-13T10:12:28.205933",
+    "generated_at": "2026-06-14T10:37:37.752477",
     "periods": [
       "1D",
       "5D",
@@ -1296,7 +1296,7 @@
             294.08,
             282.39,
             267.29,
-            277.39,
+            277.38,
             278.97,
             256.55,
             272.39,
@@ -11251,7 +11251,7 @@
               "beta": 1.02,
               "r2": 0.58,
               "themeFactor": 42.78,
-              "individualFactor": 6.19
+              "individualFactor": 6.18
             },
             {
               "code": "9107",
@@ -16674,7 +16674,7 @@
               "change": 106.69,
               "beta": 1.35,
               "r2": 0.55,
-              "themeFactor": 67.54,
+              "themeFactor": 67.53,
               "individualFactor": 39.16
             },
             {
