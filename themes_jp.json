@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-07-31T10:05:37.948610",
+    "generated_at": "2026-08-01T09:31:30.637382",
     "periods": [
       "1D",
       "5D",
@@ -10213,7 +10213,7 @@
             110.43,
             111.28,
             110.24,
-            109.9,
+            109.89,
             111.48,
             113.71,
             114.93,
@@ -13066,7 +13066,7 @@
           ]
         },
         "2M": {
-          "change": -4.12,
+          "change": -4.09,
           "history": [
             100.0,
             96.6,
@@ -13089,30 +13089,30 @@
             95.08,
             95.15,
             95.12,
-            97.38,
-            96.6,
-            95.24,
-            97.63,
-            98.94,
-            100.67,
-            99.86,
-            98.57,
-            97.98,
-            97.74,
-            96.25,
-            97.0,
-            96.03,
-            96.54,
-            97.58,
-            98.39,
-            97.92,
-            97.53,
-            98.93,
-            99.39,
-            98.72,
-            100.81,
-            99.95,
-            95.88
+            97.41,
+            96.62,
+            95.27,
+            97.66,
+            98.97,
+            100.7,
+            99.88,
+            98.59,
+            98.01,
+            97.76,
+            96.28,
+            97.03,
+            96.06,
+            96.56,
+            97.61,
+            98.41,
+            97.94,
+            97.55,
+            98.96,
+            99.41,
+            98.75,
+            100.84,
+            99.97,
+            95.91
           ],
           "stocks": [
             {
@@ -13122,8 +13122,8 @@
               "change": 21.18,
               "beta": 1.19,
               "r2": 0.65,
-              "themeFactor": -4.92,
-              "individualFactor": 26.1
+              "themeFactor": -4.88,
+              "individualFactor": 26.07
             },
             {
               "code": "4502",
@@ -13132,8 +13132,8 @@
               "change": 7.72,
               "beta": 1.04,
               "r2": 0.67,
-              "themeFactor": -4.28,
-              "individualFactor": 11.99
+              "themeFactor": -4.24,
+              "individualFactor": 11.96
             },
             {
               "code": "4528",
@@ -13142,8 +13142,8 @@
               "change": -0.36,
               "beta": 0.91,
               "r2": 0.5,
-              "themeFactor": -3.73,
-              "individualFactor": 3.38
+              "themeFactor": -3.71,
+              "individualFactor": 3.35
             },
             {
               "code": "4507",
@@ -13152,8 +13152,8 @@
               "change": -3.05,
               "beta": 1.05,
               "r2": 0.62,
-              "themeFactor": -4.31,
-              "individualFactor": 1.26
+              "themeFactor": -4.28,
+              "individualFactor": 1.23
             },
             {
               "code": "4503",
@@ -13162,18 +13162,18 @@
               "change": -3.55,
               "beta": 0.88,
               "r2": 0.64,
-              "themeFactor": -3.61,
-              "individualFactor": 0.07
+              "themeFactor": -3.59,
+              "individualFactor": 0.04
             },
             {
               "code": "4578",
               "name": "大塚HD",
               "price": 11100,
-              "change": -4.64,
-              "beta": 1.01,
-              "r2": 0.45,
-              "themeFactor": -4.16,
-              "individualFactor": -0.47
+              "change": -4.37,
+              "beta": 1.02,
+              "r2": 0.46,
+              "themeFactor": -4.17,
+              "individualFactor": -0.21
             },
             {
               "code": "4568",
@@ -13182,8 +13182,8 @@
               "change": -4.93,
               "beta": 1.47,
               "r2": 0.54,
-              "themeFactor": -6.05,
-              "individualFactor": 1.12
+              "themeFactor": -6.0,
+              "individualFactor": 1.08
             },
             {
               "code": "4519",
@@ -13192,8 +13192,8 @@
               "change": -11.38,
               "beta": 0.68,
               "r2": 0.21,
-              "themeFactor": -2.81,
-              "individualFactor": -8.57
+              "themeFactor": -2.79,
+              "individualFactor": -8.59
             },
             {
               "code": "4516",
@@ -13202,8 +13202,8 @@
               "change": -19.07,
               "beta": 0.65,
               "r2": 0.17,
-              "themeFactor": -2.69,
-              "individualFactor": -16.38
+              "themeFactor": -2.67,
+              "individualFactor": -16.4
             },
             {
               "code": "4506",
@@ -13212,13 +13212,13 @@
               "change": -23.11,
               "beta": 1.26,
               "r2": 0.36,
-              "themeFactor": -5.18,
-              "individualFactor": -17.92
+              "themeFactor": -5.15,
+              "individualFactor": -17.96
             }
           ]
         },
         "3M": {
-          "change": -9.56,
+          "change": -9.53,
           "history": [
             100.0,
             96.71,
@@ -13262,41 +13262,41 @@
             89.48,
             89.5,
             89.51,
-            91.56,
-            90.86,
-            89.59,
-            91.94,
-            93.05,
-            94.78,
-            94.01,
-            92.86,
-            92.3,
-            92.11,
-            90.74,
-            91.42,
-            90.55,
-            91.04,
-            92.08,
-            92.81,
+            91.59,
+            90.88,
+            89.62,
+            91.97,
+            93.08,
+            94.81,
+            94.04,
+            92.89,
             92.33,
-            91.95,
-            93.3,
-            93.76,
-            93.26,
-            95.22,
-            94.38,
-            90.44
+            92.14,
+            90.77,
+            91.45,
+            90.57,
+            91.07,
+            92.11,
+            92.84,
+            92.36,
+            91.98,
+            93.33,
+            93.79,
+            93.29,
+            95.25,
+            94.4,
+            90.47
           ],
           "stocks": [
             {
               "code": "4578",
               "name": "大塚HD",
               "price": 11100,
-              "change": 3.35,
-              "beta": 1.02,
+              "change": 3.63,
+              "beta": 1.03,
               "r2": 0.44,
-              "themeFactor": -9.79,
-              "individualFactor": 13.14
+              "themeFactor": -9.81,
+              "individualFactor": 13.44
             },
             {
               "code": "4502",
@@ -13305,8 +13305,8 @@
               "change": 3.34,
               "beta": 0.87,
               "r2": 0.58,
-              "themeFactor": -8.35,
-              "individualFactor": 11.68
+              "themeFactor": -8.31,
+              "individualFactor": 11.65
             },
             {
               "code": "4568",
@@ -13315,8 +13315,8 @@
               "change": 2.74,
               "beta": 0.99,
               "r2": 0.28,
-              "themeFactor": -9.51,
-              "individualFactor": 12.25
+              "themeFactor": -9.47,
+              "individualFactor": 12.21
             },
             {
               "code": "4523",
@@ -13325,8 +13325,8 @@
               "change": 1.96,
               "beta": 1.21,
               "r2": 0.55,
-              "themeFactor": -11.53,
-              "individualFactor": 13.49
+              "themeFactor": -11.49,
+              "individualFactor": 13.45
             },
             {
               "code": "4528",
@@ -13335,18 +13335,18 @@
               "change": 1.45,
               "beta": 0.71,
               "r2": 0.28,
-              "themeFactor": -6.79,
-              "individualFactor": 8.24
+              "themeFactor": -6.77,
+              "individualFactor": 8.21
             },
             {
               "code": "4507",
               "name": "塩野義製薬",
               "price": 2908,
               "change": -6.48,
-              "beta": 0.86,
+              "beta": 0.85,
               "r2": 0.38,
-              "themeFactor": -8.17,
-              "individualFactor": 1.7
+              "themeFactor": -8.14,
+              "individualFactor": 1.66
             },
             {
               "code": "4503",
@@ -13355,8 +13355,8 @@
               "change": -10.78,
               "beta": 0.95,
               "r2": 0.44,
-              "themeFactor": -9.09,
-              "individualFactor": -1.69
+              "themeFactor": -9.05,
+              "individualFactor": -1.73
             },
             {
               "code": "4519",
@@ -13365,8 +13365,8 @@
               "change": -20.93,
               "beta": 1.19,
               "r2": 0.28,
-              "themeFactor": -11.34,
-              "individualFactor": -9.58
+              "themeFactor": -11.3,
+              "individualFactor": -9.62
             },
             {
               "code": "4516",
@@ -13375,8 +13375,8 @@
               "change": -30.77,
               "beta": 0.82,
               "r2": 0.18,
-              "themeFactor": -7.81,
-              "individualFactor": -22.96
+              "themeFactor": -7.78,
+              "individualFactor": -22.99
             },
             {
               "code": "4506",
@@ -13385,13 +13385,13 @@
               "change": -39.45,
               "beta": 1.54,
               "r2": 0.36,
-              "themeFactor": -14.71,
-              "individualFactor": -24.74
+              "themeFactor": -14.66,
+              "individualFactor": -24.79
             }
           ]
         },
         "6M": {
-          "change": -6.79,
+          "change": -6.75,
           "history": [
             100.0,
             101.72,
@@ -13498,41 +13498,41 @@
             91.84,
             91.78,
             91.86,
-            93.9,
-            93.19,
-            91.89,
-            94.39,
-            95.47,
-            97.24,
-            96.47,
-            95.26,
-            94.65,
-            94.49,
-            93.1,
-            93.83,
-            92.92,
-            93.4,
-            94.48,
-            95.23,
-            94.78,
-            94.37,
-            95.77,
-            96.26,
-            95.83,
-            97.97,
-            97.04,
-            93.21
+            93.94,
+            93.23,
+            91.92,
+            94.42,
+            95.5,
+            97.28,
+            96.5,
+            95.29,
+            94.68,
+            94.52,
+            93.13,
+            93.87,
+            92.95,
+            93.44,
+            94.51,
+            95.27,
+            94.81,
+            94.4,
+            95.81,
+            96.3,
+            95.87,
+            98.0,
+            97.08,
+            93.25
           ],
           "stocks": [
             {
               "code": "4578",
               "name": "大塚HD",
               "price": 11100,
-              "change": 22.4,
+              "change": 22.74,
               "beta": 0.98,
               "r2": 0.47,
-              "themeFactor": -6.64,
-              "individualFactor": 29.04
+              "themeFactor": -6.62,
+              "individualFactor": 29.36
             },
             {
               "code": "4502",
@@ -13541,8 +13541,8 @@
               "change": 11.58,
               "beta": 0.72,
               "r2": 0.52,
-              "themeFactor": -4.91,
-              "individualFactor": 16.48
+              "themeFactor": -4.88,
+              "individualFactor": 16.46
             },
             {
               "code": "4523",
@@ -13551,8 +13551,8 @@
               "change": 9.07,
               "beta": 1.07,
               "r2": 0.59,
-              "themeFactor": -7.25,
-              "individualFactor": 16.33
+              "themeFactor": -7.22,
+              "individualFactor": 16.29
             },
             {
               "code": "4528",
@@ -13561,8 +13561,8 @@
               "change": 6.98,
               "beta": 0.72,
               "r2": 0.38,
-              "themeFactor": -4.88,
-              "individualFactor": 11.86
+              "themeFactor": -4.85,
+              "individualFactor": 11.83
             },
             {
               "code": "4503",
@@ -13571,8 +13571,8 @@
               "change": -0.43,
               "beta": 1.07,
               "r2": 0.57,
-              "themeFactor": -7.25,
-              "individualFactor": 6.82
+              "themeFactor": -7.21,
+              "individualFactor": 6.78
             },
             {
               "code": "4507",
@@ -13581,8 +13581,8 @@
               "change": -2.8,
               "beta": 0.87,
               "r2": 0.48,
-              "themeFactor": -5.92,
-              "individualFactor": 3.12
+              "themeFactor": -5.89,
+              "individualFactor": 3.09
             },
             {
               "code": "4519",
@@ -13591,8 +13591,8 @@
               "change": -16.74,
               "beta": 1.13,
               "r2": 0.35,
-              "themeFactor": -7.66,
-              "individualFactor": -9.08
+              "themeFactor": -7.62,
+              "individualFactor": -9.12
             },
             {
               "code": "4568",
@@ -13601,8 +13601,8 @@
               "change": -17.1,
               "beta": 0.83,
               "r2": 0.25,
-              "themeFactor": -5.61,
-              "individualFactor": -11.5
+              "themeFactor": -5.58,
+              "individualFactor": -11.52
             },
             {
               "code": "4516",
@@ -13611,8 +13611,8 @@
               "change": -37.17,
               "beta": 0.83,
               "r2": 0.27,
-              "themeFactor": -5.62,
-              "individualFactor": -31.55
+              "themeFactor": -5.59,
+              "individualFactor": -31.58
             },
             {
               "code": "4506",
@@ -13621,13 +13621,13 @@
               "change": -43.67,
               "beta": 1.92,
               "r2": 0.38,
-              "themeFactor": -13.05,
-              "individualFactor": -30.62
+              "themeFactor": -12.98,
+              "individualFactor": -30.69
             }
           ]
         },
         "12M": {
-          "change": 18.48,
+          "change": 18.52,
           "history": [
             100.0,
             99.17,
@@ -13849,41 +13849,41 @@
             118.03,
             117.97,
             118.03,
-            120.64,
-            119.64,
-            117.94,
-            121.09,
-            122.54,
-            124.67,
-            123.65,
-            121.98,
-            121.17,
-            120.88,
-            119.05,
-            119.98,
-            118.82,
-            119.23,
-            120.44,
-            121.4,
-            120.84,
-            120.32,
+            120.68,
+            119.68,
+            117.98,
+            121.13,
+            122.58,
+            124.71,
+            123.69,
             122.03,
-            122.7,
-            121.63,
-            124.16,
-            123.01,
-            118.48
+            121.22,
+            120.93,
+            119.09,
+            120.03,
+            118.87,
+            119.27,
+            120.48,
+            121.44,
+            120.88,
+            120.36,
+            122.07,
+            122.75,
+            121.67,
+            124.2,
+            123.05,
+            118.52
           ],
           "stocks": [
             {
               "code": "4578",
               "name": "大塚HD",
               "price": 11100,
-              "change": 54.15,
+              "change": 54.58,
               "beta": 0.9,
               "r2": 0.44,
-              "themeFactor": 16.57,
-              "individualFactor": 37.57
+              "themeFactor": 16.63,
+              "individualFactor": 37.95
             },
             {
               "code": "4528",
@@ -13892,8 +13892,8 @@
               "change": 46.68,
               "beta": 0.71,
               "r2": 0.37,
-              "themeFactor": 13.1,
-              "individualFactor": 33.58
+              "themeFactor": 13.13,
+              "individualFactor": 33.55
             },
             {
               "code": "4503",
@@ -13902,8 +13902,8 @@
               "change": 45.06,
               "beta": 0.94,
               "r2": 0.55,
-              "themeFactor": 17.33,
-              "individualFactor": 27.73
+              "themeFactor": 17.37,
+              "individualFactor": 27.69
             },
             {
               "code": "4502",
@@ -13912,8 +13912,8 @@
               "change": 36.63,
               "beta": 0.61,
               "r2": 0.41,
-              "themeFactor": 11.27,
-              "individualFactor": 25.36
+              "themeFactor": 11.3,
+              "individualFactor": 25.33
             },
             {
               "code": "4507",
@@ -13922,8 +13922,8 @@
               "change": 16.95,
               "beta": 0.73,
               "r2": 0.36,
-              "themeFactor": 13.53,
-              "individualFactor": 3.42
+              "themeFactor": 13.55,
+              "individualFactor": 3.39
             },
             {
               "code": "4523",
@@ -13932,8 +13932,8 @@
               "change": 16.67,
               "beta": 0.89,
               "r2": 0.45,
-              "themeFactor": 16.45,
-              "individualFactor": 0.22
+              "themeFactor": 16.49,
+              "individualFactor": 0.18
             },
             {
               "code": "4516",
@@ -13942,8 +13942,8 @@
               "change": 6.94,
               "beta": 0.94,
               "r2": 0.24,
-              "themeFactor": 17.43,
-              "individualFactor": -10.5
+              "themeFactor": 17.47,
+              "individualFactor": -10.53
             },
             {
               "code": "4519",
@@ -13952,8 +13952,8 @@
               "change": -3.28,
               "beta": 1.02,
               "r2": 0.27,
-              "themeFactor": 18.92,
-              "individualFactor": -22.2
+              "themeFactor": 18.96,
+              "individualFactor": -22.24
             },
             {
               "code": "4506",
@@ -13962,8 +13962,8 @@
               "change": -5.74,
               "beta": 2.12,
               "r2": 0.45,
-              "themeFactor": 39.2,
-              "individualFactor": -44.94
+              "themeFactor": 39.28,
+              "individualFactor": -45.02
             },
             {
               "code": "4568",
@@ -13972,8 +13972,8 @@
               "change": -29.23,
               "beta": 0.8,
               "r2": 0.22,
-              "themeFactor": 14.79,
-              "individualFactor": -44.02
+              "themeFactor": 14.83,
+              "individualFactor": -44.05
             }
           ]
         }
