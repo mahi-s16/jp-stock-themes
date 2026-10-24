@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-10-23T12:45:20.658891",
+    "generated_at": "2026-10-24T12:09:19.082236",
     "periods": [
       "1D",
       "5D",
@@ -11590,7 +11590,7 @@
           ]
         },
         "1M": {
-          "change": -3.99,
+          "change": -3.86,
           "history": [
             100.0,
             99.75,
@@ -11598,24 +11598,24 @@
             101.88,
             103.37,
             103.03,
-            103.13,
-            105.14,
-            106.19,
-            105.68,
-            107.84,
-            108.12,
-            108.2,
-            104.1,
-            104.82,
-            106.64,
-            106.72,
-            100.44,
-            101.85,
-            101.73,
-            99.36,
-            99.78,
-            96.6,
-            96.01
+            103.27,
+            105.28,
+            106.33,
+            105.83,
+            107.98,
+            108.27,
+            108.35,
+            104.25,
+            104.96,
+            106.78,
+            106.87,
+            100.58,
+            101.99,
+            101.87,
+            99.49,
+            99.91,
+            96.74,
+            96.14
           ],
           "stocks": [
             {
@@ -11623,10 +11623,10 @@
               "name": "ダイキン工業",
               "price": 21185,
               "change": 4.19,
-              "beta": 0.23,
+              "beta": 0.22,
               "r2": 0.26,
-              "themeFactor": -0.9,
-              "individualFactor": 5.09
+              "themeFactor": -0.87,
+              "individualFactor": 5.05
             },
             {
               "code": "6103",
@@ -11635,8 +11635,18 @@
               "change": 2.19,
               "beta": 1.23,
               "r2": 0.86,
-              "themeFactor": -4.9,
-              "individualFactor": 7.09
+              "themeFactor": -4.74,
+              "individualFactor": 6.93
+            },
+            {
+              "code": "6954",
+              "name": "ファナック",
+              "price": 5587,
+              "change": -3.12,
+              "beta": 0.95,
+              "r2": 0.79,
+              "themeFactor": -3.67,
+              "individualFactor": 0.55
             },
             {
               "code": "6301",
@@ -11645,8 +11655,8 @@
               "change": -3.55,
               "beta": 1.15,
               "r2": 0.67,
-              "themeFactor": -4.6,
-              "individualFactor": 1.05
+              "themeFactor": -4.45,
+              "individualFactor": 0.9
             },
             {
               "code": "6383",
@@ -11655,18 +11665,8 @@
               "change": -4.24,
               "beta": 1.08,
               "r2": 0.8,
-              "themeFactor": -4.3,
-              "individualFactor": 0.06
-            },
-            {
-              "code": "6954",
-              "name": "ファナック",
-              "price": 5587,
-              "change": -4.3,
-              "beta": 0.95,
-              "r2": 0.78,
-              "themeFactor": -3.78,
-              "individualFactor": -0.52
+              "themeFactor": -4.15,
+              "individualFactor": -0.08
             },
             {
               "code": "6302",
@@ -11675,8 +11675,8 @@
               "change": -5.92,
               "beta": 1.16,
               "r2": 0.75,
-              "themeFactor": -4.63,
-              "individualFactor": -1.3
+              "themeFactor": -4.46,
+              "individualFactor": -1.46
             },
             {
               "code": "6326",
@@ -11685,8 +11685,8 @@
               "change": -7.58,
               "beta": 0.89,
               "r2": 0.62,
-              "themeFactor": -3.55,
-              "individualFactor": -4.03
+              "themeFactor": -3.42,
+              "individualFactor": -4.16
             },
             {
               "code": "6506",
@@ -11695,8 +11695,8 @@
               "change": -7.75,
               "beta": 1.32,
               "r2": 0.78,
-              "themeFactor": -5.28,
-              "individualFactor": -2.48
+              "themeFactor": -5.11,
+              "individualFactor": -2.64
             },
             {
               "code": "6481",
@@ -11705,13 +11705,13 @@
               "change": -8.94,
               "beta": 1.39,
               "r2": 0.77,
-              "themeFactor": -5.55,
-              "individualFactor": -3.39
+              "themeFactor": -5.37,
+              "individualFactor": -3.57
             }
           ]
         },
         "2M": {
-          "change": -11.23,
+          "change": -11.11,
           "history": [
             100.0,
             94.85,
@@ -11740,24 +11740,24 @@
             94.12,
             95.51,
             95.15,
-            95.18,
-            97.03,
-            97.94,
-            97.45,
-            99.41,
-            99.66,
-            99.78,
-            95.98,
-            96.58,
-            98.28,
-            98.39,
-            92.69,
-            94.01,
-            93.93,
-            91.77,
-            92.14,
-            89.31,
-            88.77
+            95.31,
+            97.16,
+            98.07,
+            97.59,
+            99.54,
+            99.8,
+            99.92,
+            96.12,
+            96.71,
+            98.42,
+            98.52,
+            92.82,
+            94.14,
+            94.06,
+            91.9,
+            92.27,
+            89.43,
+            88.89
           ],
           "stocks": [
             {
@@ -11767,8 +11767,8 @@
               "change": 1.2,
               "beta": 0.28,
               "r2": 0.33,
-              "themeFactor": -3.13,
-              "individualFactor": 4.33
+              "themeFactor": -3.09,
+              "individualFactor": 4.29
             },
             {
               "code": "6326",
@@ -11777,8 +11777,8 @@
               "change": -1.28,
               "beta": 1.0,
               "r2": 0.59,
-              "themeFactor": -11.2,
-              "individualFactor": 9.91
+              "themeFactor": -11.05,
+              "individualFactor": 9.77
             },
             {
               "code": "6301",
@@ -11787,8 +11787,8 @@
               "change": -5.21,
               "beta": 1.01,
               "r2": 0.62,
-              "themeFactor": -11.35,
-              "individualFactor": 6.14
+              "themeFactor": -11.22,
+              "individualFactor": 6.01
             },
             {
               "code": "6302",
@@ -11797,18 +11797,18 @@
               "change": -9.26,
               "beta": 1.41,
               "r2": 0.82,
-              "themeFactor": -15.83,
-              "individualFactor": 6.57
+              "themeFactor": -15.63,
+              "individualFactor": 6.38
             },
             {
               "code": "6954",
               "name": "ファナック",
               "price": 5587,
-              "change": -11.11,
-              "beta": 0.88,
+              "change": -10.01,
+              "beta": 0.89,
               "r2": 0.76,
-              "themeFactor": -9.91,
-              "individualFactor": -1.2
+              "themeFactor": -9.83,
+              "individualFactor": -0.18
             },
             {
               "code": "6103",
@@ -11817,8 +11817,8 @@
               "change": -14.77,
               "beta": 1.25,
               "r2": 0.83,
-              "themeFactor": -14.07,
-              "individualFactor": -0.7
+              "themeFactor": -13.93,
+              "individualFactor": -0.85
             },
             {
               "code": "6383",
@@ -11827,18 +11827,18 @@
               "change": -15.66,
               "beta": 1.02,
               "r2": 0.81,
-              "themeFactor": -11.43,
-              "individualFactor": -4.23
+              "themeFactor": -11.3,
+              "individualFactor": -4.36
             },
             {
               "code": "6506",
               "name": "安川電機",
               "price": 4022,
               "change": -21.64,
-              "beta": 1.15,
+              "beta": 1.16,
               "r2": 0.78,
-              "themeFactor": -12.96,
-              "individualFactor": -8.69
+              "themeFactor": -12.83,
+              "individualFactor": -8.81
             },
             {
               "code": "6481",
@@ -11847,13 +11847,13 @@
               "change": -23.32,
               "beta": 1.31,
               "r2": 0.79,
-              "themeFactor": -14.67,
-              "individualFactor": -8.65
+              "themeFactor": -14.52,
+              "individualFactor": -8.8
             }
           ]
         },
         "3M": {
-          "change": -12.05,
+          "change": -11.94,
           "history": [
             100.0,
             95.85,
@@ -11903,24 +11903,24 @@
             93.39,
             94.87,
             94.52,
-            94.56,
-            96.41,
-            97.28,
-            96.84,
-            98.86,
-            99.06,
-            99.17,
-            95.26,
-            95.81,
-            97.55,
-            97.64,
-            91.93,
-            93.26,
-            93.19,
-            90.98,
-            91.37,
-            88.51,
-            87.95
+            94.67,
+            96.53,
+            97.4,
+            96.96,
+            98.98,
+            99.19,
+            99.29,
+            95.38,
+            95.93,
+            97.67,
+            97.76,
+            92.05,
+            93.37,
+            93.31,
+            91.1,
+            91.48,
+            88.62,
+            88.06
           ],
           "stocks": [
             {
@@ -11930,8 +11930,8 @@
               "change": 5.51,
               "beta": 0.9,
               "r2": 0.51,
-              "themeFactor": -10.78,
-              "individualFactor": 16.29
+              "themeFactor": -10.68,
+              "individualFactor": 16.19
             },
             {
               "code": "6302",
@@ -11940,8 +11940,8 @@
               "change": 2.32,
               "beta": 1.22,
               "r2": 0.73,
-              "themeFactor": -14.72,
-              "individualFactor": 17.04
+              "themeFactor": -14.57,
+              "individualFactor": 16.9
             },
             {
               "code": "6326",
@@ -11950,8 +11950,8 @@
               "change": -4.87,
               "beta": 0.77,
               "r2": 0.42,
-              "themeFactor": -9.31,
-              "individualFactor": 4.43
+              "themeFactor": -9.21,
+              "individualFactor": 4.34
             },
             {
               "code": "6103",
@@ -11960,8 +11960,8 @@
               "change": -8.23,
               "beta": 1.12,
               "r2": 0.77,
-              "themeFactor": -13.43,
-              "individualFactor": 5.2
+              "themeFactor": -13.31,
+              "individualFactor": 5.08
             },
             {
               "code": "6367",
@@ -11970,18 +11970,18 @@
               "change": -14.08,
               "beta": 0.18,
               "r2": 0.08,
-              "themeFactor": -2.13,
-              "individualFactor": -11.95
+              "themeFactor": -2.11,
+              "individualFactor": -11.97
             },
             {
               "code": "6954",
               "name": "ファナック",
               "price": 5587,
-              "change": -20.41,
+              "change": -19.43,
               "beta": 1.12,
               "r2": 0.55,
-              "themeFactor": -13.48,
-              "individualFactor": -6.93
+              "themeFactor": -13.38,
+              "individualFactor": -6.05
             },
             {
               "code": "6383",
@@ -11990,8 +11990,8 @@
               "change": -20.9,
               "beta": 1.06,
               "r2": 0.81,
-              "themeFactor": -12.72,
-              "individualFactor": -8.18
+              "themeFactor": -12.61,
+              "individualFactor": -8.3
             },
             {
               "code": "6481",
@@ -12000,8 +12000,8 @@
               "change": -21.49,
               "beta": 1.46,
               "r2": 0.74,
-              "themeFactor": -17.53,
-              "individualFactor": -3.96
+              "themeFactor": -17.38,
+              "individualFactor": -4.11
             },
             {
               "code": "6506",
@@ -12010,13 +12010,13 @@
               "change": -26.25,
               "beta": 1.3,
               "r2": 0.75,
-              "themeFactor": -15.6,
-              "individualFactor": -10.65
+              "themeFactor": -15.47,
+              "individualFactor": -10.78
             }
           ]
         },
         "6M": {
-          "change": -4.94,
+          "change": -4.82,
           "history": [
             100.0,
             99.98,
@@ -12129,24 +12129,24 @@
             100.83,
             102.37,
             102.08,
-            102.16,
-            104.09,
-            105.05,
-            104.53,
-            106.71,
-            106.97,
-            107.05,
-            102.92,
-            103.64,
-            105.49,
-            105.6,
-            99.43,
-            100.83,
-            100.74,
-            98.35,
-            98.79,
-            95.67,
-            95.06
+            102.29,
+            104.22,
+            105.18,
+            104.67,
+            106.84,
+            107.11,
+            107.19,
+            103.05,
+            103.77,
+            105.63,
+            105.74,
+            99.56,
+            100.96,
+            100.87,
+            98.48,
+            98.92,
+            95.79,
+            95.18
           ],
           "stocks": [
             {
@@ -12156,8 +12156,8 @@
               "change": 7.39,
               "beta": 1.02,
               "r2": 0.65,
-              "themeFactor": -5.05,
-              "individualFactor": 12.44
+              "themeFactor": -4.93,
+              "individualFactor": 12.31
             },
             {
               "code": "6302",
@@ -12166,8 +12166,8 @@
               "change": 4.39,
               "beta": 1.01,
               "r2": 0.62,
-              "themeFactor": -5.0,
-              "individualFactor": 9.39
+              "themeFactor": -4.87,
+              "individualFactor": 9.26
             },
             {
               "code": "6367",
@@ -12176,8 +12176,8 @@
               "change": 4.29,
               "beta": 0.39,
               "r2": 0.17,
-              "themeFactor": -1.91,
-              "individualFactor": 6.2
+              "themeFactor": -1.87,
+              "individualFactor": 6.16
             },
             {
               "code": "6481",
@@ -12186,8 +12186,8 @@
               "change": -1.09,
               "beta": 1.39,
               "r2": 0.77,
-              "themeFactor": -6.86,
-              "individualFactor": 5.76
+              "themeFactor": -6.69,
+              "individualFactor": 5.59
             },
             {
               "code": "6301",
@@ -12196,8 +12196,8 @@
               "change": -3.34,
               "beta": 0.64,
               "r2": 0.34,
-              "themeFactor": -3.19,
-              "individualFactor": -0.15
+              "themeFactor": -3.11,
+              "individualFactor": -0.23
             },
             {
               "code": "6326",
@@ -12206,18 +12206,18 @@
               "change": -3.93,
               "beta": 0.6,
               "r2": 0.32,
-              "themeFactor": -2.96,
-              "individualFactor": -0.97
+              "themeFactor": -2.89,
+              "individualFactor": -1.05
             },
             {
               "code": "6954",
               "name": "ファナック",
               "price": 5587,
-              "change": -10.34,
+              "change": -9.23,
               "beta": 1.28,
               "r2": 0.64,
-              "themeFactor": -6.31,
-              "individualFactor": -4.03
+              "themeFactor": -6.15,
+              "individualFactor": -3.07
             },
             {
               "code": "6383",
@@ -12226,8 +12226,8 @@
               "change": -20.52,
               "beta": 0.97,
               "r2": 0.72,
-              "themeFactor": -4.77,
-              "individualFactor": -15.75
+              "themeFactor": -4.66,
+              "individualFactor": -15.86
             },
             {
               "code": "6506",
@@ -12236,13 +12236,13 @@
               "change": -21.34,
               "beta": 1.58,
               "r2": 0.76,
-              "themeFactor": -7.81,
-              "individualFactor": -13.53
+              "themeFactor": -7.62,
+              "individualFactor": -13.72
             }
           ]
         },
         "12M": {
-          "change": 20.95,
+          "change": 21.11,
           "history": [
             100.0,
             102.24,
@@ -12469,24 +12469,24 @@
             128.49,
             130.5,
             130.08,
-            130.16,
-            132.66,
-            133.83,
-            133.18,
-            135.96,
-            136.3,
-            136.39,
-            131.06,
-            131.99,
-            134.32,
-            134.47,
-            126.58,
-            128.37,
-            128.25,
-            125.17,
-            125.76,
-            121.74,
-            120.95
+            130.33,
+            132.83,
+            134.01,
+            133.35,
+            136.14,
+            136.48,
+            136.57,
+            131.23,
+            132.17,
+            134.5,
+            134.65,
+            126.75,
+            128.54,
+            128.42,
+            125.34,
+            125.92,
+            121.9,
+            121.11
           ],
           "stocks": [
             {
@@ -12496,8 +12496,8 @@
               "change": 35.13,
               "beta": 1.03,
               "r2": 0.65,
-              "themeFactor": 21.53,
-              "individualFactor": 13.6
+              "themeFactor": 21.69,
+              "individualFactor": 13.44
             },
             {
               "code": "6481",
@@ -12506,8 +12506,8 @@
               "change": 35.05,
               "beta": 1.22,
               "r2": 0.71,
-              "themeFactor": 25.61,
-              "individualFactor": 9.44
+              "themeFactor": 25.81,
+              "individualFactor": 9.24
             },
             {
               "code": "6326",
@@ -12516,8 +12516,8 @@
               "change": 29.38,
               "beta": 0.75,
               "r2": 0.41,
-              "themeFactor": 15.78,
-              "individualFactor": 13.6
+              "themeFactor": 15.89,
+              "individualFactor": 13.49
             },
             {
               "code": "6103",
@@ -12526,8 +12526,8 @@
               "change": 27.92,
               "beta": 1.01,
               "r2": 0.67,
-              "themeFactor": 21.11,
-              "individualFactor": 6.81
+              "themeFactor": 21.27,
+              "individualFactor": 6.65
             },
             {
               "code": "6301",
@@ -12536,8 +12536,8 @@
               "change": 24.93,
               "beta": 0.82,
               "r2": 0.48,
-              "themeFactor": 17.17,
-              "individualFactor": 7.75
+              "themeFactor": 17.31,
+              "individualFactor": 7.62
             },
             {
               "code": "6367",
@@ -12546,18 +12546,18 @@
               "change": 19.6,
               "beta": 0.52,
               "r2": 0.28,
-              "themeFactor": 10.81,
-              "individualFactor": 8.79
+              "themeFactor": 10.89,
+              "individualFactor": 8.7
             },
             {
               "code": "6954",
               "name": "ファナック",
               "price": 5587,
-              "change": 16.62,
+              "change": 18.06,
               "beta": 1.23,
               "r2": 0.66,
-              "themeFactor": 25.69,
-              "individualFactor": -9.08
+              "themeFactor": 25.89,
+              "individualFactor": -7.83
             },
             {
               "code": "6383",
@@ -12566,8 +12566,8 @@
               "change": 8.5,
               "beta": 0.91,
               "r2": 0.68,
-              "themeFactor": 19.14,
-              "individualFactor": -10.64
+              "themeFactor": 19.29,
+              "individualFactor": -10.78
             },
             {
               "code": "6506",
@@ -12576,8 +12576,8 @@
               "change": -8.56,
               "beta": 1.42,
               "r2": 0.72,
-              "themeFactor": 29.72,
-              "individualFactor": -38.28
+              "themeFactor": 29.96,
+              "individualFactor": -38.51
             }
           ]
         }
@@ -34490,7 +34490,7 @@
           ]
         },
         "1M": {
-          "change": -7.19,
+          "change": -7.04,
           "history": [
             100.0,
             99.89,
@@ -34498,24 +34498,24 @@
             103.18,
             104.23,
             104.05,
-            104.6,
-            105.78,
-            106.97,
-            106.08,
-            108.29,
-            108.28,
-            107.77,
-            103.13,
-            103.88,
-            104.55,
-            104.07,
-            97.13,
-            99.52,
-            98.97,
-            96.71,
-            97.39,
-            93.41,
-            92.81
+            104.76,
+            105.93,
+            107.13,
+            106.24,
+            108.45,
+            108.45,
+            107.94,
+            103.29,
+            104.04,
+            104.71,
+            104.23,
+            97.29,
+            99.68,
+            99.13,
+            96.86,
+            97.54,
+            93.56,
+            92.96
           ],
           "stocks": [
             {
@@ -34525,8 +34525,18 @@
               "change": 2.19,
               "beta": 1.06,
               "r2": 0.82,
-              "themeFactor": -7.65,
-              "individualFactor": 9.84
+              "themeFactor": -7.48,
+              "individualFactor": 9.68
+            },
+            {
+              "code": "6954",
+              "name": "ファナック",
+              "price": 5587,
+              "change": -3.12,
+              "beta": 0.87,
+              "r2": 0.83,
+              "themeFactor": -6.12,
+              "individualFactor": 3.0
             },
             {
               "code": "6301",
@@ -34535,28 +34545,18 @@
               "change": -3.55,
               "beta": 0.97,
               "r2": 0.6,
-              "themeFactor": -6.97,
-              "individualFactor": 3.41
-            },
-            {
-              "code": "6954",
-              "name": "ファナック",
-              "price": 5587,
-              "change": -4.3,
-              "beta": 0.86,
-              "r2": 0.82,
-              "themeFactor": -6.18,
-              "individualFactor": 1.88
+              "themeFactor": -6.82,
+              "individualFactor": 3.26
             },
             {
               "code": "6506",
               "name": "安川電機",
               "price": 4022,
               "change": -7.75,
-              "beta": 1.19,
+              "beta": 1.2,
               "r2": 0.81,
-              "themeFactor": -8.59,
-              "individualFactor": 0.84
+              "themeFactor": -8.42,
+              "individualFactor": 0.67
             },
             {
               "code": "6273",
@@ -34565,8 +34565,8 @@
               "change": -8.23,
               "beta": 1.06,
               "r2": 0.78,
-              "themeFactor": -7.65,
-              "individualFactor": -0.58
+              "themeFactor": -7.5,
+              "individualFactor": -0.73
             },
             {
               "code": "7012",
@@ -34575,18 +34575,18 @@
               "change": -8.68,
               "beta": 0.8,
               "r2": 0.61,
-              "themeFactor": -5.77,
-              "individualFactor": -2.91
+              "themeFactor": -5.63,
+              "individualFactor": -3.05
             },
             {
               "code": "7779",
               "name": "Stock 7779",
               "price": 204,
               "change": -9.33,
-              "beta": 0.79,
+              "beta": 0.78,
               "r2": 0.56,
-              "themeFactor": -5.65,
-              "individualFactor": -3.68
+              "themeFactor": -5.53,
+              "individualFactor": -3.81
             },
             {
               "code": "6324",
@@ -34595,13 +34595,13 @@
               "change": -17.88,
               "beta": 1.64,
               "r2": 0.76,
-              "themeFactor": -11.8,
-              "individualFactor": -6.08
+              "themeFactor": -11.55,
+              "individualFactor": -6.33
             }
           ]
         },
         "2M": {
-          "change": -15.85,
+          "change": -15.71,
           "history": [
             100.0,
             95.01,
@@ -34630,24 +34630,24 @@
             93.81,
             94.78,
             94.6,
-            95.11,
-            96.16,
-            97.25,
-            96.4,
-            98.42,
-            98.39,
-            97.94,
-            93.67,
-            94.33,
-            94.88,
-            94.42,
-            88.12,
-            90.27,
-            89.76,
-            87.73,
-            88.36,
-            84.69,
-            84.15
+            95.25,
+            96.31,
+            97.4,
+            96.55,
+            98.57,
+            98.55,
+            98.09,
+            93.81,
+            94.48,
+            95.03,
+            94.58,
+            88.26,
+            90.41,
+            89.91,
+            87.87,
+            88.5,
+            84.83,
+            84.29
           ],
           "stocks": [
             {
@@ -34657,18 +34657,18 @@
               "change": -5.21,
               "beta": 0.88,
               "r2": 0.55,
-              "themeFactor": -13.97,
-              "individualFactor": 8.76
+              "themeFactor": -13.84,
+              "individualFactor": 8.63
             },
             {
               "code": "6954",
               "name": "ファナック",
               "price": 5587,
-              "change": -11.11,
-              "beta": 0.86,
-              "r2": 0.84,
-              "themeFactor": -13.65,
-              "individualFactor": 2.54
+              "change": -10.01,
+              "beta": 0.87,
+              "r2": 0.85,
+              "themeFactor": -13.62,
+              "individualFactor": 3.61
             },
             {
               "code": "6103",
@@ -34677,8 +34677,8 @@
               "change": -14.77,
               "beta": 1.14,
               "r2": 0.79,
-              "themeFactor": -18.02,
-              "individualFactor": 3.24
+              "themeFactor": -17.85,
+              "individualFactor": 3.08
             },
             {
               "code": "7779",
@@ -34687,8 +34687,8 @@
               "change": -15.35,
               "beta": 0.75,
               "r2": 0.54,
-              "themeFactor": -11.94,
-              "individualFactor": -3.41
+              "themeFactor": -11.82,
+              "individualFactor": -3.53
             },
             {
               "code": "6273",
@@ -34697,8 +34697,8 @@
               "change": -17.2,
               "beta": 1.03,
               "r2": 0.77,
-              "themeFactor": -16.26,
-              "individualFactor": -0.94
+              "themeFactor": -16.12,
+              "individualFactor": -1.08
             },
             {
               "code": "6324",
@@ -34707,8 +34707,8 @@
               "change": -17.74,
               "beta": 1.53,
               "r2": 0.76,
-              "themeFactor": -24.21,
-              "individualFactor": 6.47
+              "themeFactor": -23.98,
+              "individualFactor": 6.24
             },
             {
               "code": "6506",
@@ -34717,8 +34717,8 @@
               "change": -21.64,
               "beta": 1.11,
               "r2": 0.84,
-              "themeFactor": -17.66,
-              "individualFactor": -3.98
+              "themeFactor": -17.51,
+              "individualFactor": -4.13
             },
             {
               "code": "7012",
@@ -34727,13 +34727,13 @@
               "change": -23.74,
               "beta": 0.88,
               "r2": 0.66,
-              "themeFactor": -13.98,
-              "individualFactor": -9.75
+              "themeFactor": -13.83,
+              "individualFactor": -9.9
             }
           ]
         },
         "3M": {
-          "change": -16.21,
+          "change": -16.08,
           "history": [
             100.0,
             94.4,
@@ -34783,24 +34783,24 @@
             92.97,
             94.09,
             93.86,
+            94.48,
+            95.59,
+            96.55,
+            95.68,
+            97.72,
+            97.71,
+            97.25,
+            93.03,
+            93.66,
             94.35,
-            95.46,
-            96.41,
-            95.55,
-            97.59,
-            97.58,
-            97.12,
-            92.89,
-            93.53,
-            94.21,
-            93.8,
-            87.69,
-            89.82,
-            89.34,
-            87.27,
-            87.88,
-            84.35,
-            83.79
+            93.93,
+            87.82,
+            89.95,
+            89.47,
+            87.4,
+            88.0,
+            84.48,
+            83.92
           ],
           "stocks": [
             {
@@ -34810,8 +34810,8 @@
               "change": 5.51,
               "beta": 0.72,
               "r2": 0.41,
-              "themeFactor": -11.68,
-              "individualFactor": 17.18
+              "themeFactor": -11.58,
+              "individualFactor": 17.09
             },
             {
               "code": "6103",
@@ -34820,8 +34820,8 @@
               "change": -8.23,
               "beta": 0.97,
               "r2": 0.72,
-              "themeFactor": -15.73,
-              "individualFactor": 7.5
+              "themeFactor": -15.61,
+              "individualFactor": 7.38
             },
             {
               "code": "7779",
@@ -34830,8 +34830,8 @@
               "change": -12.82,
               "beta": 0.69,
               "r2": 0.44,
-              "themeFactor": -11.21,
-              "individualFactor": -1.61
+              "themeFactor": -11.12,
+              "individualFactor": -1.7
             },
             {
               "code": "6273",
@@ -34840,8 +34840,18 @@
               "change": -15.2,
               "beta": 1.08,
               "r2": 0.74,
-              "themeFactor": -17.43,
-              "individualFactor": 2.23
+              "themeFactor": -17.3,
+              "individualFactor": 2.1
+            },
+            {
+              "code": "6954",
+              "name": "ファナック",
+              "price": 5587,
+              "change": -19.43,
+              "beta": 1.05,
+              "r2": 0.6,
+              "themeFactor": -16.88,
+              "individualFactor": -2.55
             },
             {
               "code": "7012",
@@ -34850,18 +34860,8 @@
               "change": -20.32,
               "beta": 0.8,
               "r2": 0.6,
-              "themeFactor": -13.04,
-              "individualFactor": -7.29
-            },
-            {
-              "code": "6954",
-              "name": "ファナック",
-              "price": 5587,
-              "change": -20.41,
-              "beta": 1.05,
-              "r2": 0.59,
-              "themeFactor": -16.96,
-              "individualFactor": -3.45
+              "themeFactor": -12.92,
+              "individualFactor": -7.4
             },
             {
               "code": "6506",
@@ -34869,9 +34869,9 @@
               "price": 4022,
               "change": -26.25,
               "beta": 1.22,
-              "r2": 0.81,
-              "themeFactor": -19.74,
-              "individualFactor": -6.51
+              "r2": 0.82,
+              "themeFactor": -19.59,
+              "individualFactor": -6.66
             },
             {
               "code": "6324",
@@ -34880,13 +34880,13 @@
               "change": -31.91,
               "beta": 1.71,
               "r2": 0.68,
-              "themeFactor": -27.78,
-              "individualFactor": -4.13
+              "themeFactor": -27.56,
+              "individualFactor": -4.35
             }
           ]
         },
         "6M": {
-          "change": -10.59,
+          "change": -10.45,
           "history": [
             100.0,
             101.4,
@@ -34999,24 +34999,24 @@
             100.12,
             101.13,
             101.11,
-            101.73,
-            102.82,
-            104.18,
-            103.36,
-            105.56,
-            105.47,
-            105.04,
-            100.29,
+            101.88,
+            102.96,
+            104.33,
+            103.51,
+            105.71,
+            105.63,
+            105.2,
+            100.44,
+            101.21,
+            101.54,
             101.06,
-            101.38,
-            100.9,
-            93.82,
-            96.05,
-            95.49,
-            93.39,
-            94.19,
-            89.96,
-            89.41
+            93.96,
+            96.2,
+            95.64,
+            93.54,
+            94.33,
+            90.1,
+            89.55
           ],
           "stocks": [
             {
@@ -35026,8 +35026,8 @@
               "change": 20.16,
               "beta": 1.79,
               "r2": 0.75,
-              "themeFactor": -18.95,
-              "individualFactor": 39.11
+              "themeFactor": -18.7,
+              "individualFactor": 38.86
             },
             {
               "code": "6103",
@@ -35036,8 +35036,8 @@
               "change": 7.39,
               "beta": 0.76,
               "r2": 0.55,
-              "themeFactor": -8.01,
-              "individualFactor": 15.4
+              "themeFactor": -7.91,
+              "individualFactor": 15.3
             },
             {
               "code": "6301",
@@ -35046,18 +35046,18 @@
               "change": -3.34,
               "beta": 0.44,
               "r2": 0.25,
-              "themeFactor": -4.62,
-              "individualFactor": 1.28
+              "themeFactor": -4.56,
+              "individualFactor": 1.22
             },
             {
               "code": "6954",
               "name": "ファナック",
               "price": 5587,
-              "change": -10.34,
+              "change": -9.23,
               "beta": 1.05,
               "r2": 0.67,
-              "themeFactor": -11.14,
-              "individualFactor": 0.81
+              "themeFactor": -11.0,
+              "individualFactor": 1.78
             },
             {
               "code": "6273",
@@ -35066,8 +35066,8 @@
               "change": -12.66,
               "beta": 0.83,
               "r2": 0.51,
-              "themeFactor": -8.81,
-              "individualFactor": -3.84
+              "themeFactor": -8.7,
+              "individualFactor": -3.96
             },
             {
               "code": "6506",
@@ -35076,8 +35076,8 @@
               "change": -21.34,
               "beta": 1.29,
               "r2": 0.79,
-              "themeFactor": -13.66,
-              "individualFactor": -7.68
+              "themeFactor": -13.48,
+              "individualFactor": -7.86
             },
             {
               "code": "7779",
@@ -35086,8 +35086,8 @@
               "change": -27.92,
               "beta": 0.58,
               "r2": 0.23,
-              "themeFactor": -6.18,
-              "individualFactor": -21.73
+              "themeFactor": -6.1,
+              "individualFactor": -21.82
             },
             {
               "code": "7012",
@@ -35096,13 +35096,13 @@
               "change": -36.69,
               "beta": 0.66,
               "r2": 0.35,
-              "themeFactor": -6.97,
-              "individualFactor": -29.72
+              "themeFactor": -6.87,
+              "individualFactor": -29.81
             }
           ]
         },
         "12M": {
-          "change": 19.15,
+          "change": 19.33,
           "history": [
             100.0,
             101.21,
@@ -35329,24 +35329,24 @@
             133.81,
             135.11,
             135.07,
-            135.85,
-            137.23,
-            138.95,
-            137.79,
-            140.63,
-            140.53,
-            139.9,
-            133.55,
-            134.59,
-            134.92,
-            134.26,
-            124.89,
-            127.96,
-            127.18,
-            124.42,
-            125.51,
-            119.88,
-            119.15
+            136.04,
+            137.42,
+            139.15,
+            137.98,
+            140.83,
+            140.73,
+            140.1,
+            133.74,
+            134.78,
+            135.12,
+            134.46,
+            125.08,
+            128.15,
+            127.37,
+            124.61,
+            125.7,
+            120.06,
+            119.33
           ],
           "stocks": [
             {
@@ -35356,8 +35356,8 @@
               "change": 64.26,
               "beta": 1.56,
               "r2": 0.7,
-              "themeFactor": 29.84,
-              "individualFactor": 34.43
+              "themeFactor": 30.12,
+              "individualFactor": 34.15
             },
             {
               "code": "6103",
@@ -35366,18 +35366,18 @@
               "change": 27.92,
               "beta": 0.77,
               "r2": 0.57,
-              "themeFactor": 14.78,
-              "individualFactor": 13.14
+              "themeFactor": 14.92,
+              "individualFactor": 13.0
             },
             {
               "code": "6301",
               "name": "コマツ",
               "price": 6708,
               "change": 24.93,
-              "beta": 0.61,
+              "beta": 0.6,
               "r2": 0.38,
-              "themeFactor": 11.58,
-              "individualFactor": 13.34
+              "themeFactor": 11.69,
+              "individualFactor": 13.23
             },
             {
               "code": "6273",
@@ -35386,18 +35386,18 @@
               "change": 23.75,
               "beta": 0.86,
               "r2": 0.57,
-              "themeFactor": 16.54,
-              "individualFactor": 7.21
+              "themeFactor": 16.7,
+              "individualFactor": 7.05
             },
             {
               "code": "6954",
               "name": "ファナック",
               "price": 5587,
-              "change": 16.62,
+              "change": 18.06,
               "beta": 1.02,
               "r2": 0.67,
-              "themeFactor": 19.51,
-              "individualFactor": -2.89
+              "themeFactor": 19.7,
+              "individualFactor": -1.64
             },
             {
               "code": "7779",
@@ -35406,8 +35406,8 @@
               "change": 7.94,
               "beta": 0.85,
               "r2": 0.32,
-              "themeFactor": 16.35,
-              "individualFactor": -8.41
+              "themeFactor": 16.5,
+              "individualFactor": -8.56
             },
             {
               "code": "7012",
@@ -35416,8 +35416,8 @@
               "change": -3.68,
               "beta": 0.79,
               "r2": 0.4,
-              "themeFactor": 15.21,
-              "individualFactor": -18.89
+              "themeFactor": 15.35,
+              "individualFactor": -19.03
             },
             {
               "code": "6506",
@@ -35426,8 +35426,8 @@
               "change": -8.56,
               "beta": 1.19,
               "r2": 0.75,
-              "themeFactor": 22.85,
-              "individualFactor": -31.41
+              "themeFactor": 23.07,
+              "individualFactor": -31.62
             }
           ]
         }
