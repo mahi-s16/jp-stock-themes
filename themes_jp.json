@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-10-31T13:46:57.651178",
+    "generated_at": "2026-11-01T14:25:30.317383",
     "periods": [
       "1D",
       "5D",
@@ -385,32 +385,32 @@
           ]
         },
         "1M": {
-          "change": -16.63,
+          "change": -16.84,
           "history": [
             100.0,
-            101.87,
-            103.77,
-            110.42,
-            111.2,
-            114.69,
-            116.34,
-            114.32,
-            111.23,
-            111.4,
-            103.78,
-            102.16,
-            90.25,
-            92.46,
-            90.86,
-            87.8,
-            89.41,
-            83.76,
-            83.21,
-            80.7,
-            84.34,
-            89.32,
-            89.81,
-            83.37
+            101.61,
+            103.5,
+            110.14,
+            110.93,
+            114.4,
+            116.05,
+            114.04,
+            110.95,
+            111.12,
+            103.52,
+            101.91,
+            90.02,
+            92.22,
+            90.62,
+            87.58,
+            89.18,
+            83.55,
+            82.99,
+            80.5,
+            84.13,
+            89.1,
+            89.58,
+            83.16
           ],
           "stocks": [
             {
@@ -419,9 +419,9 @@
               "price": 34860,
               "change": 3.5,
               "beta": 1.12,
-              "r2": 0.82,
-              "themeFactor": -18.63,
-              "individualFactor": 22.13
+              "r2": 0.83,
+              "themeFactor": -18.92,
+              "individualFactor": 22.42
             },
             {
               "code": "6920",
@@ -430,8 +430,8 @@
               "change": -5.75,
               "beta": 1.13,
               "r2": 0.84,
-              "themeFactor": -18.72,
-              "individualFactor": 12.97
+              "themeFactor": -18.98,
+              "individualFactor": 13.23
             },
             {
               "code": "6146",
@@ -440,18 +440,18 @@
               "change": -8.62,
               "beta": 0.82,
               "r2": 0.8,
-              "themeFactor": -13.69,
-              "individualFactor": 5.07
+              "themeFactor": -13.85,
+              "individualFactor": 5.22
             },
             {
               "code": "8035",
               "name": "東京エレクトロン",
               "price": 9514,
-              "change": -12.56,
-              "beta": 0.92,
-              "r2": 0.82,
-              "themeFactor": -15.3,
-              "individualFactor": 2.74
+              "change": -14.91,
+              "beta": 0.9,
+              "r2": 0.84,
+              "themeFactor": -15.19,
+              "individualFactor": 0.28
             },
             {
               "code": "6723",
@@ -460,8 +460,8 @@
               "change": -17.17,
               "beta": 0.84,
               "r2": 0.71,
-              "themeFactor": -13.94,
-              "individualFactor": -3.23
+              "themeFactor": -14.15,
+              "individualFactor": -3.03
             },
             {
               "code": "7735",
@@ -470,8 +470,8 @@
               "change": -18.17,
               "beta": 1.0,
               "r2": 0.87,
-              "themeFactor": -16.58,
-              "individualFactor": -1.59
+              "themeFactor": -16.78,
+              "individualFactor": -1.39
             },
             {
               "code": "3436",
@@ -480,18 +480,18 @@
               "change": -23.13,
               "beta": 1.22,
               "r2": 0.87,
-              "themeFactor": -20.24,
-              "individualFactor": -2.89
+              "themeFactor": -20.53,
+              "individualFactor": -2.59
             },
             {
               "code": "285A",
               "name": "キオクシアHD",
               "price": 13470,
               "change": -24.24,
-              "beta": 1.15,
+              "beta": 1.16,
               "r2": 0.73,
-              "themeFactor": -19.19,
-              "individualFactor": -5.05
+              "themeFactor": -19.47,
+              "individualFactor": -4.77
             },
             {
               "code": "4062",
@@ -500,8 +500,8 @@
               "change": -25.0,
               "beta": 1.37,
               "r2": 0.88,
-              "themeFactor": -22.75,
-              "individualFactor": -2.24
+              "themeFactor": -23.11,
+              "individualFactor": -1.89
             },
             {
               "code": "6890",
@@ -510,8 +510,8 @@
               "change": -25.57,
               "beta": 1.1,
               "r2": 0.89,
-              "themeFactor": -18.25,
-              "individualFactor": -7.32
+              "themeFactor": -18.5,
+              "individualFactor": -7.07
             },
             {
               "code": "6963",
@@ -520,13 +520,13 @@
               "change": -26.17,
               "beta": 0.88,
               "r2": 0.88,
-              "themeFactor": -14.68,
-              "individualFactor": -11.49
+              "themeFactor": -14.89,
+              "individualFactor": -11.28
             }
           ]
         },
         "2M": {
-          "change": -14.5,
+          "change": -14.72,
           "history": [
             100.0,
             99.7,
@@ -550,29 +550,29 @@
             101.91,
             104.38,
             102.74,
-            104.63,
-            106.46,
-            113.36,
-            114.15,
-            117.67,
-            119.29,
-            117.33,
-            114.15,
-            114.4,
-            106.55,
-            104.85,
-            92.6,
-            94.94,
-            93.24,
-            90.09,
-            91.72,
-            85.9,
-            85.39,
-            82.83,
-            86.58,
-            91.73,
-            92.2,
-            85.5
+            104.37,
+            106.19,
+            113.07,
+            113.87,
+            117.37,
+            119.0,
+            117.04,
+            113.88,
+            114.12,
+            106.29,
+            104.6,
+            92.36,
+            94.7,
+            93.01,
+            89.86,
+            91.48,
+            85.68,
+            85.18,
+            82.62,
+            86.37,
+            91.5,
+            91.97,
+            85.28
           ],
           "stocks": [
             {
@@ -582,8 +582,8 @@
               "change": 7.87,
               "beta": 1.06,
               "r2": 0.79,
-              "themeFactor": -15.38,
-              "individualFactor": 23.25
+              "themeFactor": -15.62,
+              "individualFactor": 23.49
             },
             {
               "code": "6857",
@@ -592,18 +592,8 @@
               "change": 1.34,
               "beta": 1.01,
               "r2": 0.72,
-              "themeFactor": -14.67,
-              "individualFactor": 16.0
-            },
-            {
-              "code": "8035",
-              "name": "東京エレクトロン",
-              "price": 9514,
-              "change": -11.12,
-              "beta": 0.85,
-              "r2": 0.8,
-              "themeFactor": -12.39,
-              "individualFactor": 1.27
+              "themeFactor": -14.9,
+              "individualFactor": 16.24
             },
             {
               "code": "6890",
@@ -612,8 +602,18 @@
               "change": -13.28,
               "beta": 1.16,
               "r2": 0.79,
-              "themeFactor": -16.8,
-              "individualFactor": 3.52
+              "themeFactor": -17.06,
+              "individualFactor": 3.78
+            },
+            {
+              "code": "8035",
+              "name": "東京エレクトロン",
+              "price": 9514,
+              "change": -13.51,
+              "beta": 0.84,
+              "r2": 0.82,
+              "themeFactor": -12.41,
+              "individualFactor": -1.1
             },
             {
               "code": "7735",
@@ -622,8 +622,8 @@
               "change": -14.14,
               "beta": 0.94,
               "r2": 0.83,
-              "themeFactor": -13.57,
-              "individualFactor": -0.57
+              "themeFactor": -13.76,
+              "individualFactor": -0.37
             },
             {
               "code": "6723",
@@ -632,8 +632,8 @@
               "change": -15.78,
               "beta": 0.82,
               "r2": 0.72,
-              "themeFactor": -11.86,
-              "individualFactor": -3.93
+              "themeFactor": -12.05,
+              "individualFactor": -3.73
             },
             {
               "code": "4062",
@@ -642,8 +642,8 @@
               "change": -16.25,
               "beta": 1.4,
               "r2": 0.83,
-              "themeFactor": -20.26,
-              "individualFactor": 4.01
+              "themeFactor": -20.6,
+              "individualFactor": 4.35
             },
             {
               "code": "6146",
@@ -652,8 +652,8 @@
               "change": -18.11,
               "beta": 0.77,
               "r2": 0.77,
-              "themeFactor": -11.14,
-              "individualFactor": -6.97
+              "themeFactor": -11.29,
+              "individualFactor": -6.82
             },
             {
               "code": "285A",
@@ -662,8 +662,8 @@
               "change": -21.17,
               "beta": 1.17,
               "r2": 0.64,
-              "themeFactor": -16.92,
-              "individualFactor": -4.25
+              "themeFactor": -17.19,
+              "individualFactor": -3.98
             },
             {
               "code": "6963",
@@ -672,8 +672,8 @@
               "change": -24.37,
               "beta": 0.93,
               "r2": 0.84,
-              "themeFactor": -13.48,
-              "individualFactor": -10.89
+              "themeFactor": -13.69,
+              "individualFactor": -10.68
             },
             {
               "code": "3436",
@@ -681,14 +681,14 @@
               "price": 2321,
               "change": -34.48,
               "beta": 1.13,
-              "r2": 0.82,
-              "themeFactor": -16.32,
-              "individualFactor": -18.16
+              "r2": 0.83,
+              "themeFactor": -16.58,
+              "individualFactor": -17.89
             }
           ]
         },
         "3M": {
-          "change": -17.47,
+          "change": -17.67,
           "history": [
             100.0,
             99.41,
@@ -733,29 +733,29 @@
             98.34,
             100.75,
             99.1,
-            100.8,
-            102.57,
-            109.25,
-            110.14,
-            113.56,
-            115.18,
+            100.57,
+            102.33,
+            109.0,
+            109.9,
             113.3,
-            110.15,
-            110.27,
-            102.77,
-            101.2,
-            89.26,
-            91.5,
-            89.93,
-            86.86,
-            88.47,
-            82.83,
-            82.3,
-            79.8,
-            83.57,
-            88.5,
-            89.14,
-            82.53
+            114.92,
+            113.04,
+            109.9,
+            110.02,
+            102.53,
+            100.97,
+            89.05,
+            91.28,
+            89.72,
+            86.66,
+            88.27,
+            82.64,
+            82.1,
+            79.62,
+            83.38,
+            88.3,
+            88.94,
+            82.33
           ],
           "stocks": [
             {
@@ -765,8 +765,8 @@
               "change": 20.61,
               "beta": 0.95,
               "r2": 0.7,
-              "themeFactor": -16.63,
-              "individualFactor": 37.24
+              "themeFactor": -16.82,
+              "individualFactor": 37.43
             },
             {
               "code": "4062",
@@ -775,8 +775,8 @@
               "change": -3.67,
               "beta": 1.39,
               "r2": 0.77,
-              "themeFactor": -24.3,
-              "individualFactor": 20.63
+              "themeFactor": -24.59,
+              "individualFactor": 20.92
             },
             {
               "code": "6920",
@@ -785,8 +785,8 @@
               "change": -12.67,
               "beta": 1.07,
               "r2": 0.76,
-              "themeFactor": -18.71,
-              "individualFactor": 6.04
+              "themeFactor": -18.92,
+              "individualFactor": 6.25
             },
             {
               "code": "6890",
@@ -795,8 +795,8 @@
               "change": -14.06,
               "beta": 1.1,
               "r2": 0.83,
-              "themeFactor": -19.28,
-              "individualFactor": 5.22
+              "themeFactor": -19.49,
+              "individualFactor": 5.44
             },
             {
               "code": "6146",
@@ -805,18 +805,18 @@
               "change": -18.36,
               "beta": 0.84,
               "r2": 0.81,
-              "themeFactor": -14.66,
-              "individualFactor": -3.7
+              "themeFactor": -14.82,
+              "individualFactor": -3.54
             },
             {
               "code": "8035",
               "name": "東京エレクトロン",
               "price": 9514,
-              "change": -21.4,
+              "change": -23.52,
               "beta": 0.8,
-              "r2": 0.8,
-              "themeFactor": -14.06,
-              "individualFactor": -7.34
+              "r2": 0.82,
+              "themeFactor": -14.13,
+              "individualFactor": -9.39
             },
             {
               "code": "6963",
@@ -825,8 +825,8 @@
               "change": -23.89,
               "beta": 0.86,
               "r2": 0.87,
-              "themeFactor": -15.07,
-              "individualFactor": -8.82
+              "themeFactor": -15.24,
+              "individualFactor": -8.65
             },
             {
               "code": "6723",
@@ -835,8 +835,8 @@
               "change": -27.06,
               "beta": 0.74,
               "r2": 0.6,
-              "themeFactor": -12.92,
-              "individualFactor": -14.14
+              "themeFactor": -13.07,
+              "individualFactor": -13.99
             },
             {
               "code": "285A",
@@ -844,19 +844,19 @@
               "price": 13470,
               "change": -27.85,
               "beta": 1.33,
-              "r2": 0.73,
-              "themeFactor": -23.31,
-              "individualFactor": -4.55
+              "r2": 0.74,
+              "themeFactor": -23.57,
+              "individualFactor": -4.28
             },
             {
               "code": "7735",
               "name": "SCREEN HD",
               "price": 11375,
               "change": -27.92,
-              "beta": 0.88,
+              "beta": 0.87,
               "r2": 0.74,
-              "themeFactor": -15.29,
-              "individualFactor": -12.63
+              "themeFactor": -15.45,
+              "individualFactor": -12.47
             },
             {
               "code": "3436",
@@ -865,13 +865,13 @@
               "change": -35.92,
               "beta": 1.14,
               "r2": 0.84,
-              "themeFactor": -19.92,
-              "individualFactor": -16.0
+              "themeFactor": -20.15,
+              "individualFactor": -15.78
             }
           ]
         },
         "6M": {
-          "change": 7.57,
+          "change": 7.3,
           "history": [
             100.0,
             101.43,
@@ -979,29 +979,29 @@
             130.65,
             133.9,
             131.41,
-            133.44,
-            135.95,
+            133.12,
+            135.62,
+            144.32,
+            145.53,
+            149.71,
+            151.62,
+            149.22,
+            144.85,
             144.67,
-            145.87,
-            150.06,
-            151.98,
-            149.56,
-            145.18,
-            145.02,
-            134.56,
-            132.36,
-            116.72,
-            119.79,
-            117.76,
-            113.48,
-            115.7,
-            108.05,
-            107.39,
-            104.07,
-            108.97,
-            115.74,
-            116.55,
-            107.57
+            134.24,
+            132.05,
+            116.43,
+            119.5,
+            117.48,
+            113.2,
+            115.42,
+            107.78,
+            107.13,
+            103.82,
+            108.71,
+            115.47,
+            116.28,
+            107.3
           ],
           "stocks": [
             {
@@ -1011,8 +1011,8 @@
               "change": 58.46,
               "beta": 1.35,
               "r2": 0.75,
-              "themeFactor": 10.24,
-              "individualFactor": 48.21
+              "themeFactor": 9.89,
+              "individualFactor": 48.57
             },
             {
               "code": "6857",
@@ -1021,8 +1021,8 @@
               "change": 28.35,
               "beta": 0.85,
               "r2": 0.64,
-              "themeFactor": 6.45,
-              "individualFactor": 21.9
+              "themeFactor": 6.22,
+              "individualFactor": 22.13
             },
             {
               "code": "285A",
@@ -1031,8 +1031,8 @@
               "change": 23.43,
               "beta": 1.36,
               "r2": 0.7,
-              "themeFactor": 10.31,
-              "individualFactor": 13.11
+              "themeFactor": 9.96,
+              "individualFactor": 13.47
             },
             {
               "code": "6890",
@@ -1041,18 +1041,8 @@
               "change": 13.77,
               "beta": 0.98,
               "r2": 0.61,
-              "themeFactor": 7.38,
-              "individualFactor": 6.39
-            },
-            {
-              "code": "8035",
-              "name": "東京エレクトロン",
-              "price": 9514,
-              "change": 7.58,
-              "beta": 0.78,
-              "r2": 0.73,
-              "themeFactor": 5.9,
-              "individualFactor": 1.68
+              "themeFactor": 7.12,
+              "individualFactor": 6.65
             },
             {
               "code": "7735",
@@ -1061,8 +1051,18 @@
               "change": 6.77,
               "beta": 0.85,
               "r2": 0.66,
-              "themeFactor": 6.42,
-              "individualFactor": 0.34
+              "themeFactor": 6.2,
+              "individualFactor": 0.57
+            },
+            {
+              "code": "8035",
+              "name": "東京エレクトロン",
+              "price": 9514,
+              "change": 4.68,
+              "beta": 0.78,
+              "r2": 0.74,
+              "themeFactor": 5.68,
+              "individualFactor": -1.0
             },
             {
               "code": "3436",
@@ -1071,8 +1071,8 @@
               "change": 4.56,
               "beta": 1.17,
               "r2": 0.65,
-              "themeFactor": 8.83,
-              "individualFactor": -4.26
+              "themeFactor": 8.52,
+              "individualFactor": -3.96
             },
             {
               "code": "6963",
@@ -1081,8 +1081,8 @@
               "change": -4.7,
               "beta": 0.86,
               "r2": 0.74,
-              "themeFactor": 6.5,
-              "individualFactor": -11.2
+              "themeFactor": 6.27,
+              "individualFactor": -10.97
             },
             {
               "code": "6723",
@@ -1091,8 +1091,8 @@
               "change": -6.95,
               "beta": 0.74,
               "r2": 0.56,
-              "themeFactor": 5.63,
-              "individualFactor": -12.58
+              "themeFactor": 5.43,
+              "individualFactor": -12.38
             },
             {
               "code": "6920",
@@ -1101,8 +1101,8 @@
               "change": -14.98,
               "beta": 0.93,
               "r2": 0.67,
-              "themeFactor": 7.01,
-              "individualFactor": -21.99
+              "themeFactor": 6.77,
+              "individualFactor": -21.75
             },
             {
               "code": "6146",
@@ -1111,13 +1111,13 @@
               "change": -33.04,
               "beta": 0.82,
               "r2": 0.71,
-              "themeFactor": 6.18,
-              "individualFactor": -39.22
+              "themeFactor": 5.96,
+              "individualFactor": -39.0
             }
           ]
         },
         "12M": {
-          "change": 75.04,
+          "change": 74.67,
           "history": [
             100.0,
             102.02,
@@ -1339,29 +1339,29 @@
             215.71,
             220.94,
             216.24,
-            219.3,
-            223.11,
-            237.16,
-            239.08,
-            245.0,
-            247.29,
-            242.68,
-            236.22,
-            235.27,
-            216.86,
-            213.01,
-            187.87,
-            193.13,
-            190.36,
-            183.53,
-            187.28,
-            174.89,
-            174.14,
-            169.02,
-            176.19,
-            188.48,
-            189.65,
-            175.04
+            218.85,
+            222.65,
+            236.68,
+            238.61,
+            244.5,
+            246.79,
+            242.2,
+            235.74,
+            234.79,
+            216.41,
+            212.58,
+            187.47,
+            192.72,
+            189.96,
+            183.14,
+            186.89,
+            174.52,
+            173.77,
+            168.67,
+            175.83,
+            188.1,
+            189.26,
+            174.67
           ],
           "stocks": [
             {
@@ -1371,8 +1371,8 @@
               "change": 270.73,
               "beta": 1.43,
               "r2": 0.69,
-              "themeFactor": 107.46,
-              "individualFactor": 163.27
+              "themeFactor": 106.94,
+              "individualFactor": 163.79
             },
             {
               "code": "4062",
@@ -1381,8 +1381,8 @@
               "change": 146.61,
               "beta": 1.28,
               "r2": 0.71,
-              "themeFactor": 96.05,
-              "individualFactor": 50.56
+              "themeFactor": 95.59,
+              "individualFactor": 51.02
             },
             {
               "code": "7735",
@@ -1390,9 +1390,9 @@
               "price": 11375,
               "change": 61.89,
               "beta": 0.8,
-              "r2": 0.6,
-              "themeFactor": 60.33,
-              "individualFactor": 1.56
+              "r2": 0.59,
+              "themeFactor": 60.02,
+              "individualFactor": 1.87
             },
             {
               "code": "6723",
@@ -1401,8 +1401,8 @@
               "change": 58.65,
               "beta": 0.76,
               "r2": 0.54,
-              "themeFactor": 56.85,
-              "individualFactor": 1.81
+              "themeFactor": 56.57,
+              "individualFactor": 2.08
             },
             {
               "code": "6890",
@@ -1411,8 +1411,8 @@
               "change": 57.21,
               "beta": 0.86,
               "r2": 0.55,
-              "themeFactor": 64.35,
-              "individualFactor": -7.13
+              "themeFactor": 64.03,
+              "individualFactor": -6.82
             },
             {
               "code": "6857",
@@ -1421,18 +1421,8 @@
               "change": 56.97,
               "beta": 0.9,
               "r2": 0.63,
-              "themeFactor": 67.74,
-              "individualFactor": -10.77
-            },
-            {
-              "code": "8035",
-              "name": "東京エレクトロン",
-              "price": 9514,
-              "change": 50.68,
-              "beta": 0.76,
-              "r2": 0.7,
-              "themeFactor": 57.4,
-              "individualFactor": -6.72
+              "themeFactor": 67.41,
+              "individualFactor": -10.44
             },
             {
               "code": "6963",
@@ -1441,8 +1431,18 @@
               "change": 47.37,
               "beta": 0.72,
               "r2": 0.52,
-              "themeFactor": 53.77,
-              "individualFactor": -6.4
+              "themeFactor": 53.5,
+              "individualFactor": -6.14
+            },
+            {
+              "code": "8035",
+              "name": "東京エレクトロン",
+              "price": 9514,
+              "change": 46.62,
+              "beta": 0.76,
+              "r2": 0.71,
+              "themeFactor": 57.05,
+              "individualFactor": -10.42
             },
             {
               "code": "3436",
@@ -1451,8 +1451,8 @@
               "change": 45.63,
               "beta": 1.02,
               "r2": 0.54,
-              "themeFactor": 76.26,
-              "individualFactor": -30.63
+              "themeFactor": 75.89,
+              "individualFactor": -30.26
             },
             {
               "code": "6920",
@@ -1461,8 +1461,8 @@
               "change": 33.04,
               "beta": 0.92,
               "r2": 0.64,
-              "themeFactor": 69.36,
-              "individualFactor": -36.32
+              "themeFactor": 69.02,
+              "individualFactor": -35.98
             },
             {
               "code": "6146",
@@ -1471,8 +1471,8 @@
               "change": -3.41,
               "beta": 0.85,
               "r2": 0.67,
-              "themeFactor": 63.49,
-              "individualFactor": -66.9
+              "themeFactor": 63.16,
+              "individualFactor": -66.58
             }
           ]
         }
@@ -17739,7 +17739,7 @@
             118.89,
             117.7,
             117.98,
-            117.81,
+            117.8,
             117.37,
             116.91,
             119.53,
